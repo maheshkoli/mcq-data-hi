@@ -2,8 +2,11 @@
     "status": true,
     "year": "2026",
     "month": "7",
-    "total": 9,
+    "total": 10,
     "data": [
+        {
+            "day": 22
+        },
         {
             "day": 23
         },
