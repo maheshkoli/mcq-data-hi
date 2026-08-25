@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "25-08-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which specific goal does the newly launched Mobile Phone Manufacturing Scheme (MPMS) prioritize for the domestic electronics sector?",
+            "options": [
+                "Scaling up handset production and deepening local value addition",
+                "Universal digitalization of rural education",
+                "Providing direct consumer subsidies for mobile devices",
+                "Exporting telecommunication hardware to BRICS nations only"
+            ],
+            "correct_answer": "Scaling up handset production and deepening local value addition",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "What is the primary theme under which India organized the BRICS ICT Track in Pune, Maharashtra?",
+            "options": [
+                "Digital Inclusion and Artificial Intelligence Ethics",
+                "Innovate, Cooperate and Transform (ICT) for a Resilient Future",
+                "Sustainable Development through Emerging Technologies",
+                "Connectivity, Security and Global Harmony"
+            ],
+            "correct_answer": "Innovate, Cooperate and Transform (ICT) for a Resilient Future",
+            "answer_no": 2
+        },
+        {
+            "question_no": 3,
+            "question": "Which official initiative was introduced during the BRICS Youth Ministers' Meeting in Visakhapatnam to engage the diaspora?",
+            "options": [
+                "Overseas Indian Connect",
+                "Digital Heritage Network",
+                "Global Youth Bridge",
+                "Friends of MY Bharat"
+            ],
+            "correct_answer": "Friends of MY Bharat",
+            "answer_no": 4
+        },
+        {
+            "question_no": 4,
+            "question": "Regarding the recently signed LAToT agreements by DRDO's NSTL, what is the significance of the technology transferred to Vertex Engineering Systems?",
+            "options": [
+                "Development of underwater acoustic sensors",
+                "Manufacture of lightweight body armor",
+                "Production of unmanned aerial stealth vehicles",
+                "Fabrication and installation of LM2500 Gas Turbines"
+            ],
+            "correct_answer": "Fabrication and installation of LM2500 Gas Turbines",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "What is the central vision discussed at the 3rd IIMA Healthcare Summit regarding India's status?",
+            "options": [
+                "Transitioning from 'Pharmacy of the World' to 'Laboratory of the World'",
+                "Eliminating rural healthcare gaps through drone technology",
+                "Achieving global medical tourism leadership by 2030",
+                "Replacing conventional pharmaceutical supply chains with AI-based bots"
+            ],
+            "correct_answer": "Transitioning from 'Pharmacy of the World' to 'Laboratory of the World'",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "The Terrier Cyber Quest 2026 hackathon, launched by the Territorial Army, focuses on which key technological domains?",
+            "options": [
+                "Space-based communication and satellite hacking",
+                "Financial cryptography and banking security",
+                "AI, cybersecurity, and information-domain challenges",
+                "Bio-medical engineering for field hospitals"
+            ],
+            "correct_answer": "AI, cybersecurity, and information-domain challenges",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "What groundbreaking development did the NBSS&LUP announce regarding Indian soil management?",
+            "options": [
+                "Establishment of regional soil conservation banks in all states",
+                "First-ever national Soil Texture Map using AI and remote sensing",
+                "Nationwide installation of AI-powered soil sensors",
+                "Development of a low-cost, salt-resistant seed variety"
+            ],
+            "correct_answer": "First-ever national Soil Texture Map using AI and remote sensing",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "Under the new NSDC and AWS skilling initiative, who is the designated delivery partner for the online training programs?",
+            "options": [
+                "Infosys Springboard",
+                "Skill India Digital Portal",
+                "Tech Mahindra Foundation",
+                "Cultus Education"
+            ],
+            "correct_answer": "Cultus Education",
+            "answer_no": 4
+        },
+        {
+            "question_no": 9,
+            "question": "The World Health Organization confirmed the closure of poliovirus type 2 outbreaks in five African countries after which specialized assessment process?",
+            "options": [
+                "African Surveillance Performance Metric",
+                "Global Immunization Compliance Audit",
+                "Regional Pathogen Containment Review",
+                "Independent Outbreak Response Assessment (OBRA)"
+            ],
+            "correct_answer": "Independent Outbreak Response Assessment (OBRA)",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "VinFast India's partnership with Federal Bank is designed specifically to assist which group in their business operations?",
+            "options": [
+                "Authorised Dealer network",
+                "Charging station manufacturers",
+                "Retail electric vehicle buyers",
+                "Logistics and transport companies"
+            ],
+            "correct_answer": "Authorised Dealer network",
+            "answer_no": 1
+        },
+        {
+            "question_no": 11,
+            "question": "The newly signed MoU between PNB and the Indian Army introduces a specialized credit card designed for Junior Commissioned Officers. Which feature highlights the eco-conscious focus?",
+            "options": [
+                "Bio-degradable material construction for the card",
+                "Integration with government health apps",
+                "Paperless statement billing only",
+                "Donation of 1% transaction fees to environmental NGOs"
+            ],
+            "correct_answer": "Bio-degradable material construction for the card",
+            "answer_no": 1
+        },
+        {
+            "question_no": 12,
+            "question": "Which prestigious literary recognition was recently bestowed upon poet Ashutosh Parida for his work 'Bishwas De Pruthwi'?",
+            "options": [
+                "Odisha State Cultural Award",
+                "Sahitya Akademi Annual Prize",
+                "47th Sarala Puraskar",
+                "IMPaCT Excellence in Letters"
+            ],
+            "correct_answer": "47th Sarala Puraskar",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "Who were the three newly appointed part-time, non-official directors to the RBI Central Board in August 2026?",
+            "options": [
+                "Deepak Mohanty, Rajiv Kumar, and Krishnamurthy Subramanian",
+                "Annie George Mathew, Janmejaya Kumar Sinha, and Syed Akbaruddin",
+                "Sanjay Malhotra, T.V. Somanathan, and Bibek Debroy",
+                "Shaktikanta Das, Ajay Seth, and V. Anantha Nageswaran"
+            ],
+            "correct_answer": "Annie George Mathew, Janmejaya Kumar Sinha, and Syed Akbaruddin",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "What is notable about Sophie Adenot's recent mission as a French astronaut?",
+            "options": [
+                "She successfully landed on the moon's far side",
+                "She directed the first cinematic film shot on the ISS",
+                "She is the first French woman to perform a spacewalk",
+                "She led the first all-female repair mission to the Mars orbit"
+            ],
+            "correct_answer": "She is the first French woman to perform a spacewalk",
+            "answer_no": 3
+        },
+        {
+            "question_no": 15,
+            "question": "Which sporting duo secured a bronze medal for India at the 2026 BWF World Championships held in New Delhi?",
+            "options": [
+                "Saina Nehwal and Kidambi Srikanth",
+                "PV Sindhu and Lakshya Sen",
+                "Treesa Jolly and Gayatri Gopichand",
+                "Ashwini Ponnappa and Satwiksairaj Rankireddy"
+            ],
+            "correct_answer": "Treesa Jolly and Gayatri Gopichand",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "Where was the 135th edition of the historic Durand Cup football final hosted?",
+            "options": [
+                "Salt Lake Stadium, Bangalore",
+                "Vivekananda Yuba Bharati Krirangan, Kolkata",
+                "Indira Gandhi Athletic Stadium, Guwahati",
+                "Jawaharlal Nehru Stadium, New Delhi"
+            ],
+            "correct_answer": "Vivekananda Yuba Bharati Krirangan, Kolkata",
+            "answer_no": 2
+        },
+        {
+            "question_no": 17,
+            "question": "What was the overarching theme for India's 2026 National Space Day?",
+            "options": [
+                "Mission Moon: Sustaining Human Presence",
+                "Space for Prosperity and Environmental Stability",
+                "Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership",
+                "Charting the Stars: India's Path to 2047"
+            ],
+            "correct_answer": "Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "Maharashtra signed an MoU with which German state to promote innovation, skills, and industrial growth?",
+            "options": [
+                "Berlin",
+                "Hesse",
+                "North Rhine-Westphalia",
+                "Bavaria"
+            ],
+            "correct_answer": "Hesse",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "Under the National Horticulture Board's revised guidelines, what is the new subsidy structure for beneficiaries in general-category states?",
+            "options": [
+                "Reduced from 50% to 35% of eligible project cost",
+                "Eliminated entirely to encourage private financing",
+                "Remained at 50% but with stricter auditing",
+                "Increased to 60% for small-scale farmers"
+            ],
+            "correct_answer": "Reduced from 50% to 35% of eligible project cost",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "What primary strategic factor did India consider while shifting its approach to engagement with the Taliban in Afghanistan?",
+            "options": [
+                "Securing permanent control over Kabul’s administrative buildings",
+                "Converting the Kabul mission into a permanent military base",
+                "Ensuring long-term ideological unity with the new regime",
+                "Increasing competition with Pakistan and China in the region"
+            ],
+            "correct_answer": "Increasing competition with Pakistan and China in the region",
+            "answer_no": 4
+        }
+    ]
+}
