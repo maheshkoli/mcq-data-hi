@@ -5,91 +5,91 @@
     "data": [
         {
             "question_no": 1,
-            "question": "कौन सा विशिष्ट स्थान पीएम मोदी द्वारा नव उद्घाटन की गई 'परम प्रज्ञा' सुपरकंप्यूटिंग सुविधा की मेजबानी करता है?",
+            "question": "Which specific location hosts the newly inaugurated 'Param Pragya' supercomputing facility by PM Modi?",
             "options": [
-                "आईआईटी दिल्ली का टेक्नोलॉजी पार्क",
-                "आईआईटी दिल्ली का सोनीपत परिसर",
-                "आईआईटी दिल्ली का इनक्यूबेशन सेंटर",
-                "आईआईटी दिल्ली का मुख्य परिसर"
+                "IIT Delhi’s Technology Park",
+                "IIT Delhi’s Sonipat campus",
+                "IIT Delhi’s incubation center",
+                "IIT Delhi’s main campus"
             ],
-            "correct_answer": "आईआईटी दिल्ली का सोनीपत परिसर",
+            "correct_answer": "IIT Delhi’s Sonipat campus",
             "answer_no": 2
         },
         {
             "question_no": 2,
-            "question": "डॉ. जितेंद्र सिंह द्वारा शुरू किए गए 'प्रकृति ज्ञान धाम' के संबंध में, कौन सा संस्थान इस परियोजना का प्राथमिक वास्तुकार था?",
+            "question": "Regarding the 'Prakriti Gyan Dham' launched by Dr. Jitendra Singh, which institute was the primary architect of this project?",
             "options": [
-                "राष्ट्रीय पर्यावरण इंजीनियरिंग अनुसंधान संस्थान (नीरी)",
-                "भारतीय वनस्पति सर्वेक्षण (बीएसआई)",
-                "भारतीय विज्ञान संस्थान (आईआईएससी)",
-                "वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद-राष्ट्रीय वनस्पति अनुसंधान संस्थान (सीएसआईआर-एनबीआरआई)"
+                "National Environmental Engineering Research Institute (NEERI)",
+                "Botanical Survey of India (BSI)",
+                "Indian Institute of Science (IISc)",
+                "Council of Scientific and Industrial Research-National Botanical Research Institute (CSIR-NBRI)"
             ],
-            "correct_answer": "वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद-राष्ट्रीय वनस्पति अनुसंधान संस्थान (सीएसआईआर-एनबीआरआई)",
+            "correct_answer": "Council of Scientific and Industrial Research-National Botanical Research Institute (CSIR-NBRI)",
             "answer_no": 4
         },
         {
             "question_no": 3,
-            "question": "पुडुचेरी में अमित शाह ने 'हर घर तिरंगा यात्रा' को दिखाई हरी झंडी; ",
+            "question": "The 'Har Ghar Tiranga Yatra' was flagged off in Puducherry by Amit Shah; what special historic milestone is this campaign emphasizing this year?",
             "options": [
-                "भारतीय स्वतंत्रता अधिनियम के 100 वर्ष",
-                "भारतीय गणतंत्र के 75 वर्ष",
-                "'वंदे मातरम' के 150 साल",
-                "नमक सत्याग्रह के 100 वर्ष"
+                "100 years of the Indian Independence Act",
+                "75 years of the Republic of India",
+                "150 years of 'Vande Mataram'",
+                "100 years of the Salt Satyagraha"
             ],
-            "correct_answer": "'वंदे मातरम' के 150 साल",
+            "correct_answer": "150 years of 'Vande Mataram'",
             "answer_no": 3
         },
         {
             "question_no": 4,
-            "question": "कोच्चि में आयोजित IN-US नेवी विस्फोटक आयुध निपटान अभ्यास के 8वें संस्करण का प्राथमिक उद्देश्य क्या है?",
+            "question": "What is the primary objective of the 8th Edition of the IN–US Navy Explosive Ordnance Disposal Exercise held in Kochi?",
             "options": [
-                "उन्नत विमान वाहक का परीक्षण करना",
-                "विशेषज्ञ गोताखोरी और ईओडी टीमों के बीच सहयोग को मजबूत करना",
-                "संयुक्त समुद्री निगरानी अभियान चलाना",
-                "सीमा पार व्यापार मार्ग सुरक्षा की सुविधा प्रदान करना"
+                "To test advanced aircraft carriers",
+                "To strengthen cooperation between specialist diving and EOD teams",
+                "To conduct joint maritime surveillance operations",
+                "To facilitate cross-border trade route protection"
             ],
-            "correct_answer": "विशेषज्ञ गोताखोरी और ईओडी टीमों के बीच सहयोग को मजबूत करना",
+            "correct_answer": "To strengthen cooperation between specialist diving and EOD teams",
             "answer_no": 2
         },
         {
             "question_no": 5,
-            "question": "निम्नलिखित में से किस संगठन ने भारतीय स्टार्टअप पारिस्थितिकी तंत्र को मजबूत करने के लिए DPIIT के साथ एक समझौता ज्ञापन पर हस्ताक्षर नहीं किया है?",
+            "question": "Which of the following organizations has NOT signed an MoU with DPIIT to bolster the Indian startup ecosystem?",
             "options": [
-                "कैशफ्री भुगतान",
-                "कारें24",
-                "इन्फोसिस टेक्नोलॉजीज",
-                "डार्विन डायनेमिक्स"
+                "Cashfree Payments",
+                "Cars24",
+                "Infosys Technologies",
+                "Darwin Dynamics"
             ],
-            "correct_answer": "इन्फोसिस टेक्नोलॉजीज",
+            "correct_answer": "Infosys Technologies",
             "answer_no": 3
         },
         {
             "question_no": 6,
-            "question": "ऑस्ट्रेलिया जाने वाले छात्रों को 'एएईआरआई वेरिफाई' प्लेटफॉर्म कौन सा प्राथमिक परिचालन लाभ प्रदान करता है?",
+            "question": "What primary operational benefit does the 'AAERI Verify' platform offer to students moving to Australia?",
             "options": [
-                "डिजीलॉकर के माध्यम से सुव्यवस्थित दस्तावेज़ सत्यापन",
-                "विश्वविद्यालय की ट्यूशन फीस कम की गई",
-                "स्वचालित छात्र वीज़ा जारी करना",
-                "गारंटीशुदा कार्य स्नातकोत्तर की अनुमति देता है"
+                "Streamlined document verification through DigiLocker",
+                "Reduced university tuition fees",
+                "Automatic student visa issuance",
+                "Guaranteed work permits post-graduation"
             ],
-            "correct_answer": "डिजीलॉकर के माध्यम से सुव्यवस्थित दस्तावेज़ सत्यापन",
+            "correct_answer": "Streamlined document verification through DigiLocker",
             "answer_no": 1
         },
         {
             "question_no": 7,
-            "question": "सीसीआरएएस और बीआईएस के बीच हालिया समझौता ज्ञापन एक ऐतिहासिक कदम है; ",
+            "question": "The recent MoU between CCRAS and BIS is a landmark move; what was notable about this specific agreement?",
             "options": [
-                "यह मौजूदा आयुष मंत्रालय निरीक्षण समिति का स्थान लेता है",
-                "यह बीआईएस द्वारा हस्ताक्षरित 500वां समझौता ज्ञापन है",
-                "इसमें सभी आयुर्वेदिक दवाओं को बीआईएस अनुमोदन के बाद ही निर्यात करने का आदेश दिया गया है",
-                "यह किसी आयुष संगठन के साथ बीआईएस द्वारा हस्ताक्षरित पहला समझौता ज्ञापन है"
+                "It replaces the existing Ministry of AYUSH oversight committee",
+                "It is the 500th MoU signed by the BIS",
+                "It mandates all Ayurvedic medicines to be exported only after BIS approval",
+                "It is the first-ever MoU signed by BIS with an AYUSH organization"
             ],
-            "correct_answer": "यह किसी आयुष संगठन के साथ बीआईएस द्वारा हस्ताक्षरित पहला समझौता ज्ञापन है",
+            "correct_answer": "It is the first-ever MoU signed by BIS with an AYUSH organization",
             "answer_no": 4
         },
         {
             "question_no": 8,
-            "question": "पेशेवर पूर्वानुमानकर्ताओं के 101वें सर्वेक्षण के आधार पर, FY27 के लिए सकल घरेलू उत्पाद की वृद्धि का अनुमान क्या लगाया गया था?",
+            "question": "Based on the 101st Survey of Professional Forecasters, what GDP growth projection was made for FY27?",
             "options": [
                 "7.0%",
                 "6.5%",
@@ -101,31 +101,31 @@
         },
         {
             "question_no": 9,
-            "question": "'ईज़ीडाइनर इंडसइंड बैंक प्लैटिनम रुपे क्रेडिट कार्ड' आजीवन-मुक्त होने और इसके एकीकरण के लिए उल्लेखनीय है?",
+            "question": "The 'EazyDiner IndusInd Bank Platinum RuPay Credit Card' is notable for being lifetime-free and its integration with what?",
             "options": [
-                "एकीकृत भुगतान इंटरफ़ेस (UPI)",
-                "आधार-सक्षम भुगतान प्रणालियाँ",
-                "नेशनल कॉमन मोबिलिटी कार्ड (एनसीएमसी)",
-                "प्रत्यक्ष लाभ अंतरण (डीबीटी)"
+                "Unified Payments Interface (UPI)",
+                "Aadhar-enabled payment systems",
+                "National Common Mobility Card (NCMC)",
+                "Direct Benefit Transfer (DBT)"
             ],
-            "correct_answer": "एकीकृत भुगतान इंटरफ़ेस (UPI)",
+            "correct_answer": "Unified Payments Interface (UPI)",
             "answer_no": 1
         },
         {
             "question_no": 10,
-            "question": "इंडेल रेमिट को किस विशिष्ट श्रेणी की सेवाएँ प्रदान करने के लिए RBI से स्थायी लाइसेंस प्राप्त हुआ है?",
+            "question": "Indel Remit has received a perpetual license from the RBI to offer which specific category of services?",
             "options": [
-                "कृषि ऋण वितरण",
-                "खुदरा सोने की बिक्री",
-                "व्यक्तिगत ऋण प्रसंस्करण",
-                "व्यापार प्रेषण सेवाएँ"
+                "Agricultural credit distribution",
+                "Retail gold sales",
+                "Personal loan processing",
+                "Trade remittance services"
             ],
-            "correct_answer": "व्यापार प्रेषण सेवाएँ",
+            "correct_answer": "Trade remittance services",
             "answer_no": 4
         },
         {
             "question_no": 11,
-            "question": "कैबिनेट की नियुक्ति समिति ने हाल ही में ईडी निदेशक राहुल नवीन का कार्यकाल किस वर्ष तक बढ़ा दिया है?",
+            "question": "The Appointments Committee of the Cabinet recently extended the tenure of ED Director Rahul Navin until which year?",
             "options": [
                 "2029",
                 "2027",
@@ -137,79 +137,79 @@
         },
         {
             "question_no": 12,
-            "question": "एस्ट्रोबेस स्पेस टेक्नोलॉजीज का 'एवरेस्ट' इंजन किस जटिल तकनीक का उपयोग करने वाला भारत का पहला निजी रॉकेट इंजन है?",
+            "question": "Astrobase Space Technologies’ 'EVEREST' engine is the first private rocket engine in India to use which complex technology?",
             "options": [
-                "पूर्ण-प्रवाह चरणबद्ध दहन (एफएफएससी)",
-                "तरल हाइड्रोजन/ऑक्सीजन कोर",
-                "ठोस ईंधन रॉकेट मोटर",
-                "हाइब्रिड रॉकेट प्रणोदन"
+                "Full-Flow Staged Combustion (FFSC)",
+                "Liquid Hydrogen/Oxygen core",
+                "Solid fuel rocket motor",
+                "Hybrid rocket propulsion"
             ],
-            "correct_answer": "पूर्ण-प्रवाह चरणबद्ध दहन (एफएफएससी)",
+            "correct_answer": "Full-Flow Staged Combustion (FFSC)",
             "answer_no": 1
         },
         {
             "question_no": 13,
-            "question": "2026 एशियाई एरोबिक जिम्नास्टिक चैंपियनशिप में, अरिहा पंगंबम ने भारत के लिए इतिहास रचा। ",
+            "question": "At the 2026 Asian Aerobic Gymnastics Championships, Ariha Pangambam made history for India. Which state does she represent?",
             "options": [
-                "असम",
-                "केरल",
-                "मणिपुर",
-                "नगालैंड"
+                "Assam",
+                "Kerala",
+                "Manipur",
+                "Nagaland"
             ],
-            "correct_answer": "मणिपुर",
+            "correct_answer": "Manipur",
             "answer_no": 3
         },
         {
             "question_no": 14,
-            "question": "विश्व जैव ईंधन दिवस के संबंध में 10 अगस्त का ऐतिहासिक महत्व क्या है?",
+            "question": "What is the historical significance of August 10th in relation to World Biofuel Day?",
             "options": [
-                "यह वह दिन है जब भारत ने जलवायु परिवर्तन पर पेरिस समझौते पर हस्ताक्षर किये थे",
-                "यह अंतर्राष्ट्रीय ऊर्जा एजेंसी का स्थापना दिवस है",
-                "यह रुडोल्फ डीजल के मूंगफली-तेल चालित इंजन प्रदर्शन का स्मरण कराता है",
-                "यह भारत में पहली जैव ईंधन रिफाइनरी की वर्षगांठ का प्रतीक है"
+                "It is the date India signed the Paris Agreement on climate change",
+                "It is the founding day of the International Energy Agency",
+                "It commemorates Rudolf Diesel’s peanut-oil powered engine demonstration",
+                "It marks the anniversary of the first biofuel refinery in India"
             ],
-            "correct_answer": "यह रुडोल्फ डीजल के मूंगफली-तेल चालित इंजन प्रदर्शन का स्मरण कराता है",
+            "correct_answer": "It commemorates Rudolf Diesel’s peanut-oil powered engine demonstration",
             "answer_no": 3
         },
         {
             "question_no": 15,
-            "question": "BOOT मॉडल गुजरात में प्रमुख बुनियादी ढांचे के विकास के लिए केंद्रीय है। ",
+            "question": "The BOOT model is central to the development of major infrastructure in Gujarat. What does BOOT stand for?",
             "options": [
-                "निर्माण-स्वामित्व-संचालन-स्थानांतरण",
-                "बोली-स्वामित्व-संचालन-हस्तांतरण",
-                "बिल्ड-ऑपरेट-ओन-ट्रांसफर",
-                "बिल्ड-ऑफलोड-ऑपरेट-ट्रांसफर"
+                "Build-Own-Operate-Transfer",
+                "Bid-Own-Operate-Transfer",
+                "Build-Operate-Own-Transfer",
+                "Build-Offload-Operate-Transfer"
             ],
-            "correct_answer": "निर्माण-स्वामित्व-संचालन-स्थानांतरण",
+            "correct_answer": "Build-Own-Operate-Transfer",
             "answer_no": 1
         },
         {
             "question_no": 16,
-            "question": "भारतीय संविधान का कौन सा अनुच्छेद प्रत्येक जनगणना के बाद निर्वाचन क्षेत्र की सीमाओं के पुनर्समायोजन का आदेश देता है?",
+            "question": "Which article of the Indian Constitution mandates the readjustment of constituency boundaries following every Census?",
             "options": [
-                "अनुच्छेद 81",
-                "अनुच्छेद 82",
-                "अनुच्छेद 80",
-                "अनुच्छेद 83"
+                "Article 81",
+                "Article 82",
+                "Article 80",
+                "Article 83"
             ],
-            "correct_answer": "अनुच्छेद 82",
+            "correct_answer": "Article 82",
             "answer_no": 2
         },
         {
             "question_no": 17,
-            "question": "परिसीमन बहस के संदर्भ में गेरीमांडरिंग को लोकतांत्रिक प्रक्रिया के लिए खतरा क्यों माना जाता है?",
+            "question": "Why is gerrymandering considered a threat to the democratic process in the context of the delimitation debate?",
             "options": [
-                "क्योंकि यह स्वतंत्र उम्मीदवारों के चुनाव लड़ने के अधिकार को प्रतिबंधित करता है",
-                "क्योंकि इससे कुल सीटों की संख्या बढ़ जाती है",
-                "क्योंकि यह विशिष्ट मतदाता आधारों को केंद्रित या कमजोर करके चुनावी परिणामों में हेरफेर करता है",
-                "क्योंकि यह सांसदों के लिए पात्रता मानदंड को बदल देता है"
+                "Because it restricts the right of independent candidates to run",
+                "Because it increases the overall number of seats",
+                "Because it manipulates electoral outcomes by concentrating or diluting specific voter bases",
+                "Because it changes the eligibility criteria for MPs"
             ],
-            "correct_answer": "क्योंकि यह विशिष्ट मतदाता आधारों को केंद्रित या कमजोर करके चुनावी परिणामों में हेरफेर करता है",
+            "correct_answer": "Because it manipulates electoral outcomes by concentrating or diluting specific voter bases",
             "answer_no": 3
         },
         {
             "question_no": 18,
-            "question": "बैंकर्स बुक्स एविडेंस बिल 2026 किस वर्ष से औपनिवेशिक युग के अधिनियम को अद्यतन करना चाहता है?",
+            "question": "The Bankers’ Books Evidence Bill 2026 seeks to update a colonial-era Act from which year?",
             "options": [
                 "1891",
                 "1860",
@@ -221,26 +221,26 @@
         },
         {
             "question_no": 19,
-            "question": "बैंकर्स बुक्स एविडेंस बिल के संदर्भ में, 'विशेष कारण' शब्द अब औपचारिक रूप से क्या संदर्भित करता है?",
+            "question": "In the context of the Bankers' Books Evidence Bill, what does the term 'special cause' now formally refer to?",
             "options": [
-                "बैंक को हुआ कुल वित्तीय घाटा",
-                "भौतिक बैंक अधिकारियों को अदालत में गवाही देने की आवश्यकता का औचित्य",
-                "बैंक शाखा बंद करने की अनुमोदन प्रक्रिया",
-                "अपतटीय बैंक खातों के लिए ऑडिट आवश्यकता"
+                "The total financial loss incurred by the bank",
+                "The justification for requiring physical bank officers to testify in court",
+                "The approval process for closing a bank branch",
+                "The audit requirement for offshore bank accounts"
             ],
-            "correct_answer": "भौतिक बैंक अधिकारियों को अदालत में गवाही देने की आवश्यकता का औचित्य",
+            "correct_answer": "The justification for requiring physical bank officers to testify in court",
             "answer_no": 2
         },
         {
             "question_no": 20,
-            "question": "विशेषज्ञों ने नए साक्ष्य विधेयक द्वारा बैंक शाखा प्रमुखों पर लगाए गए प्रमाणन बोझ के बारे में चिंता क्यों जताई है?",
+            "question": "Why have experts raised concerns about the certification burden imposed on bank branch heads by the new Evidence Bill?",
             "options": [
-                "वे कानूनी तौर पर सर्वर रूम लॉग तक पहुंचने से प्रतिबंधित हैं",
-                "उन्हें कार्य के लिए अतिरिक्त मुआवजा मिलता है",
-                "वे पहले से ही आरबीआई दिशानिर्देशों के तहत यह कर्तव्य निभाते हैं",
-                "उनके पास साइबर सुरक्षा स्थिति को सत्यापित करने के लिए केंद्रीकृत डेटा केंद्रों के संबंध में तकनीकी गहराई का अभाव है"
+                "They are legally restricted from accessing server room logs",
+                "They receive extra compensation for the task",
+                "They already perform this duty under the RBI guidelines",
+                "They lack the technical depth regarding centralized data centers to verify cybersecurity status"
             ],
-            "correct_answer": "उनके पास साइबर सुरक्षा स्थिति को सत्यापित करने के लिए केंद्रीकृत डेटा केंद्रों के संबंध में तकनीकी गहराई का अभाव है",
+            "correct_answer": "They lack the technical depth regarding centralized data centers to verify cybersecurity status",
             "answer_no": 4
         }
     ]
