@@ -5,98 +5,98 @@
     "data": [
         {
             "question_no": 1,
-            "question": "Which specific goal does the newly launched Mobile Phone Manufacturing Scheme (MPMS) prioritize for the domestic electronics sector?",
+            "question": "हाल ही में लॉन्च की गई मोबाइल फोन मैन्युफैक्चरिंग स्कीम (MPMs) घरेलू इलेक्ट्रॉनिक्स क्षेत्र के लिए किस विशिष्ट लक्ष्य को प्राथमिकता देती है?",
             "options": [
-                "Scaling up handset production and deepening local value addition",
-                "Universal digitalization of rural education",
-                "Providing direct consumer subsidies for mobile devices",
-                "Exporting telecommunication hardware to BRICS nations only"
+                "हैंडसेट उत्पादन को बढ़ाना और स्थानीय मूल्य संवर्धन को गहरा करना",
+                "ग्रामीण शिक्षा का सार्वभौमिक डिजिटलीकरण",
+                "मोबाइल उपकरणों के लिए प्रत्यक्ष उपभोक्ता सब्सिडी प्रदान करना",
+                "केवल ब्रिक्स देशों को दूरसंचार हार्डवेयर निर्यात करना"
             ],
-            "correct_answer": "Scaling up handset production and deepening local value addition",
+            "correct_answer": "हैंडसेट उत्पादन को बढ़ाना और स्थानीय मूल्य संवर्धन को गहरा करना",
             "answer_no": 1
         },
         {
             "question_no": 2,
-            "question": "What is the primary theme under which India organized the BRICS ICT Track in Pune, Maharashtra?",
+            "question": "वह प्राथमिक विषय क्या है जिसके तहत भारत ने पुणे, महाराष्ट्र में ब्रिक्स आईसीटी ट्रैक का आयोजन किया था?",
             "options": [
-                "Digital Inclusion and Artificial Intelligence Ethics",
-                "Innovate, Cooperate and Transform (ICT) for a Resilient Future",
-                "Sustainable Development through Emerging Technologies",
-                "Connectivity, Security and Global Harmony"
+                "डिजिटल समावेशन और आर्टिफिशियल इंटेलिजेंस नैतिकता",
+                "लचीले भविष्य के लिए नवाचार, सहयोग और परिवर्तन (आईसीटी)",
+                "उभरती प्रौद्योगिकियों के माध्यम से सतत विकास",
+                "कनेक्टिविटी, सुरक्षा और वैश्विक सद्भाव"
             ],
-            "correct_answer": "Innovate, Cooperate and Transform (ICT) for a Resilient Future",
+            "correct_answer": "लचीले भविष्य के लिए नवाचार, सहयोग और परिवर्तन (आईसीटी)",
             "answer_no": 2
         },
         {
             "question_no": 3,
-            "question": "Which official initiative was introduced during the BRICS Youth Ministers' Meeting in Visakhapatnam to engage the diaspora?",
+            "question": "प्रवासी भारतीयों को शामिल करने के लिए विशाखापत्तनम में ब्रिक्स युवा मंत्रियों की बैठक के दौरान किस आधिकारिक पहल की शुरुआत की गई थी?",
             "options": [
-                "Overseas Indian Connect",
-                "Digital Heritage Network",
-                "Global Youth Bridge",
-                "Friends of MY Bharat"
+                "ओवरसीज इंडियन कनेक्ट",
+                "डिजिटल हेरिटेज नेटवर्क",
+                "ग्लोबल यूथ ब्रिज",
+                "मेरे भारत के दोस्त"
             ],
-            "correct_answer": "Friends of MY Bharat",
+            "correct_answer": "मेरे भारत के दोस्त",
             "answer_no": 4
         },
         {
             "question_no": 4,
-            "question": "Regarding the recently signed LAToT agreements by DRDO's NSTL, what is the significance of the technology transferred to Vertex Engineering Systems?",
+            "question": "डीआरडीओ के एनएसटीएल द्वारा हाल ही में हस्ताक्षरित एलएटीओटी समझौतों के संबंध में, वर्टेक्स इंजीनियरिंग सिस्टम को हस्तांतरित प्रौद्योगिकी का क्या महत्व है?",
             "options": [
-                "Development of underwater acoustic sensors",
-                "Manufacture of lightweight body armor",
-                "Production of unmanned aerial stealth vehicles",
-                "Fabrication and installation of LM2500 Gas Turbines"
+                "पानी के नीचे ध्वनिक सेंसर का विकास",
+                "हल्के शरीर कवच का निर्माण",
+                "मानव रहित हवाई स्टील्थ वाहनों का उत्पादन",
+                "एलएम2500 गैस टर्बाइन का निर्माण और स्थापना"
             ],
-            "correct_answer": "Fabrication and installation of LM2500 Gas Turbines",
+            "correct_answer": "एलएम2500 गैस टर्बाइन का निर्माण और स्थापना",
             "answer_no": 4
         },
         {
             "question_no": 5,
-            "question": "What is the central vision discussed at the 3rd IIMA Healthcare Summit regarding India's status?",
+            "question": "भारत की स्थिति के संबंध में तीसरे आईआईएमए हेल्थकेयर शिखर सम्मेलन में चर्चा की गई केंद्रीय दृष्टि क्या है?",
             "options": [
-                "Transitioning from 'Pharmacy of the World' to 'Laboratory of the World'",
-                "Eliminating rural healthcare gaps through drone technology",
-                "Achieving global medical tourism leadership by 2030",
-                "Replacing conventional pharmaceutical supply chains with AI-based bots"
+                "'दुनिया की फार्मेसी' से 'दुनिया की प्रयोगशाला' में संक्रमण",
+                "ड्रोन तकनीक के माध्यम से ग्रामीण स्वास्थ्य देखभाल अंतराल को खत्म करना",
+                "2030 तक वैश्विक चिकित्सा पर्यटन नेतृत्व हासिल करना",
+                "पारंपरिक फार्मास्युटिकल सप्लाई चेन को AI - आधारित बॉट्स से बदलना"
             ],
-            "correct_answer": "Transitioning from 'Pharmacy of the World' to 'Laboratory of the World'",
+            "correct_answer": "'दुनिया की फार्मेसी' से 'दुनिया की प्रयोगशाला' में संक्रमण",
             "answer_no": 1
         },
         {
             "question_no": 6,
-            "question": "The Terrier Cyber Quest 2026 hackathon, launched by the Territorial Army, focuses on which key technological domains?",
+            "question": "प्रादेशिक सेना द्वारा लॉन्च किया गया टेरियर साइबर क्वेस्ट 2026 हैकथॉन, किन प्रमुख तकनीकी डोमेन पर केंद्रित है?",
             "options": [
-                "Space-based communication and satellite hacking",
-                "Financial cryptography and banking security",
-                "AI, cybersecurity, and information-domain challenges",
-                "Bio-medical engineering for field hospitals"
+                "अंतरिक्ष - आधारित संचार और उपग्रह हैकिंग",
+                "वित्तीय क्रिप्टोग्राफ़ी और बैंकिंग सुरक्षा",
+                "AI, साइबर सिक्योरिटी और जानकारी - डोमेन से जुड़ी चुनौतियाँ",
+                "फील्ड अस्पतालों के लिए जैव - चिकित्सा इंजीनियरिंग"
             ],
-            "correct_answer": "AI, cybersecurity, and information-domain challenges",
+            "correct_answer": "AI, साइबर सिक्योरिटी और जानकारी - डोमेन से जुड़ी चुनौतियाँ",
             "answer_no": 3
         },
         {
             "question_no": 7,
-            "question": "What groundbreaking development did the NBSS&LUP announce regarding Indian soil management?",
+            "question": "भारतीय मृदा प्रबंधन के संबंध में एनबीएसएस और एलयूपी ने किस ऐतिहासिक विकास की घोषणा की?",
             "options": [
-                "Establishment of regional soil conservation banks in all states",
-                "First-ever national Soil Texture Map using AI and remote sensing",
-                "Nationwide installation of AI-powered soil sensors",
-                "Development of a low-cost, salt-resistant seed variety"
+                "सभी राज्यों में क्षेत्रीय मृदा संरक्षण बैंकों की स्थापना",
+                "एआई और रिमोट सेंसिंग का उपयोग करके पहली बार राष्ट्रीय मृदा बनावट मानचित्र",
+                "AI - संचालित मृदा सेंसर की राष्ट्रव्यापी स्थापना",
+                "कम लागत वाली, नमक प्रतिरोधी बीज किस्म का विकास"
             ],
-            "correct_answer": "First-ever national Soil Texture Map using AI and remote sensing",
+            "correct_answer": "एआई और रिमोट सेंसिंग का उपयोग करके पहली बार राष्ट्रीय मृदा बनावट मानचित्र",
             "answer_no": 2
         },
         {
             "question_no": 8,
             "question": "Under the new NSDC and AWS skilling initiative, who is the designated delivery partner for the online training programs?",
             "options": [
-                "Infosys Springboard",
-                "Skill India Digital Portal",
-                "Tech Mahindra Foundation",
-                "Cultus Education"
+                "इंफोसिस स्प्रिंगबोर्ड",
+                "स्किल इंडिया डिजिटल पोर्टल",
+                "टेक महिंद्रा फाउंडेशन",
+                "कल्टस एजुकेशन"
             ],
-            "correct_answer": "Cultus Education",
+            "correct_answer": "कल्टस एजुकेशन",
             "answer_no": 4
         },
         {
