@@ -5,242 +5,242 @@
     "data": [
         {
             "question_no": 1,
-            "question": "Which specific report highlighted that roughly 8.7 crore young Indians are not currently engaged in studies, work, or professional training?",
+            "question": "किस विशिष्ट रिपोर्ट में इस बात पर प्रकाश डाला गया है कि लगभग 8.7 करोड़ युवा भारतीय वर्तमान में अध्ययन, कार्य या पेशेवर प्रशिक्षण में व्यस्त नहीं हैं?",
             "options": [
-                "The Annual Status of Education Report (ASER) 2026",
-                "The Periodic Labour Force Survey (PLFS) report of 2026",
-                "A research paper by the Ministry of Education on school dropouts",
-                "A report on 'Reimagining Skilling for Viksit Bharat@ 2047' by NITI Aayog"
+                "शिक्षा की वार्षिक स्थिति रिपोर्ट (एएसईआर) 2026",
+                "2026 की आवधिक श्रम बल सर्वेक्षण (पीएलएफएस) रिपोर्ट",
+                "स्कूल छोड़ने वालों पर शिक्षा मंत्रालय द्वारा एक शोध पत्र",
+                "नीति आयोग द्वारा 'विक्सित भारत@ 2047 के लिए कौशल पर पुनर्विचार' पर एक रिपोर्ट"
             ],
-            "correct_answer": "A report on 'Reimagining Skilling for Viksit Bharat@ 2047' by NITI Aayog",
+            "correct_answer": "नीति आयोग द्वारा 'विक्सित भारत@ 2047 के लिए कौशल पर पुनर्विचार' पर एक रिपोर्ट",
             "answer_no": 4
         },
         {
             "question_no": 2,
-            "question": "In a strategic move to boost digital infrastructure, MeitY launched the third cohort of which program to nurture aspiring startup founders?",
+            "question": "डिजिटल बुनियादी ढांचे को बढ़ावा देने के लिए एक रणनीतिक कदम में, MeitY ने महत्वाकांक्षी स्टार्टअप संस्थापकों को पोषित करने के लिए किस कार्यक्रम का तीसरा समूह लॉन्च किया?",
             "options": [
-                "MeitY Next-Gen Incubator",
-                "Startup India Seed Fund Scheme",
-                "GENESIS Entrepreneur-in-Residence (EIR)",
-                "Digital India Innovation Challenge"
+                "MeitY नेक्स्ट - जेन इनक्यूबेटर",
+                "स्टार्टअप इंडिया सीड फंड योजना",
+                "उत्पत्ति उद्यमी - इन - रेजिडेंस (ईआईआर)",
+                "डिजिटल इंडिया इनोवेशन चैलेंज"
             ],
-            "correct_answer": "GENESIS Entrepreneur-in-Residence (EIR)",
+            "correct_answer": "उत्पत्ति उद्यमी - इन - रेजिडेंस (ईआईआर)",
             "answer_no": 3
         },
         {
             "question_no": 3,
-            "question": "What primary objective drove the PNGRB to approve the development of an 1,800 km LPG pipeline network?",
+            "question": "1,800 किमी एलपीजी पाइपलाइन नेटवर्क के विकास को मंजूरी देने के लिए पीएनजीआरबी को किस प्राथमिक उद्देश्य से प्रेरित किया गया?",
             "options": [
-                "To lower the price of cooking gas for urban households",
-                "To enhance energy supply-chain resilience and cut down road congestion",
-                "To exclusively support the 'Make in India' manufacturing sector",
-                "To replace all coal-based energy sources in the authorized six states"
+                "शहरी परिवारों के लिए खाना पकाने की गैस की कीमत कम करने के लिए",
+                "एनर्जी सप्लाई - चेन रेजिलिएशन को बढ़ाने और सड़क की भीड़ को कम करने के लिए",
+                "विशेष रूप से 'मेक इन इंडिया' विनिर्माण क्षेत्र का समर्थन करने के लिए",
+                "अधिकृत छह राज्यों में सभी कोयला आधारित ऊर्जा स्रोतों को बदलने के लिए"
             ],
-            "correct_answer": "To enhance energy supply-chain resilience and cut down road congestion",
+            "correct_answer": "एनर्जी सप्लाई - चेन रेजिलिएशन को बढ़ाने और सड़क की भीड़ को कम करने के लिए",
             "answer_no": 2
         },
         {
             "question_no": 4,
-            "question": "The newly revamped 'Dak Sewa' application offers citizens access to postal services and language support through which platform?",
+            "question": "नवनिर्मित 'डाक सेवा' एप्लिकेशन नागरिकों को किस प्लेटफॉर्म के माध्यम से डाक सेवाओं और भाषा सहायता तक पहुंच प्रदान करता है?",
             "options": [
-                "BHASHINI interface",
+                "BHASHINI इंटरफ़ेस",
                 "Microsoft Azure AI",
-                "Google Translate API",
-                "National Language Translation Mission (NLTM)"
+                "गूगल अनुवाद",
+                "राष्ट्रीय भाषा अनुवाद मिशन (NLTM)"
             ],
-            "correct_answer": "BHASHINI interface",
+            "correct_answer": "BHASHINI इंटरफ़ेस",
             "answer_no": 1
         },
         {
             "question_no": 5,
-            "question": "Regarding the recent MoU between the Central Bureau of Narcotics (CBN) and PHARMEXCIL, which statement best reflects its purpose?",
+            "question": "सेंट्रल ब्यूरो ऑफ नारकोटिक्स (CBN) और PHARMEXCIL के बीच हाल ही में हुए एमओयू के बारे में, कौन सा कथन इसके उद्देश्य को सबसे अच्छी तरह दर्शाता है?",
             "options": [
-                "To authorize foreign firms to manufacture generic medicines in India",
-                "To restrict the import of raw active pharmaceutical ingredients (APIs)",
-                "To foster legitimate drug exports while tightening the monitoring of controlled substances",
-                "To set up new drug de-addiction centers across Madhya Pradesh"
+                "भारत में जेनेरिक दवाओं के निर्माण के लिए विदेशी फर्मों को अधिकृत करना",
+                "कच्चे सक्रिय फार्मास्युटिकल अवयवों (एपीआई) के आयात को प्रतिबंधित करना",
+                "नियंत्रित पदार्थों की निगरानी को कड़ा करते हुए वैध दवा निर्यात को बढ़ावा देना",
+                "मध्य प्रदेश में नए नशा मुक्ति केंद्र स्थापित करना"
             ],
-            "correct_answer": "To foster legitimate drug exports while tightening the monitoring of controlled substances",
+            "correct_answer": "नियंत्रित पदार्थों की निगरानी को कड़ा करते हुए वैध दवा निर्यात को बढ़ावा देना",
             "answer_no": 3
         },
         {
             "question_no": 6,
-            "question": "Over the past decade, how has the transaction landscape of the Unified Payments Interface (UPI) evolved in terms of sheer volume?",
+            "question": "पिछले एक दशक में, यूनिफाइड पेमेंट्स इंटरफेस (यूपीआई) का लेनदेन परिदृश्य सरासर मात्रा के मामले में कैसे विकसित हुआ है?",
             "options": [
-                "It remained stagnant due to market saturation",
-                "It shifted focus exclusively from P2P to corporate transfers only",
-                "It has surged roughly 13,000 times since its inception in FY17",
-                "It experienced a modest two-fold increase"
+                "बाजार की संतृप्ति के कारण यह स्थिर रहा",
+                "इसने विशेष रूप से फोकस को P2P से केवल कॉर्पोरेट ट्रांसफर में स्थानांतरित कर दिया",
+                "वित्त वर्ष 17 में अपनी स्थापना के बाद से यह लगभग 13,000 गुना बढ़ गया है",
+                "इसमें मामूली दो गुना वृद्धि हुई"
             ],
-            "correct_answer": "It has surged roughly 13,000 times since its inception in FY17",
+            "correct_answer": "वित्त वर्ष 17 में अपनी स्थापना के बाद से यह लगभग 13,000 गुना बढ़ गया है",
             "answer_no": 3
         },
         {
             "question_no": 7,
-            "question": "Which two entities have partnered to provide a financing framework for NRIs interested in FCNR deposits?",
+            "question": "एफसीएनआर जमा में रुचि रखने वाले एनआरआई के लिए एक वित्तपोषण ढांचा प्रदान करने के लिए किन दो संस्थाओं ने साझेदारी की है?",
             "options": [
-                "HDFC Bank and Standard Chartered",
-                "Citigroup and Axis Bank",
-                "State Bank of India and Citibank",
-                "ICICI Bank and HSBC"
+                "एचडीएफसी बैंक और स्टैंडर्ड चार्टर्ड",
+                "सिटीग्रुप और एक्सिस बैंक",
+                "भारतीय स्टेट बैंक और सिटी बैंक",
+                "आईसीआईसीआई बैंक और एचएसबीसी"
             ],
-            "correct_answer": "Citigroup and Axis Bank",
+            "correct_answer": "सिटीग्रुप और एक्सिस बैंक",
             "answer_no": 2
         },
         {
             "question_no": 8,
-            "question": "Who was crowned Miss Universe India 2026, marking a historic achievement for her home state?",
+            "question": "मिस यूनिवर्स इंडिया 2026 का ताज किसे पहनाया गया, जो उनके गृह राज्य के लिए एक ऐतिहासिक उपलब्धि है?",
             "options": [
-                "Kaziah Liz Mejo",
-                "Manika Vishwakarma",
-                "Anushri Satavlekar",
-                "Vaishnavi Ganesh"
+                "काज़िया लिज़ मेजो",
+                "मनिका विश्वकर्मा",
+                "अनुश्री सातवलेकर",
+                "वैष्णवी गणेश"
             ],
-            "correct_answer": "Kaziah Liz Mejo",
+            "correct_answer": "काज़िया लिज़ मेजो",
             "answer_no": 1
         },
         {
             "question_no": 9,
-            "question": "TCS recently finalized a significant acquisition of MHP, a management and IT consulting arm of which major global automotive company?",
+            "question": "टीसीएस ने हाल ही में किस प्रमुख वैश्विक ऑटोमोटिव कंपनी की प्रबंधन और आईटी परामर्श इकाई एमएचपी के एक महत्वपूर्ण अधिग्रहण को अंतिम रूप दिया है?",
             "options": [
-                "Volkswagen AG",
+                "फॉक्सवैगन एजी",
                 "BMW AG",
-                "Mercedes-Benz Group",
-                "Porsche AG"
+                "मर्सिडीज - बेंज ग्रुप",
+                "पोर्श एजी"
             ],
-            "correct_answer": "Porsche AG",
+            "correct_answer": "पोर्श एजी",
             "answer_no": 4
         },
         {
             "question_no": 10,
-            "question": "The 100% indigenized AK-203 'Sher' assault rifle is being manufactured in which district of Uttar Pradesh?",
+            "question": "100% स्वदेशी एके -203 'शेर' असॉल्ट राइफल का निर्माण उत्तर प्रदेश के किस जिले में किया जा रहा है?",
             "options": [
-                "Amethi",
-                "Kanpur",
-                "Lucknow",
-                "Noida"
+                "अमेठी",
+                "कानपुर",
+                "लखनऊ",
+                "Have you completed your bachelor diploma"
             ],
-            "correct_answer": "Amethi",
+            "correct_answer": "अमेठी",
             "answer_no": 1
         },
         {
             "question_no": 11,
-            "question": "What is the key technological feature of the newly unveiled US Navy 'AIM-424 Malice' missile?",
+            "question": "नई अनावरण की गई अमेरिकी नौसेना 'एआईएम -424 मैलिस' मिसाइल की प्रमुख तकनीकी विशेषता क्या है?",
             "options": [
-                "A purely passive sonar-based guidance system",
-                "A manual targeting scope for ground-based operation",
-                "A two-stage rocket motor allowing for extreme long-range engagement",
-                "A single-stage solid fuel system for short-range combat"
+                "एक विशुद्ध रूप से निष्क्रिय सोनार - आधारित मार्गदर्शन प्रणाली",
+                "ग्राउंड - आधारित ऑपरेशन के लिए एक मैनुअल टार्गेटिंग स्कोप",
+                "एक दो - स्तरीय रॉकेट मोटर जो अत्यधिक लंबी दूरी की सगाई की अनुमति देता है",
+                "शॉर्ट - रेंज कॉम्बैट के लिए सिंगल - स्टेज सॉलिड फ्यूल सिस्टम"
             ],
-            "correct_answer": "A two-stage rocket motor allowing for extreme long-range engagement",
+            "correct_answer": "एक दो - स्तरीय रॉकेट मोटर जो अत्यधिक लंबी दूरी की सगाई की अनुमति देता है",
             "answer_no": 3
         },
         {
             "question_no": 12,
-            "question": "Due to a clash with security preparations for Republic Day, the 2028 India Open Badminton Tournament has been shifted to which city?",
+            "question": "गणतंत्र दिवस के लिए सुरक्षा तैयारियों के साथ टकराव के कारण, 2028 इंडिया ओपन बैडमिंटन टूर्नामेंट को किस शहर में स्थानांतरित कर दिया गया है?",
             "options": [
-                "Hyderabad",
-                "Bengaluru",
-                "Mumbai",
-                "Guwahati"
+                "हैदराबाद",
+                "बैंगलुरू",
+                "Hindi",
+                "गुवाहाटी"
             ],
-            "correct_answer": "Guwahati",
+            "correct_answer": "गुवाहाटी",
             "answer_no": 4
         },
         {
             "question_no": 13,
-            "question": "The late cricketer Karn Sharma is noted for achieving what unique feat in the history of the Indian Premier League?",
+            "question": "दिवंगत क्रिकेटर कर्ण शर्मा को इंडियन प्रीमियर लीग के इतिहास में कौन सी अनूठी उपलब्धि हासिल करने के लिए जाना जाता है?",
             "options": [
-                "Holding the record for the most runs in a single season",
-                "Winning four titles including a rare three-peat with three different franchises",
-                "Captaining three different teams to victory in the same year",
-                "Bowling the highest number of maiden overs in T20 cricket"
+                "एक सीज़न में सबसे ज़्यादा रन बनाने का रिकॉर्ड अपने नाम करना",
+                "तीन अलग - अलग फ्रेंचाइज़ी के साथ एक दुर्लभ तीन - पीट सहित चार खिताब जीतना",
+                "एक ही वर्ष में जीत के लिए तीन अलग - अलग टीमों की कप्तानी करना",
+                "टी -20 क्रिकेट में मेडन ओवरों की सबसे अधिक संख्या में गेंदबाजी करना"
             ],
-            "correct_answer": "Winning four titles including a rare three-peat with three different franchises",
+            "correct_answer": "तीन अलग - अलग फ्रेंचाइज़ी के साथ एक दुर्लभ तीन - पीट सहित चार खिताब जीतना",
             "answer_no": 2
         },
         {
             "question_no": 14,
-            "question": "In his new book 'Africa Before America', Dr. Arindam Chaudhuri introduces the '1.25:1 Egalitarian Concept', which suggests what?",
+            "question": "अपनी नई पुस्तक 'अफ्रीका बिफोर अमेरिका' में, डॉ. अरिंदम चौधरी ने '1.25:1 समतावादी अवधारणा' का परिचय दिया है, जो बताती है कि क्या है?",
             "options": [
-                "That the world's highest-paid person should earn no more than 1.25 times the salary of the lowest-paid person",
-                "That inequality in the US is 1.25 times higher than in India",
-                "That Africa should prioritize GDP growth by 1.25 percent annually",
-                "That corporate taxes should be capped at 1.25 percent to encourage innovation"
+                "कि दुनिया के सबसे अधिक वेतन पाने वाले व्यक्ति को सबसे कम वेतन पाने वाले व्यक्ति के वेतन से 1.25 गुना से अधिक नहीं कमाया जाना चाहिए",
+                "अमेरिका में असमानता भारत की तुलना में 1.25 गुना अधिक है",
+                "अफ्रीका को सालाना 1.25 प्रतिशत की जीडीपी वृद्धि को प्राथमिकता देनी चाहिए",
+                "नवाचार को प्रोत्साहित करने के लिए कॉर्पोरेट करों को 1.25 प्रतिशत पर सीमित किया जाना चाहिए"
             ],
-            "correct_answer": "That the world's highest-paid person should earn no more than 1.25 times the salary of the lowest-paid person",
+            "correct_answer": "कि दुनिया के सबसे अधिक वेतन पाने वाले व्यक्ति को सबसे कम वेतन पाने वाले व्यक्ति के वेतन से 1.25 गुना से अधिक नहीं कमाया जाना चाहिए",
             "answer_no": 1
         },
         {
             "question_no": 15,
-            "question": "Which international body led the proclamation of August 23 as the 'International Day for the Remembrance of the Slave Trade and its Abolition'?",
+            "question": "किस अंतर्राष्ट्रीय निकाय ने 23 अगस्त को 'दास व्यापार और उसके उन्मूलन की याद के लिए अंतर्राष्ट्रीय दिवस' के रूप में घोषित करने का नेतृत्व किया?",
             "options": [
-                "UNICEF",
-                "UNHCR",
-                "WHO",
-                "UNESCO"
+                "यूनिसेफ",
+                "यूएनएचसीआर",
+                "विश्व स्वास्थ्य संगठन",
+                "यूनेस्को"
             ],
-            "correct_answer": "UNESCO",
+            "correct_answer": "यूनेस्को",
             "answer_no": 4
         },
         {
             "question_no": 16,
-            "question": "What is the primary target demographic for the 'Bidesh Sikhyabruti' scheme recently launched by Odisha?",
+            "question": "ओडिशा द्वारा हाल ही में शुरू की गई 'बिदेश सिख्याब्रुति' योजना के लिए प्राथमिक लक्ष्य जनसांख्यिकीय क्या है?",
             "options": [
-                "General category engineering students only",
-                "SC/ST students seeking to pursue higher education abroad",
-                "Post-graduate teachers moving for specialized training",
-                "Sports persons interested in training at foreign academies"
+                "केवल सामान्य श्रेणी के इंजीनियरिंग छात्र",
+                "विदेश में उच्च शिक्षा प्राप्त करने के इच्छुक अनुसूचित जाति/अनुसूचित जनजाति के छात्र",
+                "पोस्ट - ग्रेजुएट शिक्षक विशेष प्रशिक्षण के लिए आगे बढ़ रहे हैं",
+                "विदेशी अकादमियों में प्रशिक्षण में रुचि रखने वाले खिलाड़ी"
             ],
-            "correct_answer": "SC/ST students seeking to pursue higher education abroad",
+            "correct_answer": "विदेश में उच्च शिक्षा प्राप्त करने के इच्छुक अनुसूचित जाति/अनुसूचित जनजाति के छात्र",
             "answer_no": 2
         },
         {
             "question_no": 17,
-            "question": "As part of their new cooperation, the Yamanashi Prefecture of Japan and the Uttar Pradesh government are focusing on establishing what type of centers in Noida?",
+            "question": "उनके नए सहयोग के हिस्से के रूप में, जापान के यमनाशी प्रान्त और उत्तर प्रदेश सरकार नोएडा में किस प्रकार के केंद्र स्थापित करने पर ध्यान केंद्रित कर रहे हैं?",
             "options": [
-                "Agricultural training centers",
-                "Cultural heritage museums",
-                "Global Capability Centres (GCCs)",
-                "Marine biology research labs"
+                "कृषि प्रशिक्षण केंद्र",
+                "सांस्कृतिक विरासत संग्रहालय",
+                "वैश्विक क्षमता केंद्र (जीसीसी)",
+                "समुद्री जीव विज्ञान अनुसंधान प्रयोगशालाएं"
             ],
-            "correct_answer": "Global Capability Centres (GCCs)",
+            "correct_answer": "वैश्विक क्षमता केंद्र (जीसीसी)",
             "answer_no": 3
         },
         {
             "question_no": 18,
-            "question": "Regarding the recent updates to Press Note 3, under what specific condition can entities from land-bordering countries invest through the automatic route?",
+            "question": "प्रेस नोट 3 के हालिया अपडेट के संबंध में, भूमि - सीमावर्ती देशों की संस्थाएं स्वचालित मार्ग के माध्यम से किस विशिष्ट शर्त के तहत निवेश कर सकती हैं?",
             "options": [
-                "If they possess less than 10% ownership in the firm",
-                "If they hold a 100% majority stake in the venture",
-                "If the entity is headquartered in a neutral third-party country",
-                "If they have government approval for only the first year of operation"
+                "यदि उनके पास फर्म में 10% से कम स्वामित्व है",
+                "यदि वे उद्यम में 100% बहुमत हिस्सेदारी रखते हैं",
+                "यदि इकाई का मुख्यालय किसी तटस्थ तृतीय - पक्ष देश में है",
+                "यदि उनके पास संचालन के केवल पहले वर्ष के लिए सरकारी अनुमोदन है"
             ],
-            "correct_answer": "If they possess less than 10% ownership in the firm",
+            "correct_answer": "यदि उनके पास फर्म में 10% से कम स्वामित्व है",
             "answer_no": 1
         },
         {
             "question_no": 19,
-            "question": "Which concept serves as a more comprehensive measure of labor market under-utilization than the standard unemployment rate?",
+            "question": "कौन सी अवधारणा मानक बेरोजगारी दर की तुलना में श्रम बाजार के कम उपयोग के अधिक व्यापक उपाय के रूप में कार्य करती है?",
             "options": [
-                "Gross Domestic Product (GDP)",
-                "Purchasing Power Parity (PPP)",
-                "Human Development Index (HDI)",
-                "NEET (Not in Education, Employment, or Training)"
+                "सकल घरेलू उत्पाद",
+                "क्रय शक्ति समानता (पीपीपी)",
+                "मानव विकास सूचकांक",
+                "नीट (शिक्षा, रोजगार या प्रशिक्षण में नहीं)"
             ],
-            "correct_answer": "NEET (Not in Education, Employment, or Training)",
+            "correct_answer": "नीट (शिक्षा, रोजगार या प्रशिक्षण में नहीं)",
             "answer_no": 4
         },
         {
             "question_no": 20,
-            "question": "Why is the Vaishya Tekri site in Ujjain considered significant by modern researchers examining the Mauryan period?",
+            "question": "मौर्य काल की जांच करने वाले आधुनिक शोधकर्ताओं द्वारा उज्जैन में वैश्य टेकरी स्थल को महत्वपूर्ण क्यों माना जाता है?",
             "options": [
-                "Because it is the only site in India where punch-marked coins are found",
-                "Because it represents an opportunity to investigate Ashoka's viceroyalty in Avanti",
-                "Because it serves as a modern capital for the State Archaeological Department",
-                "Because it is the site where Ashoka's edicts were first translated into English"
+                "क्योंकि यह भारत का एकमात्र ऐसा स्थल है जहाँ पंच - चिह्नित सिक्के पाए जाते हैं",
+                "क्योंकि यह अवंती में अशोक की वाइसरायल्टी की जांच करने के अवसर का प्रतिनिधित्व करता है",
+                "क्योंकि यह राज्य पुरातत्व विभाग के लिए एक आधुनिक राजधानी के रूप में कार्य करता है",
+                "क्योंकि यह वह साइट है जहां अशोक के आदेशों का पहली बार अंग्रेजी में अनुवाद किया गया था"
             ],
-            "correct_answer": "Because it represents an opportunity to investigate Ashoka's viceroyalty in Avanti",
+            "correct_answer": "क्योंकि यह अवंती में अशोक की वाइसरायल्टी की जांच करने के अवसर का प्रतिनिधित्व करता है",
             "answer_no": 2
         }
     ]
