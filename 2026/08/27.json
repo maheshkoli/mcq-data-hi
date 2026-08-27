@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "27-08-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which specific regions in Madhya Pradesh were selected for the initial implementation of the newly launched Mission Samriddh Gaon?",
+            "options": [
+                "Rewa and Satna districts",
+                "Ratlam and Ujjain blocks",
+                "Budni and Khategaon blocks",
+                "Indore and Bhopal districts"
+            ],
+            "correct_answer": "Budni and Khategaon blocks",
+            "answer_no": 3
+        },
+        {
+            "question_no": 2,
+            "question": "Under the recent PPPAC approval, how many years have been set for the private concession period to operate the 11 identified airports?",
+            "options": [
+                "50 years",
+                "20 years",
+                "60 years",
+                "30 years"
+            ],
+            "correct_answer": "50 years",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "The Ministry of Defence's recent decision regarding DRDO missile technologies aims primarily to achieve which national objective?",
+            "options": [
+                "Global military dominance",
+                "Expansion of military exports to NATO",
+                "Reduction of DRDO's administrative load",
+                "Aatmanirbharta in defence production"
+            ],
+            "correct_answer": "Aatmanirbharta in defence production",
+            "answer_no": 4
+        },
+        {
+            "question_no": 4,
+            "question": "What is the primary objective of the PMFME Bazaar launched by the Ministry of Food Processing Industries?",
+            "options": [
+                "To lower the retail price of packaged food nationwide",
+                "To privatize state-owned food warehouses",
+                "To provide market access to micro food entrepreneurs",
+                "To replace traditional farming with AI-based agriculture"
+            ],
+            "correct_answer": "To provide market access to micro food entrepreneurs",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "The Project Utthaan partnership between UNDP and HUL focuses on improving the lives of which specific group?",
+            "options": [
+                "Safai Mitras",
+                "Micro-scale traders",
+                "Public sector educators",
+                "Rural farmers"
+            ],
+            "correct_answer": "Safai Mitras",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "The newly launched high-expansion popcorn maize hybrid, developed by ICAR-IIMR, is notable for being:",
+            "options": [
+                "A drought-resistant commercial wheat variety",
+                "The first indigenous non-GMO variety",
+                "Genetically Modified",
+                "An imported variety from the USA"
+            ],
+            "correct_answer": "The first indigenous non-GMO variety",
+            "answer_no": 2
+        },
+        {
+            "question_no": 7,
+            "question": "The ICG-VCG exercise ‘Sahyog HOP TAC’ held in Chennai represents a maritime cooperation effort between India and which other nation?",
+            "options": [
+                "Indonesia",
+                "Vietnam",
+                "Thailand",
+                "Malaysia"
+            ],
+            "correct_answer": "Vietnam",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "How does WAE Limited's partnership with UN GCNI contribute to India's developmental goals?",
+            "options": [
+                "By importing foreign desalinated water",
+                "By financing the construction of major dams",
+                "By accelerating innovative water management technologies",
+                "By banning the use of groundwater for industries"
+            ],
+            "correct_answer": "By accelerating innovative water management technologies",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "SEBI’s new IT Resilience Index (ITRI) assigns the highest weightage—20% each—to which two operational parameters?",
+            "options": [
+                "Availability and Security",
+                "Governance and Scalability",
+                "Security and Integrity",
+                "Business Continuity and Reliability"
+            ],
+            "correct_answer": "Availability and Security",
+            "answer_no": 1
+        },
+        {
+            "question_no": 10,
+            "question": "What is the nature of the partnership between Tata Capital Limited and Japan’s Resona Bank?",
+            "options": [
+                "Joint venture for manufacturing electronics",
+                "Direct merger of banking operations",
+                "Facilitating business linkages for Japanese firms in India",
+                "Government-led agricultural credit sharing"
+            ],
+            "correct_answer": "Facilitating business linkages for Japanese firms in India",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "Goa Shipyard Limited recently handed over which vessel to the Indian Coast Guard?",
+            "options": [
+                "ICGS Samarth",
+                "ICGS Ajit",
+                "ICGS Varuna",
+                "ICGS Vikram"
+            ],
+            "correct_answer": "ICGS Ajit",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "The NJ-series gas turbine engines unveiled by CSIR-NAL were specifically developed for what application?",
+            "options": [
+                "Agricultural machinery pumps",
+                "Commercial airline travel",
+                "Deep-sea submarine power",
+                "Defence UAVs and missiles"
+            ],
+            "correct_answer": "Defence UAVs and missiles",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "Which major global philanthropic contribution is associated with the late Dolly Parton?",
+            "options": [
+                "The global anti-malaria fund",
+                "The Imagination Library",
+                "The universal housing charity",
+                "The World Food Programme"
+            ],
+            "correct_answer": "The Imagination Library",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "The 2026 theme for World Water Week is centered on which concept?",
+            "options": [
+                "Sustainable Rivers for All",
+                "Innovation in Agriculture",
+                "Climate Action and Industry",
+                "Water for People and Progress"
+            ],
+            "correct_answer": "Water for People and Progress",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "The Puducherry budget for FY27 estimated the UT's fiscal deficit to be what percentage of the Gross State Domestic Product (GSDP)?",
+            "options": [
+                "5.1%",
+                "3.2%",
+                "4.2%",
+                "6.5%"
+            ],
+            "correct_answer": "4.2%",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "Which official rule in the Tamil Nadu Legislative Assembly empowers the CM to announce policies of public importance, as seen in the recent 'Annapurnam Super Six' scheme announcement?",
+            "options": [
+                "Rule 110",
+                "Article 356",
+                "The Constitution's Tenth Schedule",
+                "Rule 271"
+            ],
+            "correct_answer": "Rule 110",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "What is the primary disconnect in India's current skilling ecosystem according to the NITI Aayog report?",
+            "options": [
+                "A shortage of degrees",
+                "Excessive reliance on vocational training",
+                "The lack of government funding for colleges",
+                "A mismatch between qualifications and labour market demand"
+            ],
+            "correct_answer": "A mismatch between qualifications and labour market demand",
+            "answer_no": 4
+        },
+        {
+            "question_no": 18,
+            "question": "What does the platform acronym PRAGATI stand for in the context of Indian governance?",
+            "options": [
+                "Pro-Active Governance and Timely Implementation",
+                "Progressive Reforms and Applied Grid for All-round Transformation",
+                "Public Resources and Applied Growth for All Tiers of India",
+                "Policy Research and Administrative Governance for Action and Tracking Initiative"
+            ],
+            "correct_answer": "Pro-Active Governance and Timely Implementation",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "AgriStack, which was reviewed during the 53rd PRAGATI meeting, is a central part of which mission?",
+            "options": [
+                "Pradhan Mantri Fasal Bima Yojana",
+                "Digital Agriculture Mission",
+                "Soil Health Card Scheme",
+                "National Irrigation Project"
+            ],
+            "correct_answer": "Digital Agriculture Mission",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "The Gorkha statehood movement traces its formal political history back to which year, when the Darjeeling Hillmen's Association submitted its first petition?",
+            "options": [
+                "1988",
+                "1947",
+                "1885",
+                "1907"
+            ],
+            "correct_answer": "1907",
+            "answer_no": 4
+        }
+    ]
+}
