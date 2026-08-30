@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "29-08-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "कौन सा विशिष्ट मंत्रालय प्रधानमंत्री जन धन योजना के लिए नोडल एजेंसी के रूप में कार्य करता है, जिसने हाल ही में कार्यान्वयन के 12 वर्षों को चिह्नित किया है?",
+            "options": [
+                "गृह मंत्रालय",
+                "ग्रामीण विकास मंत्रालय",
+                "वित्त मंत्रालय",
+                "वाणिज्य और उद्योग मंत्रालय"
+            ],
+            "correct_answer": "वित्त मंत्रालय",
+            "answer_no": 3
+        },
+        {
+            "question_no": 2,
+            "question": "पीएम स्वनिधि योजना, जो स्ट्रीट वेंडरों को समर्थन देने पर केंद्रित है, ने अपनी परिचालन समयरेखा के बारे में एक महत्वपूर्ण अपडेट देखा। वर्तमान एक्सटेंशन कब समाप्त होने के लिए तैयार है?",
+            "options": [
+                "1 जून 2028",
+                "15 अगस्त 2029",
+                "31 दिसंबर 2027",
+                "31 मार्च 2030"
+            ],
+            "correct_answer": "31 मार्च 2030",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "गुजरात में नए बनास बायो - सीएनजी संयंत्र के बारे में, जैविक उर्वरक और स्वच्छ ऊर्जा बनाने के लिए संसाधित प्राथमिक कच्चा माल क्या है?",
+            "options": [
+                "औद्योगिक कार्बनिक अपशिष्ट",
+                "मवेशी का गोबर",
+                "नगरपालिका ठोस अपशिष्ट",
+                "कृषि अपशिष्ट अवशेष"
+            ],
+            "correct_answer": "मवेशी का गोबर",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "हिंडाल्को इंडस्ट्रीज ने हाल ही में 'सुपरफाइन प्रीसिप्टेड एल्युमिनियम ट्राइहाइड्रेट' के लिए भारत के पहले संयंत्र का अनावरण किया। मुख्य रूप से इस सामग्री द्वारा कौन सा उद्योग लाभ परोसा जाता है?",
+            "options": [
+                "बढ़ी हुई अग्नि - सुरक्षा और धुआं दमन",
+                "उच्च तापमान वाले एयरोस्पेस मिश्र",
+                "5G दूरसंचार सर्किट के लिए लचीली सामग्री",
+                "दवा के लिए संक्षारण प्रतिरोधी पैकेजिंग"
+            ],
+            "correct_answer": "बढ़ी हुई अग्नि - सुरक्षा और धुआं दमन",
+            "answer_no": 1
+        },
+        {
+            "question_no": 5,
+            "question": "विदेशी मुद्रा स्थिरता का प्रबंधन करने के लिए, भारतीय रिज़र्व बैंक (आरबीआई) ने बड़े लेनदेन के लिए एफसीएनआर(बी) स्वैप सुविधा तक पहुंच को कैसे संशोधित किया है?",
+            "options": [
+                "खिड़की अपरिवर्तित बनी हुई है, लेकिन बैंक शुल्क को आधा कर दिया गया है",
+                "इसने किसी भी आकार के लेनदेन के लिए सभी साप्ताहिक बाधाओं को समाप्त कर दिया",
+                "100 मिलियन $ से ज़्यादा के लेन - देन के लिए अब किसी भी दिन स्वैप एक्सेस उपलब्ध है",
+                "$ 10 मिलियन से ज़्यादा के लेन - देन अब दैनिक खिड़कियों पर हो सकते हैं"
+            ],
+            "correct_answer": "100 मिलियन $ से ज़्यादा के लेन - देन के लिए अब किसी भी दिन स्वैप एक्सेस उपलब्ध है",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "किस प्रमुख बीमाकर्ता ने ‘माई फैमिली कम्प्लीट‘ पॉलिसी पेश की है, जो एक अग्रणी योजना है जिसमें पालतू जानवर शामिल हैं?",
+            "options": [
+                "ICICI Lombard General Insurance Company",
+                "स्टार हेल्थ एंड एलाइड इंश्योरेंस",
+                "बजाज जनरल इंश्योरेंस लिमिटेड",
+                "एचडीएफसी एर्गो जनरल इंश्योरेंस"
+            ],
+            "correct_answer": "बजाज जनरल इंश्योरेंस लिमिटेड",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "नाबार्ड और नाबार्ड के बीच हस्ताक्षरित समझौता ज्ञापन का उद्देश्य किस विशिष्ट आर्थिक क्षेत्र को बढ़ावा देना है?",
+            "options": [
+                "सार्वजनिक वितरण प्रणाली",
+                "छोटे पैमाने पर नवीकरणीय ऊर्जा स्टार्टअप",
+                "शहरी रियल एस्टेट विकास",
+                "ग्रामीण बुनियादी ढांचा और संबंधित मूल्य श्रृंखलाएं"
+            ],
+            "correct_answer": "ग्रामीण बुनियादी ढांचा और संबंधित मूल्य श्रृंखलाएं",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "Who was appointed as the new Vice President and Auditor General of the World Bank Group in August 2026?",
+            "options": [
+                "युको कीचो",
+                "क्रिस्टालिना जॉर्जीवा",
+                "डेविड मालपास",
+                "अंशुला कांत"
+            ],
+            "correct_answer": "युको कीचो",
+            "answer_no": 1
+        },
+        {
+            "question_no": 9,
+            "question": "‘Samarthak’, the Indian Navy's first indigenous Multi-Purpose Vessel, was built by which corporate entity?",
+            "options": [
+                "Mazagon Dock Shipbuilders Limited",
+                "Larsen & Toubro Ltd.",
+                "Cochin Shipyard Limited",
+                "Hindustan Shipyard Limited"
+            ],
+            "correct_answer": "Larsen & Toubro Ltd.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "Researchers from CSIR-IHBT discovered ‘Doronicum sanctum’, a new sunflower species. Where was this rare botanical finding recorded?",
+            "options": [
+                "Munnar, Kerala",
+                "Leh, Ladakh",
+                "Tawang district, Arunachal Pradesh",
+                "Shimla, Himachal Pradesh"
+            ],
+            "correct_answer": "Tawang district, Arunachal Pradesh",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "Which Indian Chess Grandmaster made history by becoming the first Indian champion of the Grand Chess Tour 2026?",
+            "options": [
+                "D. Gukesh",
+                "R Praggnanandhaa",
+                "Vishwanathan Anand",
+                "Vidit Gujrathi"
+            ],
+            "correct_answer": "R Praggnanandhaa",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "Vice President C. P. Radhakrishnan released a book authored by Ghanshyam Tiwari. What is the central title of this work?",
+            "options": [
+                "Viksit Bharat: A Roadmap",
+                "Antyodaya: The Last Person",
+                "Sankalp Se Siddhi Ka Modi Yug",
+                "Rashtra Pratham: My Vision"
+            ],
+            "correct_answer": "Sankalp Se Siddhi Ka Modi Yug",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "Which ancient scholar is honored on World Sanskrit Day, coinciding with his expertise in grammar?",
+            "options": [
+                "Kautilya",
+                "Panini",
+                "Charaka",
+                "Aryabhata"
+            ],
+            "correct_answer": "Panini",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "The 'Read & Rise' Meghalaya programme has set an immediate goal for children over 7 years old. What is that goal?",
+            "options": [
+                "Learning a second language fluently",
+                "Completing 100 books in one year",
+                "Writing a full novel by year-end",
+                "Achieving reading proficiency within three months"
+            ],
+            "correct_answer": "Achieving reading proficiency within three months",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "Andhra Pradesh is set to host India's first Quantum and AI University Campus. Which institution is leading this development in Amaravati?",
+            "options": [
+                "IIT Madras",
+                "DRDO",
+                "ISRO",
+                "NIELIT"
+            ],
+            "correct_answer": "NIELIT",
+            "answer_no": 4
+        },
+        {
+            "question_no": 16,
+            "question": "Regarding the recent India-China boundary discussions, what new communication measure was agreed upon for the Eastern and Middle sectors?",
+            "options": [
+                "Two new dedicated military hotlines",
+                "Common border postal services",
+                "Joint mountain biking patrols",
+                "A formal trade union portal"
+            ],
+            "correct_answer": "Two new dedicated military hotlines",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "Meta's $17 billion settlement with US states aims to limit teen social media usage. What specific feature restriction is imposed during the overnight hours?",
+            "options": [
+                "Lower data resolution for videos",
+                "Only reading messages, no feeds",
+                "Account deactivation",
+                "Complete blackout from midnight to 6 am"
+            ],
+            "correct_answer": "Complete blackout from midnight to 6 am",
+            "answer_no": 4
+        },
+        {
+            "question_no": 18,
+            "question": "Why is the underground storage of natural gas significantly more complex than crude oil or LPG in India?",
+            "options": [
+                "India has no operational underground gas facilities at all",
+                "High cost of mining salt caverns",
+                "Lack of suitable underground reservoirs",
+                "Need for specialized cryogenics"
+            ],
+            "correct_answer": "India has no operational underground gas facilities at all",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "To bolster energy security, what is the core issue with counting regasification terminal capacity as strategic fuel inventory?",
+            "options": [
+                "It reflects potential processing capability, not actual stored reserves",
+                "They only operate for LPG, not natural gas",
+                "Terminals cannot store cryogenic liquid",
+                "Terminals are too exposed to cyber attacks"
+            ],
+            "correct_answer": "It reflects potential processing capability, not actual stored reserves",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "Which law, enacted in 1998, was frequently cited in the accusations against Meta regarding the collection of data from children under 13?",
+            "options": [
+                "Section 230 of the Communications Act",
+                "COPPA (Children's Online Privacy Protection Act)",
+                "The Online Safety Standards Act",
+                "Digital Data Protection Act"
+            ],
+            "correct_answer": "COPPA (Children's Online Privacy Protection Act)",
+            "answer_no": 2
+        }
+    ]
+}
