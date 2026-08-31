@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "28-08-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "मैसूरु घोषणा अगस्त 2026 में जनजातीय मामलों के मंत्रालय (एमओटीए) द्वारा आयोजित किस प्रमुख कार्यक्रम का एक प्रमुख परिणाम था?",
+            "options": [
+                "क्रिटिकल मिनरल्स इनोवेशन हैकथॉन",
+                "मैरीटाइम अमृत काल विजन समिट",
+                "भारत - मोरक्को संयुक्त आयोग",
+                "जनजातीय भाषाओं और संग्रहालयों पर राष्ट्रीय सम्मेलन"
+            ],
+            "correct_answer": "जनजातीय भाषाओं और संग्रहालयों पर राष्ट्रीय सम्मेलन",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "किस कानून ने मिजोरम सरकार को हाल ही में 79 ऐतिहासिक स्थलों और स्मारकों को 'राज्य संरक्षित' के रूप में नामित करने की अनुमति दी?",
+            "options": [
+                "मिजोरम प्राचीन स्मारक और पुरातात्विक स्थल और अवशेष अधिनियम, 2001",
+                "राष्ट्रीय विरासत संरक्षण अधिनियम, 2012",
+                "प्राचीन स्मारक और पुरातत्व स्थल अधिनियम, 1958",
+                "मिजोरम ऐतिहासिक संरक्षण अध्यादेश, 2020"
+            ],
+            "correct_answer": "मिजोरम प्राचीन स्मारक और पुरातात्विक स्थल और अवशेष अधिनियम, 2001",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "भारतीय फार्माकोपिया आयोग (IPC) ने हाल ही में किस विशिष्ट प्रकार की कार्सिनोजेनिक अशुद्धता से निपटने के लिए संदर्भ मानक पेश किए हैं?",
+            "options": [
+                "Aflatoxins",
+                "नाइट्रोसामाइन",
+                "हैवी मेटल",
+                "परबेन"
+            ],
+            "correct_answer": "नाइट्रोसामाइन",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "एचएएल और सैमटेल एवियोनिक्स के बीच संयुक्त उद्यम एसएचडीएस ने हाल ही में किस शहर में भारत की पहली सार्वजनिक - निजी रक्षा एवियोनिक्स सुविधा का उद्घाटन किया?",
+            "options": [
+                "नागपुर, महाराष्ट्र",
+                "बेंगलुरु, कर्नाटक",
+                "गुरुग्राम, हरियाणा",
+                "हैदराबाद, तेलंगाना"
+            ],
+            "correct_answer": "गुरुग्राम, हरियाणा",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "किस केंद्रीय मंत्रालय ने मैरीटाइम इंडिया विजन 2030 के रोडमैप पर चर्चा करने के लिए 'सागर संवाद' के उद्घाटन संस्करण का आयोजन किया?",
+            "options": [
+                "रक्षा मंत्रालय",
+                "विदेश मंत्रालय",
+                "बंदरगाह, शिपिंग और जलमार्ग मंत्रालय",
+                "वाणिज्य और उद्योग मंत्रालय"
+            ],
+            "correct_answer": "बंदरगाह, शिपिंग और जलमार्ग मंत्रालय",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "क्रिटिकल मिनरल्स इनोवेशन हैकथॉन (CMiH 2026) का आयोजन खान मंत्रालय के तहत किस स्वायत्त निकाय द्वारा किया जाता है?",
+            "options": [
+                "जवाहरलाल नेहरू एल्यूमिनियम रिसर्च डेवलपमेंट एंड डिजाइन सेंटर",
+                "नेशनल मिनरल डेवलपमेंट कॉर्पोरेशन लिमिटेड",
+                "भारतीय खान ब्यूरो",
+                "भारतीय भूवैज्ञानिक सर्वेक्षण"
+            ],
+            "correct_answer": "जवाहरलाल नेहरू एल्यूमिनियम रिसर्च डेवलपमेंट एंड डिजाइन सेंटर",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "नेटफ्लिक्स और इंडियन इंस्टीट्यूट ऑफ क्रिएटिव टेक्नोलॉजीज (IICT) ने किस विशिष्ट कौशल क्षेत्र का समर्थन करने के लिए साझेदारी की है?",
+            "options": [
+                "AVGC - XR पारिस्थितिकी तंत्र",
+                "आर्टिफिशियल इंटेलिजेंस कोडिंग",
+                "ई - कॉमर्स लॉजिस्टिक्स",
+                "नवीकरणीय ऊर्जा प्रौद्योगिकी"
+            ],
+            "correct_answer": "AVGC - XR पारिस्थितिकी तंत्र",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "टी - हब, जिसने हाल ही में भारतीय सेना के सेंट्रल कमांड के साथ एक समझौते पर हस्ताक्षर किए हैं, का मुख्यालय किस शहर में है?",
+            "options": [
+                "बैंगलुरू",
+                "नई दिल्ली",
+                "पुणे",
+                "हैदराबाद"
+            ],
+            "correct_answer": "हैदराबाद",
+            "answer_no": 4
+        },
+        {
+            "question_no": 9,
+            "question": "राज्य मंत्री जितिन प्रसाद की हाल ही में मोरक्को की आधिकारिक यात्रा का मुख्य उद्देश्य क्या था?",
+            "options": [
+                "समुद्री सुरक्षा सहयोग पर चर्चा करना",
+                "7 वें भारत - मोरक्को संयुक्त आयोग की सह - अध्यक्षता करने के लिए",
+                "जलवायु परिवर्तन सम्मेलन में भाग लेने के लिए",
+                "कैसाब्लांका में एक नया भारतीय दूतावास खोलने के लिए"
+            ],
+            "correct_answer": "7 वें भारत - मोरक्को संयुक्त आयोग की सह - अध्यक्षता करने के लिए",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "The 'IGNITE' incubation programme, launched by IDFC First Bank and IIM Calcutta, targets startups working in which primary domain?",
+            "options": [
+                "Sustainability and circular economy",
+                "Financial technology and payment gateways",
+                "Military-grade cybersecurity",
+                "Artificial Intelligence gaming"
+            ],
+            "correct_answer": "Sustainability and circular economy",
+            "answer_no": 1
+        },
+        {
+            "question_no": 11,
+            "question": "Which airline is now an interline partner with Air India to boost connectivity with Bhutan?",
+            "options": [
+                "Indigo",
+                "Bhutan Airlines",
+                "SpiceJet",
+                "Drukair"
+            ],
+            "correct_answer": "Drukair",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "The DRDO successfully tested an indigenous high-altitude parachute system in which region?",
+            "options": [
+                "Ladakh",
+                "Sikkim",
+                "Arunachal Pradesh",
+                "Uttarakhand"
+            ],
+            "correct_answer": "Ladakh",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "Elon Musk's SpaceX plans to build its second Starship-focused launch site in which U.S. state?",
+            "options": [
+                "Texas",
+                "California",
+                "Louisiana",
+                "Florida"
+            ],
+            "correct_answer": "Louisiana",
+            "answer_no": 3
+        },
+        {
+            "question_no": 14,
+            "question": "Which racing driver secured the win at the 2026 Dutch Grand Prix, marking a crucial title fight development?",
+            "options": [
+                "Kimi Antonelli",
+                "George Russell",
+                "Lewis Hamilton",
+                "Lando Norris"
+            ],
+            "correct_answer": "Lando Norris",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "The biographical novel 'Kaho Kalidasa!', written by Yugul Joshi, centers on the life of which historical figure?",
+            "options": [
+                "Valmiki",
+                "Tulsidas",
+                "Mahakavi Kalidasa",
+                "Chanakya"
+            ],
+            "correct_answer": "Mahakavi Kalidasa",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "The MoU between Andhra Pradesh and the United Kingdom aims to develop which city as a smart and sustainable capital?",
+            "options": [
+                "Vijayawada",
+                "Visakhapatnam",
+                "Amaravati",
+                "Kurnool"
+            ],
+            "correct_answer": "Amaravati",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "The Uttar Pradesh government's 'Lokmata Ahilyabai Matrushakti Yojana' offers free bus travel to which group?",
+            "options": [
+                "Government teachers",
+                "Women aged 60 and above",
+                "Disabled citizens of all ages",
+                "Students of government colleges"
+            ],
+            "correct_answer": "Women aged 60 and above",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "Following the 25th round of talks, which major decision regarding military communication was made between India and China?",
+            "options": [
+                "Reducing troops in the Himalayan region",
+                "Creating two additional military hotlines",
+                "Completely withdrawing artillery units",
+                "Allowing neutral international observers at the LAC"
+            ],
+            "correct_answer": "Creating two additional military hotlines",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "Which organization manages the 'Grant Linking System' used to connect global research funding data via PIDs?",
+            "options": [
+                "UNESCO",
+                "The World Bank",
+                "Council of Scientific and Industrial Research",
+                "Crossref"
+            ],
+            "correct_answer": "Crossref",
+            "answer_no": 4
+        },
+        {
+            "question_no": 20,
+            "question": "The inclusion of heatwaves in India's list of natural calamities was recommended by which authority?",
+            "options": [
+                "The Planning Commission",
+                "The Sixteenth Finance Commission",
+                "The Ministry of Health and Family Welfare",
+                "The Fifteenth Finance Commission"
+            ],
+            "correct_answer": "The Sixteenth Finance Commission",
+            "answer_no": 2
+        }
+    ]
+}
