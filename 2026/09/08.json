@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "08-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "प्रधानमंत्री नरेंद्र मोदी और बेल्जियम के प्रधानमंत्री बार्ट डी वेवर के बीच हाल ही में प्रतिनिधिमंडल स्तर की वार्ता के दौरान सहयोग के किस विशिष्ट क्षेत्र का स्पष्ट रूप से प्राथमिक फोकस के रूप में उल्लेख नहीं किया गया था?",
+            "options": [
+                "रक्षा",
+                "पर्यटन",
+                "क्रिटिकल मिनरल्स",
+                "स्वच्छ ऊर्जा"
+            ],
+            "correct_answer": "पर्यटन",
+            "answer_no": 2
+        },
+        {
+            "question_no": 2,
+            "question": "बेल्जियम के प्रधानमंत्री की भारत यात्रा के दौरान पहचानी गई '3Ts' रणनीति का प्राथमिक उद्देश्य क्या है?",
+            "options": [
+                "वस्त्र, लकड़ी और प्रौद्योगिकी",
+                "पर्यटन, प्रौद्योगिकी और प्रशिक्षण",
+                "व्यापार, परिवहन और दूरसंचार",
+                "व्यापार, प्रौद्योगिकी और प्रतिभा"
+            ],
+            "correct_answer": "व्यापार, प्रौद्योगिकी और प्रतिभा",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "वीपी सीपी राधाकृष्णन ने हाल ही में चेन्नई में किस मीडिया इकाई की 75 वीं वर्षगांठ के लिए एक स्मारक डाक टिकट का उद्घाटन किया?",
+            "options": [
+                "दीनामलार",
+                "द हिन्दू",
+                "मलयाला मनोरमा",
+                "डेली थांथी"
+            ],
+            "correct_answer": "दीनामलार",
+            "answer_no": 1
+        },
+        {
+            "question_no": 4,
+            "question": "म्यूनिशन इंडिया लिमिटेड (एमआईएल) ने मुख्य रूप से किस प्रकार के सैन्य हार्डवेयर को विकसित करने के लिए ड्रोगो एयरोस्पेस के साथ एक रणनीतिक साझेदारी में प्रवेश किया है?",
+            "options": [
+                "बैलिस्टिक मिसाइल पनडुब्बियां",
+                "सरफेस - टू - एयर मिसाइल सिस्टम",
+                "नौसैनिक विध्वंसक",
+                "मानव रहित हवाई वाहन और घुमक्कड़ गोला - बारूद"
+            ],
+            "correct_answer": "मानव रहित हवाई वाहन और घुमक्कड़ गोला - बारूद",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "आईआईटी मद्रास के नए लॉन्च किए गए प्लेटफॉर्म, बोधन एआई का उद्देश्य निम्नलिखित में से किसको प्राप्त करना है?",
+            "options": [
+                "सुरक्षित सैन्य ड्रोन विकसित करें",
+                "वित्तीय स्थिरता रिपोर्टिंग को स्वचालित करें",
+                "अस्पतालों के लिए रोबोटिक सहायक बनाएं",
+                "बहुभाषी AI मॉडल का उपयोग करके भारत के शिक्षा स्टैक का निर्माण करें"
+            ],
+            "correct_answer": "बहुभाषी AI मॉडल का उपयोग करके भारत के शिक्षा स्टैक का निर्माण करें",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "हानिकारक सामाजिक प्रथा का मुकाबला करने के लिए भारत द्वारा समर्थित संयुक्त राष्ट्र महासभा के प्रस्ताव द्वारा हाल ही में किस अंतर्राष्ट्रीय दिवस की स्थापना की गई थी?",
+            "options": [
+                "तकनीकी संप्रभुता के लिए अंतर्राष्ट्रीय दिवस",
+                "बाल विवाह के खिलाफ अंतर्राष्ट्रीय दिवस",
+                "विश्व जनजातीय अधिकार दिवस",
+                "प्लास्टिक अपशिष्ट जागरूकता के लिए वैश्विक दिवस"
+            ],
+            "correct_answer": "बाल विवाह के खिलाफ अंतर्राष्ट्रीय दिवस",
+            "answer_no": 2
+        },
+        {
+            "question_no": 7,
+            "question": "आरबीआई की जून 2026 की वित्तीय स्थिरता रिपोर्ट के अनुसार, 2026 -27 अवधि के लिए अनुमानित मुद्रास्फीति अनुमान क्या था?",
+            "options": [
+                "5.1%",
+                "6.2%",
+                "7.7%",
+                "४-६%"
+            ],
+            "correct_answer": "5.1%",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "भारत में व्हाट्सएप की नई देशी बिल भुगतान सुविधा किस नेटवर्क के माध्यम से संचालित होती है?",
+            "options": [
+                "तत्काल भुगतान सेवा",
+                "नेशनल इलेक्ट्रॉनिक फ़ंड ट्रांसफ़र",
+                "भारत FPO<g id=\"1\">CONNECT</g>",
+                "वास्तविक समय सकल निपटान"
+            ],
+            "correct_answer": "भारत FPO<g id=\"1\">CONNECT</g>",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "बिसलेरी इंटरनेशनल की ‘बॉटल फॉर चेंज’ पहल किस वित्तीय संस्थान के साथ सर्कुलर इकोनॉमी प्रथाओं को बढ़ावा देने के लिए भागीदार है?",
+            "options": [
+                "भारतीय स्टेट बैंक",
+                "आईसीआईसीआई बैंक",
+                "Axis Bank",
+                "एचडीएफसी बैंक"
+            ],
+            "correct_answer": "भारतीय स्टेट बैंक",
+            "answer_no": 1
+        },
+        {
+            "question_no": 10,
+            "question": "वियतनाम में आयोजित प्रतियोगिता में किस देश के प्रतिनिधि को मिस वर्ल्ड 2026 का ताज पहनाया गया?",
+            "options": [
+                "मलेशिया",
+                "थाईलैंड",
+                "डोमिनिकन रिपब्लिक",
+                "स्पेन"
+            ],
+            "correct_answer": "डोमिनिकन रिपब्लिक",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "अंडमान और निकोबार द्वीप समूह के नए उपराज्यपाल के रूप में किसे नियुक्त किया गया है?",
+            "options": [
+                "डॉक्टर दिनेश शर्मा",
+                "एडमिरल देवेंद्र कुमार जोशी",
+                "अजीत डोभाल",
+                "सी.पी. राधाकृष्णन"
+            ],
+            "correct_answer": "डॉक्टर दिनेश शर्मा",
+            "answer_no": 1
+        },
+        {
+            "question_no": 12,
+            "question": "उच्च न्यायालय के मुख्य न्यायाधीशों की नियुक्तियों का संचालन किस संवैधानिक प्रावधान के अनुसार किया जाता है?",
+            "options": [
+                "अनुच्छेद 217",
+                "अनुच्छेद 370",
+                "अनुच्छेद 324",
+                "अनुच्छेद 124"
+            ],
+            "correct_answer": "अनुच्छेद 217",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "Which organization recently received approval from the RBI to increase its stake in ICICI Bank up to 9.99%?",
+            "options": [
+                "भारतीय स्टेट बैंक",
+                "जनरल इंश्योरेंस कॉर्पोरेशन",
+                "भारतीय जीवन बीमा निगम",
+                "HDFC LIFE"
+            ],
+            "correct_answer": "भारतीय जीवन बीमा निगम",
+            "answer_no": 3
+        },
+        {
+            "question_no": 14,
+            "question": "Which European startup achieved a milestone by launching the 'Spectrum' rocket into space?",
+            "options": [
+                "Arianespace",
+                "SpaceX",
+                "Blue Origin",
+                "Isar Aerospace"
+            ],
+            "correct_answer": "Isar Aerospace",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "Apollyon Dynamics' 'Ahuti Mk II' drone recently set a national speed record, reaching approximately what speed?",
+            "options": [
+                "325 km/h",
+                "498 km/h",
+                "300 km/h",
+                "600 km/h"
+            ],
+            "correct_answer": "498 km/h",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "The new plant species \"Osbeckia ulotricha\" was discovered by researchers in which biosphere reserve?",
+            "options": [
+                "Gulf of Mannar",
+                "Sundarbans",
+                "Agasthyamala Biosphere Reserve",
+                "Nilgiri Biosphere Reserve"
+            ],
+            "correct_answer": "Agasthyamala Biosphere Reserve",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "Which driver secured victory at the 2026 Italian Grand Prix held at Monza?",
+            "options": [
+                "Lando Norris",
+                "Max Verstappen",
+                "George Russell",
+                "Andrea Kimi Antonelli"
+            ],
+            "correct_answer": "Andrea Kimi Antonelli",
+            "answer_no": 4
+        },
+        {
+            "question_no": 18,
+            "question": "Renowned musician S.R. Janakiraman, who recently passed away, was a celebrated expert in which field?",
+            "options": [
+                "Sufi poetry",
+                "Carnatic music",
+                "Hindustani classical music",
+                "Rabindra Sangeet"
+            ],
+            "correct_answer": "Carnatic music",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "The India-China military talks in Arunachal Pradesh marked an expansion of dialogue from which traditional focus area?",
+            "options": [
+                "Himachal Pradesh",
+                "Ladakh sector",
+                "Sikkim frontier",
+                "Uttarakhand border"
+            ],
+            "correct_answer": "Ladakh sector",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "What is the core issue discussed regarding the Forest Rights Act and hydroelectric projects?",
+            "options": [
+                "A total ban on Himalayan infrastructure",
+                "Removing the Ministry of Tribal Affairs as the nodal agency",
+                "The need for super-majority consent from Gram Sabhas",
+                "Reducing the powers of the Supreme Court"
+            ],
+            "correct_answer": "The need for super-majority consent from Gram Sabhas",
+            "answer_no": 3
+        }
+    ]
+}
