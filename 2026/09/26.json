@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "26-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "सागरमाला कार्यक्रम की व्यापक छतरी के तहत भारत का पहला ब्लू बॉन्ड कौन सा विशिष्ट वित्तपोषण वाहन जारी कर रहा है?",
+            "options": [
+                "National Bank for Financing Infrastructure and Development",
+                "पॉवर फाइनेंस कॉर्पोरेशन",
+                "सागरमाला फाइनेंस कॉर्पोरेशन लिमिटेड",
+                "भारतीय लघु उद्योग विकास बैंक"
+            ],
+            "correct_answer": "सागरमाला फाइनेंस कॉर्पोरेशन लिमिटेड",
+            "answer_no": 3
+        },
+        {
+            "question_no": 2,
+            "question": "संवैधानिक प्रावधानों और वैधानिक दिशानिर्देशों के तहत, सीईसी के अलावा किसी अन्य चुनाव आयुक्त को हटाने की सिफारिश करने का अधिकार किसके पास है?",
+            "options": [
+                "संसद के दोनों सदनों की एक संयुक्त समिति",
+                "सुप्रीम कोर्ट कॉलेजियम",
+                "मुख्य चुनाव आयुक्त",
+                "भारत के राष्ट्रपति प्रधानमंत्री की सलाह पर कार्य करते हैं"
+            ],
+            "correct_answer": "मुख्य चुनाव आयुक्त",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "कौन सी तकनीक mBridge क्रॉस - बॉर्डर पेमेंट्स प्लेटफॉर्म के पीछे मूलभूत वास्तुकला के रूप में कार्य करती है?",
+            "options": [
+                "केंद्रीकृत मेनफ्रेम सर्वर",
+                "क्वांटम एन्क्रिप्शन लेज़र",
+                "क्लाउड - नेटिव रिलेशनल डेटाबेस",
+                "डिस्ट्रीब्यूटेड लेज़र टेक्नोलॉजी"
+            ],
+            "correct_answer": "डिस्ट्रीब्यूटेड लेज़र टेक्नोलॉजी",
+            "answer_no": 4
+        },
+        {
+            "question_no": 4,
+            "question": "मेक इन इंडिया पहल के संदर्भ में, राष्ट्रीय एकल खिड़की प्रणाली का उद्देश्य मुख्य रूप से क्या है?",
+            "options": [
+                "प्रमुख कंटेनर बंदरगाहों पर टैरिफ छूट निर्यात करें",
+                "विनिर्माण क्षेत्रों में श्रम विवाद समाधान",
+                "व्यवसायों के लिए नियामक अनुमोदन और मंजूरी",
+                "सभी खुदरा क्षेत्रों में प्रत्यक्ष विदेशी निवेश की सीमा"
+            ],
+            "correct_answer": "व्यवसायों के लिए नियामक अनुमोदन और मंजूरी",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "मार्फान सिंड्रोम मूल रूप से एक वंशानुगत उत्परिवर्तन के कारण होता है जो किस विशिष्ट संरचनात्मक प्रोटीन को प्रभावित करता है?",
+            "options": [
+                "कोलेजन प्रकार I",
+                "इलास्टिन फाइबर",
+                "केराटिन सल्फेट",
+                "फाइब्रिलिन -1"
+            ],
+            "correct_answer": "फाइब्रिलिन -1",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "रंगीत नदी, जो अपने अशांत जल और वार्षिक एंगलिंग त्योहारों के लिए प्रसिद्ध है, किस प्रमुख नदी प्रणाली के लिए एक प्रमुख दाएं - बैंक सहायक नदी के रूप में कार्य करती है?",
+            "options": [
+                "तीस्ता",
+                "सुबनसिरी",
+                "मानस",
+                "ब्रह्मपुत्र"
+            ],
+            "correct_answer": "तीस्ता",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "ब्लू बॉन्ड के संदर्भ में सख्त रिपोर्टिंग फ्रेमवर्क को रोकने के लिए प्राथमिक पर्यावरणीय जोखिम क्या है?",
+            "options": [
+                "ब्लूवॉशिंग",
+                "यूट्रोफिकेशन मास्किंग",
+                "कार्बन ऑफसेटिंग धोखाधड़ी",
+                "जैव विविधता क्रेडिट पैडिंग"
+            ],
+            "correct_answer": "ब्लूवॉशिंग",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "वर्तमान संवैधानिक मानदंडों के अनुसार, सीईसी के खिलाफ महाभियोग प्रस्ताव को स्वीकार करने के लिए प्रस्ताव के नोटिस पर हस्ताक्षर करने के लिए आवश्यक लोकसभा सदस्यों की न्यूनतम संख्या क्या है?",
+            "options": [
+                "150 सांसद",
+                "100 सांसद",
+                "75 सांसद",
+                "50 सांसद"
+            ],
+            "correct_answer": "100 सांसद",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "एमब्रिज लॉन्च करने के लिए किस अंतरराष्ट्रीय संस्थान ने बैंक ऑफ थाईलैंड, यूएई के केंद्रीय बैंक, पीबीओसी के डिजिटल करेंसी इंस्टीट्यूट और एचकेएमए के साथ सहयोग किया?",
+            "options": [
+                "अन्तर्राष्ट्रीय मुद्रा कोष",
+                "न्यू डेवलपमेंट बैंक",
+                "एशियाई विकास बैंक",
+                "बैंक फ़ॉर इंटरनेशनल सेटलमेंट्स"
+            ],
+            "correct_answer": "बैंक फ़ॉर इंटरनेशनल सेटलमेंट्स",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "किस क्षेत्र में मेक इन इंडिया पहल के तहत सबसे नाटकीय मात्रा में वृद्धि देखी गई है, जिससे देश वैश्विक उपविजेता बन गया है?",
+            "options": [
+                "इलेक्ट्रिक वाहन बैटरी सेल",
+                "उपभोक्ता इलेक्ट्रॉनिक्स पैकेजिंग",
+                "मोबाइल - फोन निर्माण",
+                "कमर्शियल एविएशन असेंबली"
+            ],
+            "correct_answer": "मोबाइल - फोन निर्माण",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "उन्नत मार्फान सिंड्रोम से जुड़ी सबसे महत्वपूर्ण और संभावित रूप से जानलेवा नैदानिक जटिलता क्या है?",
+            "options": [
+                "महाधमनी की कमजोरी या फाड़ना",
+                "कोरोनरी धमनी रुकावट",
+                "फुफ्फुसीय वाल्व स्टेनोसिस",
+                "वेंट्रिकुलर सेप्टल दोष"
+            ],
+            "correct_answer": "महाधमनी की कमजोरी या फाड़ना",
+            "answer_no": 1
+        },
+        {
+            "question_no": 12,
+            "question": "कंचनजंगा क्षेत्र में कौन सा ग्लेशियर सिक्किम में रंगीत नदी के लिए प्राथमिक ग्लेशियल स्रोत के रूप में कार्य करता है?",
+            "options": [
+                "राथोंग ग्लेशियर",
+                "तालुंग ग्लेशियर",
+                "माउंट काबरू ग्लेशियर",
+                "ज़ेमू ग्लेशियर"
+            ],
+            "correct_answer": "माउंट काबरू ग्लेशियर",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "क्या संरचनात्मक विशेषता भारत के चुनाव आयोग के शासन सेटअप की विशेषता है?",
+            "options": [
+                "उच्च न्यायालय का वरिष्ठतम न्यायाधीश चुनावी विवादों की अध्यक्षता करता है",
+                "सीईसी सर्वसम्मति से निर्णय लेने के साथ बराबरी के बीच पहले के रूप में कार्य करता है",
+                "सीईसी के पास साथी आयुक्तों पर पूर्ण वीटो शक्ति है",
+                "सभी निर्णयों को लागू करने से पहले संसदीय अनुसमर्थन की आवश्यकता होती है"
+            ],
+            "correct_answer": "सीईसी सर्वसम्मति से निर्णय लेने के साथ बराबरी के बीच पहले के रूप में कार्य करता है",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "Why do blue bonds currently lag behind their green counterparts in global capital markets?",
+            "options": [
+                "निगमों को जारी करने के लिए अनिवार्य इक्विटी कमजोर पड़ना",
+                "Complete lack of marine conservation projects worldwide",
+                "Strict prohibition by multilateral development banks",
+                "Absence of universally accepted taxonomies and valuation difficulties"
+            ],
+            "correct_answer": "Absence of universally accepted taxonomies and valuation difficulties",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "Under Make in India 2.0, how many total sectors are actively covered to boost both industrial output and services?",
+            "options": [
+                "27 sectors",
+                "15 sectors",
+                "20 sectors",
+                "35 sectors"
+            ],
+            "correct_answer": "27 sectors",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "Which specific rare-earth permanent magnet technology has India begun developing through indigenous pilot facilities as part of strategic tech initiatives?",
+            "options": [
+                "Fe-Cr-Co composites",
+                "Sm-Co (Samarium-Cobalt)",
+                "Alnico alloys",
+                "Nd-Fe-B (Neodymium-Iron-Boron)"
+            ],
+            "correct_answer": "Nd-Fe-B (Neodymium-Iron-Boron)",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "What is the primary financial challenge that SMFCL's proposed blue bond intends to solve for the institution?",
+            "options": [
+                "High corporate tax burdens",
+                "Asset-liability maturity mismatch",
+                "Subsidised retail lending deficits",
+                "Foreign exchange fluctuation losses"
+            ],
+            "correct_answer": "Asset-liability maturity mismatch",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "Which constitutional article governs the removal procedure of the Chief Election Commissioner by equating it with that of a Supreme Court judge?",
+            "options": [
+                "Article 226",
+                "Article 324(5)",
+                "Article 148",
+                "Article 356"
+            ],
+            "correct_answer": "Article 324(5)",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "Which nation holds the distinction of issuing the world's first sovereign blue bond with World Bank backing back in October 2018?",
+            "options": [
+                "Mauritius",
+                "Seychelles",
+                "Maldives",
+                "Fiji"
+            ],
+            "correct_answer": "Seychelles",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "What financial allocation has been earmarked under Semicon 2.0 to foster domestic semiconductor design, packaging, and research talent?",
+            "options": [
+                "Rs. 1,27,500 crore",
+                "Rs. 7,280 crore",
+                "Rs. 33,660 crore",
+                "Rs. 2,40,000 crore"
+            ],
+            "correct_answer": "Rs. 1,27,500 crore",
+            "answer_no": 1
+        }
+    ]
+}
