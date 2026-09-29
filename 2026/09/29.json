@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "29-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "हाशिए पर पड़ी ग्रामीण आबादी को सशक्त बनाने के बारह साल पूरे करने के बाद, DDU - GKY पहल को मूल रूप से किस केंद्रीय मंत्रालय द्वारा शुरू किया गया था?",
+            "options": [
+                "ग्रामीण विकास मंत्रालय",
+                "कौशल विकास और उद्यमिता मंत्रालय",
+                "4. कृषि और किसान कल्याण मंत्रालय।",
+                "पंचायती राज मंत्रालय"
+            ],
+            "correct_answer": "ग्रामीण विकास मंत्रालय",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "किस भारतीय शहर ने हाल ही में देश की पहली तरलीकृत प्राकृतिक गैस से चलने वाली ट्रेन को हरी झंडी दिखाकर रवाना किया?",
+            "options": [
+                "सूरत",
+                "वड़ोदरा",
+                "राजकोट",
+                "अहमदाबाद"
+            ],
+            "correct_answer": "अहमदाबाद",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "गुजरात में किस ऐतिहासिक बंदरगाह स्थान पर अधिकारियों ने भारत की पहली बंदरगाह - आधारित ई - मेथनॉल उत्पादन इकाई की आधारशिला रखी?",
+            "options": [
+                "मुंद्रा पोर्ट",
+                "दीनदयाल पोर्ट",
+                "पिपावाव पोर्ट",
+                "हजीरा पोर्ट"
+            ],
+            "correct_answer": "दीनदयाल पोर्ट",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "बेंगलुरु में आयोजित आईआईटीएमएए संगम सम्मेलन के 7 वें संस्करण के दौरान, प्रारंभिक चरण के डीप - टेक स्टार्टअप को वापस करने के लिए कौन सा फंड लॉन्च किया गया था?",
+            "options": [
+                "IITM यूनिकॉर्न फ्रंटियर फंड - I",
+                "भारत टेक एक्सेलेरेशन फंड",
+                "डीपटेक इनोवेशन कॉर्पस",
+                "वेंचर कैटलिस्ट इंडिया इनिशिएटिव"
+            ],
+            "correct_answer": "IITM यूनिकॉर्न फ्रंटियर फंड - I",
+            "answer_no": 1
+        },
+        {
+            "question_no": 5,
+            "question": "व्यापक, एकल खिड़की कानूनी और मनोवैज्ञानिक सहायता प्रदान करने के लिए भारत के पहले विक्टिम राइट्स सेंटर का उद्घाटन कहाँ किया गया था?",
+            "options": [
+                "लखनऊ, उत्तर प्रदेश",
+                "<g id=\"1\">रांची, झारखंड</g><g id=\"2\">।</g>",
+                "पटना, बिहार",
+                "गुवाहाटी, असम"
+            ],
+            "correct_answer": "पटना, बिहार",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "अपने 85 वें स्थापना दिवस के अवसर पर, सीएसआईआर ने विभिन्न भारतीय क्षेत्रीय भाषाओं में अनुवादित पांच विज्ञान पत्रिकाओं का शुभारंभ किया। इन पत्रिकाओं को किस निकाय ने प्रकाशित किया?",
+            "options": [
+                "साहित्य अकादमी",
+                "नेशनल बुक ट्रस्ट",
+                "एनसीईआरटी",
+                "सीएसआईआर - एनआईएससीपीआर"
+            ],
+            "correct_answer": "सीएसआईआर - एनआईएससीपीआर",
+            "answer_no": 4
+        },
+        {
+            "question_no": 7,
+            "question": "किस नियामक निकाय ने उपयोगकर्ताओं को संपत्तियों में दूरसंचार बुनियादी ढांचे का मूल्यांकन करने में मदद करने के लिए डिजिटल कनेक्टिविटी रेटिंग प्लेटफॉर्म शुरू किया?",
+            "options": [
+                "MeitY",
+                "IRDAI",
+                "ट्राई",
+                "सेबी"
+            ],
+            "correct_answer": "ट्राई",
+            "answer_no": 3
+        },
+        {
+            "question_no": 8,
+            "question": "टूलॉन के तट पर आयोजित द्विपक्षीय समुद्री अभ्यास वरुण में, भारतीय नौसेना ने किस देश की नौसेना बलों के साथ काम किया?",
+            "options": [
+                "ऑस्ट्रेलिया",
+                "फ़्रांस",
+                "युनाइटेड किंगडम",
+                "जापान"
+            ],
+            "correct_answer": "फ़्रांस",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "अमेरिकी भूभौतिकीय संघ द्वारा सम्मानित जलवायु वैज्ञानिक रॉक्सी मैथ्यू कोल, पुणे में स्थित किस प्रमुख अनुसंधान संस्थान से संबद्ध है?",
+            "options": [
+                "भौतिक अनुसंधान प्रयोगशाला",
+                "नेशनल सेंटर फॉर अर्थ साइंस स्टडीज",
+                "भारतीय उष्णकटिबंधीय मौसम संस्थान",
+                "राष्ट्रीय समुद्र विज्ञान संस्थान"
+            ],
+            "correct_answer": "भारतीय उष्णकटिबंधीय मौसम संस्थान",
+            "answer_no": 3
+        },
+        {
+            "question_no": 10,
+            "question": "निम्नलिखित अनुभवी बीमा प्रशासकों में से किसे IRDAI के पूर्णकालिक सदस्य (वितरण) के रूप में नियुक्त किया गया था?",
+            "options": [
+                "गिरिजा सुब्रमण्यन",
+                "अजय सेठ",
+                "दिनेश पंत",
+                "शांतनु पॉल"
+            ],
+            "correct_answer": "गिरिजा सुब्रमण्यन",
+            "answer_no": 1
+        },
+        {
+            "question_no": 11,
+            "question": "समरकंद में आयोजित 46 वें शतरंज ओलंपियाड में, भारत ने लगातार तीसरी बार किस प्रतिष्ठित रोटेटिंग टीम की प्रशंसा की?",
+            "options": [
+                "वेरा मेंचिक कप",
+                "हैमिल्टन - रसेल कप",
+                "फाइड चैंपियनशिप शील्ड",
+                "नोना गैप्रिंडाशविली ट्रॉफी"
+            ],
+            "correct_answer": "नोना गैप्रिंडाशविली ट्रॉफी",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "फार्मेसी पेशेवरों के योगदान का सम्मान करने के लिए दुनिया भर में हर साल विश्व फार्मासिस्ट दिवस कब मनाया जाता है?",
+            "options": [
+                "24 सितंबर",
+                "26 सितंबर",
+                "25 सितंबर",
+                "27 सितंबर"
+            ],
+            "correct_answer": "25 सितंबर",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "अंत्योदय दिवस किस प्रमुख सामाजिक - राजनीतिक दार्शनिक की जयंती को चिह्नित करने के लिए हर साल देश भर में मनाया जाता है?",
+            "options": [
+                "महात्मा गांधी",
+                "श्यामा प्रसाद मुखर्जी",
+                "राम मनोहर लोहिया",
+                "पण्डित दीनदयाल उपाध्याय"
+            ],
+            "correct_answer": "पण्डित दीनदयाल उपाध्याय",
+            "answer_no": 4
+        },
+        {
+            "question_no": 14,
+            "question": "Which country served as the official host nation for the global World Tourism Day celebrations featuring the digital agenda theme?",
+            "options": [
+                "भारत",
+                "अल सेल्वाडोर",
+                "फ़्रांस",
+                "स्पेन"
+            ],
+            "correct_answer": "अल सेल्वाडोर",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "To enhance national income accuracy, MoSPI revised the GDP base year to which period, introducing several methodological updates?",
+            "options": [
+                "2022-23",
+                "2011-12",
+                "2024-25",
+                "2017-18"
+            ],
+            "correct_answer": "2022-23",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "Under current judicial precedent, notably established by a Constitution Bench in the Kuldip Nayar case, how is the right to vote classified in India?",
+            "options": [
+                "Constitutional Right",
+                "Fundamental Right",
+                "Statutory Right",
+                "Natural Right"
+            ],
+            "correct_answer": "Statutory Right",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "Recent underwater archaeological explorations off Poompuhar, an ancient Chola port city, found fragments of what specific historical artifact pointing to West Asian trade?",
+            "options": [
+                "Roman amphorae",
+                "Torpedo jars",
+                "Chinese porcelain bowls",
+                "Egyptian glass beads"
+            ],
+            "correct_answer": "Torpedo jars",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "What is the primary geographical feature associated with the location of the ancient port city of Poompuhar in Tamil Nadu?",
+            "options": [
+                "At the mouth of the Tamirabarani river in Tirunelveli",
+                "At the confluence of the Cauvery river with the Bay of Bengal",
+                "Along the banks of the Vaigai river near Madurai",
+                "Near the delta of the Palar river in Kanchipuram"
+            ],
+            "correct_answer": "At the confluence of the Cauvery river with the Bay of Bengal",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "Which specific article of the Indian Constitution enshrines the principle of universal adult suffrage for elections to the Lok Sabha and State Legislative Assemblies?",
+            "options": [
+                "Article 324",
+                "Article 330",
+                "Article 325",
+                "Article 326"
+            ],
+            "correct_answer": "Article 326",
+            "answer_no": 4
+        },
+        {
+            "question_no": 20,
+            "question": "Which financial institution's data is now sourced for tracking household investments in shares, mutual funds, and alternative instruments under the revised GDP compilation?",
+            "options": [
+                "Securities and Exchange Board of India",
+                "National Bank for Agriculture and Rural Development",
+                "Small Industries Development Bank of India",
+                "Reserve Bank of India"
+            ],
+            "correct_answer": "Securities and Exchange Board of India",
+            "answer_no": 1
+        }
+    ]
+}
