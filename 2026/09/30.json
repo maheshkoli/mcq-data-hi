@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "30-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "किस केंद्रीय मंत्रालय ने पशुधन किसानों के लिए डिजिटल बीमा सेवाओं को कारगर बनाने के लिए पशुधन बीमा पोर्टल शुरू किया?",
+            "options": [
+                "4. कृषि और किसान कल्याण मंत्रालय।",
+                "ग्रामीण विकास मंत्रालय",
+                "पंचायती राज मंत्रालय",
+                "मत्स्य पालन, पशुपालन और डेयरी मंत्रालय"
+            ],
+            "correct_answer": "मत्स्य पालन, पशुपालन और डेयरी मंत्रालय",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "नव स्थापित इस्पात उद्योग सुरक्षा परिषद से किस केंद्रीय मंत्रालय के प्रशासनिक नियंत्रण के तहत एक शीर्ष निकाय के रूप में कार्य करने की उम्मीद है?",
+            "options": [
+                "खान मंत्रालय",
+                "श्रम एवं रोजगार मंत्रालय",
+                "भारी उद्योग मंत्रालय",
+                "इस्पात मंत्रालय"
+            ],
+            "correct_answer": "इस्पात मंत्रालय",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "हाल ही में एक छात्र जुड़ाव पहल में, दक्षिण क्षेत्र के लिए सेवा फर्स्ट इनोवेशन चैलेंज का उद्घाटन किस प्रमुख वैज्ञानिक संस्थान में किया गया था?",
+            "options": [
+                "आईआईएससी बेंगलुरु",
+                "एनआईटी त्रिची",
+                "आईआईटी मद्रास, चेन्नई",
+                "आईआईआईटी हैदराबाद"
+            ],
+            "correct_answer": "आईआईएससी बेंगलुरु",
+            "answer_no": 1
+        },
+        {
+            "question_no": 4,
+            "question": "टाटा कम्युनिकेशंस ने साइबर सुरक्षा में एक विशेष उत्कृष्टता केंद्र स्थापित करने के लिए तमिलनाडु में किस शैक्षणिक संस्थान के साथ साझेदारी की है?",
+            "options": [
+                "एसआरएम इंस्टीट्यूट ऑफ साइंस एंड टेक्नोलॉजी",
+                "वेल्लोर इंस्टीट्यूट ऑफ टेक्नोलॉजी",
+                "अमृता विश्व विद्यापीठ",
+                "शास्त्र डीम्ड यूनिवर्सिटी"
+            ],
+            "correct_answer": "शास्त्र डीम्ड यूनिवर्सिटी",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "किस अंतर्राष्ट्रीय वाहक ने स्काईट्रैक्स अवार्ड्स में विश्व की सर्वश्रेष्ठ एयरलाइन के रूप में शीर्ष स्थान हासिल किया, जबकि एयर इंडिया घरेलू वाहकों में अग्रणी के रूप में उभरी?",
+            "options": [
+                "सिंगापुर एयरलाइंस",
+                "कैथे पैसिफ़िक",
+                "कतर एयरवेज़",
+                "एमिरेटस"
+            ],
+            "correct_answer": "सिंगापुर एयरलाइंस",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "संयुक्त सैन्य अभ्यास KAZIND -2026 के 9 वें संस्करण के दौरान, भारत और कजाकिस्तान के सैनिकों ने मुख्य रूप से किन विशिष्ट वातावरण में सामरिक संचालन पर ध्यान केंद्रित किया?",
+            "options": [
+                "घने उष्णकटिबंधीय वर्षावन",
+                "तटीय उभयचर क्षेत्र",
+                "अर्ध - शहरी और पहाड़ी इलाका",
+                "रेगिस्तान और शुष्क मैदान"
+            ],
+            "correct_answer": "रेगिस्तान और शुष्क मैदान",
+            "answer_no": 4
+        },
+        {
+            "question_no": 7,
+            "question": "मनीला में हाल ही में आयोजित 23 वें आसियान - आर्थिक मंत्रियों के परामर्श में भारत के प्रतिनिधिमंडल का नेतृत्व किस विभाग के एक अधिकारी ने किया था?",
+            "options": [
+                "आर्थिक मामलों का विभाग",
+                "वित्तीय सेवा विभाग",
+                "वाणिज्य विभाग",
+                "उद्योग और आंतरिक व्यापार संवर्धन विभाग"
+            ],
+            "correct_answer": "वाणिज्य विभाग",
+            "answer_no": 3
+        },
+        {
+            "question_no": 8,
+            "question": "सेबी के हालिया नियामक ओवरहाल ने पोर्टफोलियो मैनेजमेंट सर्विसेज को क्लाइंट फंड को किन वित्तीय साधनों में निवेश करने की अनुमति देने के लिए प्राइम फ्रेमवर्क पेश किया?",
+            "options": [
+                "डायरेक्ट म्यूचुअल फंड स्कीम और स्पेशलाइज्ड इन्वेस्टमेंट फंड",
+                "वेंचर कैपिटल रियल एस्टेट ट्रस्ट",
+                "क्रिप्टोकरेंसी डेरिवेटिव",
+                "अनियमित अपतटीय हेज फंड"
+            ],
+            "correct_answer": "डायरेक्ट म्यूचुअल फंड स्कीम और स्पेशलाइज्ड इन्वेस्टमेंट फंड",
+            "answer_no": 1
+        },
+        {
+            "question_no": 9,
+            "question": "भारतीय रिज़र्व बैंक के हालिया मासिक बुलेटिन के अनुसार, भारत का शुद्ध प्रत्यक्ष विदेशी निवेश किस वर्ष के जुलाई में पांच साल के उच्चतम स्तर पर पहुंच गया?",
+            "options": [
+                "2025",
+                "2007",
+                "2026",
+                "2023"
+            ],
+            "correct_answer": "2026",
+            "answer_no": 3
+        },
+        {
+            "question_no": 10,
+            "question": "सागरमाला फाइनेंस कॉरपोरेशन ने किस महत्वपूर्ण आर्थिक क्षेत्र में परियोजनाओं के वित्तपोषण के लिए भारत का पहला ब्लू बॉन्ड लॉन्च करके सुर्खियां बटोरीं?",
+            "options": [
+                "ग्रामीण कृषि भंडारण",
+                "शहरी इलेक्ट्रिक मोबिलिटी नेटवर्क",
+                "समुद्री बुनियादी ढांचा और तटीय सड़कें",
+                "नवीकरणीय सौर ऊर्जा ग्रिड"
+            ],
+            "correct_answer": "समुद्री बुनियादी ढांचा और तटीय सड़कें",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "इंडसइंड बैंक ने विशेष रूप से किस कॉर्पोरेट पारिस्थितिकी तंत्र की बैंकिंग और विदेशी मुद्रा आवश्यकताओं को पूरा करने के लिए एक समर्पित वर्टिकल लॉन्च किया है?",
+            "options": [
+                "सूक्ष्म वित्त संस्थान",
+                "वैश्विक क्षमता केंद्र",
+                "स्टार्टअप इनक्यूबेटर पार्क",
+                "स्पेशल इकोनॉमिक ज़ोन डेवलपर्स"
+            ],
+            "correct_answer": "वैश्विक क्षमता केंद्र",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड ने कितने हेलीकॉप्टरों वाले बहु - भूमिका वाले बेड़े की आपूर्ति के लिए स्काईपल्स सॉल्यूशंस के साथ एक समझौते पर हस्ताक्षर किए?",
+            "options": [
+                "20 हेलीकॉप्टर",
+                "50 हेलीकॉप्टर",
+                "15 हेलीकॉप्टर",
+                "30 हेलीकॉप्टर"
+            ],
+            "correct_answer": "30 हेलीकॉप्टर",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "टेकमे2स्पेस 2028 के अंत में किस वाणिज्यिक लॉन्च वाहन पर भारत के पहले नेटवर्क ऑर्बिटल डेटा सेंटर मिशन को लॉन्च करने की योजना बना रहा है?",
+            "options": [
+                "ULA Vulcan Centaur",
+                "ब्लू ओरिजिन न्यू ग्लेन",
+                "स्पेसएक्स फाल्कन 9",
+                "इसरो LVM3"
+            ],
+            "correct_answer": "स्पेसएक्स फाल्कन 9",
+            "answer_no": 3
+        },
+        {
+            "question_no": 14,
+            "question": "At the 46th Chess Olympiad held in Samarkand, which prodigy broke records to become the youngest Woman Grandmaster in history?",
+            "options": [
+                "दिव्या देशमुख",
+                "बोधना सिवानंदन",
+                "कोनेरू हम्पी",
+                "वंतिका अग्रवाल"
+            ],
+            "correct_answer": "बोधना सिवानंदन",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "India secured the 10th position at the 48th WorldSkills Competition held in Shanghai, bagging how many silver medals?",
+            "options": [
+                "4 silver medals",
+                "10 silver medals",
+                "6 silver medals",
+                "8 silver medals"
+            ],
+            "correct_answer": "6 silver medals",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "The theme chosen for World Contraception Day observed on September 26 highlights which core philosophy regarding reproductive health?",
+            "options": [
+                "Empowering Youth Through Education",
+                "No Barriers, Just Choices",
+                "Safe Choices, Healthy Futures",
+                "Family Planning for Sustainable Growth"
+            ],
+            "correct_answer": "No Barriers, Just Choices",
+            "answer_no": 2
+        },
+        {
+            "question_no": 17,
+            "question": "The Ministry of Jal Shakti hosted the 9th edition of India International Water Week at which prominent venue in New Delhi?",
+            "options": [
+                "Pragati Maidan",
+                "Bharat Mandapam",
+                "Yashobhoomi Convention Centre",
+                "Vigyan Bhawan"
+            ],
+            "correct_answer": "Bharat Mandapam",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "Delhi's Chief Minister launched the 'Udyog Mitra' Portal under the Ease of Doing Business initiative to integrate services from how many initial departments?",
+            "options": [
+                "10 departments",
+                "15 departments",
+                "21 departments",
+                "12 departments"
+            ],
+            "correct_answer": "15 departments",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "To protect Ladakh's distinct culture and land rights while keeping it a Union Territory, experts have debated introducing which special constitutional provision?",
+            "options": [
+                "Article 371-K",
+                "Article 370-A",
+                "Article 35-A",
+                "Article 244-A"
+            ],
+            "correct_answer": "Article 371-K",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "The recent heavy downpours across Uttar Pradesh that caused widespread flooding were attributed by the IMD to the interaction of a Bay of Bengal depression and what other weather system?",
+            "options": [
+                "Western Disturbance",
+                "Equatorial Rossby Wave",
+                "Southwest Monsoon Surge",
+                "Arabian Sea Cyclone"
+            ],
+            "correct_answer": "Western Disturbance",
+            "answer_no": 1
+        }
+    ]
+}
