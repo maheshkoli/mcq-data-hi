@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "01-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "हाल ही में, सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय ने सेवा उत्पादन का उप - क्षेत्रीय परीक्षण सूचकांक लॉन्च किया। इस नए आर्थिक संकेतक के लिए निर्धारित आधार वर्ष क्या है?",
+            "options": [
+                "2024 -25",
+                "2022 23",
+                "2017-18",
+                "2011-12"
+            ],
+            "correct_answer": "2024 -25",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "कोलकाता में 17 वें आधार दिवस समारोह के दौरान, भारतीय विशिष्ट पहचान प्राधिकरण ने पांच नए प्रशासनिक पहल शुरू किए। कौन सा मंत्रालय इस अधिकार पर प्रशासनिक नियंत्रण का प्रयोग करता है?",
+            "options": [
+                "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय",
+                "वाणिज्य और उद्योग मंत्रालय",
+                "गृह मंत्रालय",
+                "वित्त मंत्रालय"
+            ],
+            "correct_answer": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "केंद्रीय मंत्री अमित शाह ने हाल ही में नई दिल्ली में 'प्रहार' सम्मेलन ढांचे की शुरुआत की। इस राष्ट्रीय आतंकवाद विरोधी रणनीति का आधार कितने मुख्य स्तंभ हैं?",
+            "options": [
+                "छक्का",
+                "पांच",
+                "नौ",
+                "2 साल और 7 महीने के लिए रिश्ते में"
+            ],
+            "correct_answer": "2 साल और 7 महीने के लिए रिश्ते में",
+            "answer_no": 4
+        },
+        {
+            "question_no": 4,
+            "question": "भारतीय वन और लकड़ी प्रमाणन योजना के तहत भारत का पहला प्रमाणन हाल ही में दिया गया था। इस ऐतिहासिक मानक को लागू करने के लिए किस संस्थान को सौंपा गया है?",
+            "options": [
+                "भारतीय वन्यजीव संस्थान, देहरादून",
+                "भारतीय वन प्रबंधन संस्थान",
+                "वन अनुसंधान संस्थान, देहरादून",
+                "भारतीय वानिकी अनुसंधान एवं शिक्षा परिषद"
+            ],
+            "correct_answer": "भारतीय वन प्रबंधन संस्थान",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "राष्ट्रीय सांख्यिकीय व्यापार रजिस्टर को मजबूत करने के प्रयास में, एमएसएमई मंत्रालय ने एमओएसपीआई के साथ साझेदारी की। इन निकायों के बीच उद्यम पंजीकरण डेटा किस तकनीकी इंटरफ़ेस के माध्यम से प्रवाह करेगा?",
+            "options": [
+                "सुरक्षित फ़ाइल ट्रांसफ़र प्रोटोकॉल",
+                "क्लाउड वर्चुअल प्राइवेट नेटवर्क",
+                "एप्लीकेशन प्रोग्रामिंग इंटरफेस",
+                "ब्लॉकचेन वितरित लेजर"
+            ],
+            "correct_answer": "एप्लीकेशन प्रोग्रामिंग इंटरफेस",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "रक्षा शोधकर्ताओं ने हाल ही में सैन्य वाहनों के लिए उन्नत हल्के बुलेटप्रूफ ग्लास को इंजीनियर करने के लिए सीएसआईआर - सीजीसीआरआई के साथ सहयोग किया। इस बैलिस्टिक सुरक्षा के केंद्र में कौन सी तकनीक है?",
+            "options": [
+                "क्वार्ट्ज क्रिस्टल मैट्रिक्स",
+                "पॉली कार्बोनेट लेमिनेशन",
+                "रासायनिक रूप से टेम्पर्ड बोरोसिलिकेट",
+                "ग्लास - सिरेमिक तकनीक"
+            ],
+            "correct_answer": "ग्लास - सिरेमिक तकनीक",
+            "answer_no": 4
+        },
+        {
+            "question_no": 7,
+            "question": "एयर अयोध्या ने हाल ही में एक लोकप्रिय सरकारी योजना के तहत क्षेत्रीय केंद्रों को जोड़ने के लिए नागरिक उड्डयन अधिकारियों से अपनी प्रारंभिक नियामक मंजूरी हासिल की है। इस कनेक्टिविटी पहल का पूर्ण रूप क्या है?",
+            "options": [
+                "उच्च दर्जा आम निवेश",
+                "उड़े देश का आम नागरिक",
+                "उड़ान दास्ता आम निगम",
+                "उद्यमी देश आम निर्माण"
+            ],
+            "correct_answer": "उड़े देश का आम नागरिक",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "पांच प्रतिष्ठित भारतीय स्थानों को हाल ही में यूनेस्को की विश्व धरोहर अस्थायी सूची में शामिल किया गया था। उदयगिरी और बाग गुफाओं सहित इनमें से चार नए जोड़े गए सांस्कृतिक स्थलों का घर कौन सा राज्य है?",
+            "options": [
+                "I am fine in rajasthani",
+                "मध्य प्रदेश",
+                "महाराष्ट्र",
+                "तमिलनाडु"
+            ],
+            "correct_answer": "मध्य प्रदेश",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "वैश्विक एजेंसियों द्वारा किए गए एक संयुक्त अध्ययन ने इस बात पर प्रकाश डाला कि भारत में बुनियादी स्कूल स्वच्छता सुविधाओं की कमी वाले बच्चों का एक बड़ा हिस्सा है। किन दो अंतरराष्ट्रीय संगठनों ने इस व्यापक वॉश रिपोर्ट को लिखा है?",
+            "options": [
+                "यूएनईपी और यूएनडीपी",
+                "एफएओ और विश्व खाद्य कार्यक्रम",
+                "विश्व बैंक और यूनेस्को",
+                "डब्ल्यूएचओ और यूनिसेफ"
+            ],
+            "correct_answer": "डब्ल्यूएचओ और यूनिसेफ",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "जवाहरलाल नेहरू पोर्ट अथॉरिटी ने हाल ही में एक प्रमुख अंतरराष्ट्रीय बैंकिंग समूह के साथ भारत का पहला ब्लू फाइनेंसिंग पैकेज हासिल किया है। किन बहुपक्षीय संस्था ने किनारे के बिजली के बुनियादी ढांचे के लिए इस 70 मिलियन अमरीकी डालर के ऋण का विस्तार किया?",
+            "options": [
+                "एआईआईबी (एशियन इन्फ्रास्ट्रक्चर इन्वेस्टमेंट बैंक)",
+                "इंटरनेशनल फाइनेंस कॉर्पोरेशन",
+                "न्यू डेवलपमेंट बैंक",
+                "एशियाई विकास बैंक"
+            ],
+            "correct_answer": "इंटरनेशनल फाइनेंस कॉर्पोरेशन",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "Tech giant Apple rolled out its mobile payment service in India through partnerships with select banking institutions. Which private sector bank's credit cards were initially supported for this launch?",
+            "options": [
+                "ICICI Bank",
+                "HDFC Bank",
+                "Kotak Mahindra Bank",
+                "Axis Bank"
+            ],
+            "correct_answer": "Axis Bank",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "Bank of India made waves by launching a user-level programmable Central Bank Digital Currency with auto-issuance. Which technology firm engineered this platform capability?",
+            "options": [
+                "NPCI International",
+                "Tata Consultancy Services",
+                "Infosys Finacle",
+                "Montran India"
+            ],
+            "correct_answer": "Montran India",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "The Lalit Kala Akademi announced top artistic honors during its 65th National Exhibition of Art. What does this premier national cultural institution primarily promote?",
+            "options": [
+                "Visual Arts",
+                "Classical Music and Dance",
+                "Dramatic Theatre",
+                "Cinematic Arts"
+            ],
+            "correct_answer": "Visual Arts",
+            "answer_no": 1
+        },
+        {
+            "question_no": 14,
+            "question": "Jharkhand's traditional folk percussion instrument 'Mandar' earned a prestigious intellectual property recognition recently. What legal tag was granted to this cultural asset?",
+            "options": [
+                "Copyright Protection",
+                "Patent Registration",
+                "Geographical Indication Tag",
+                "Design Trademark"
+            ],
+            "correct_answer": "Geographical Indication Tag",
+            "answer_no": 3
+        },
+        {
+            "question_no": 15,
+            "question": "Edward Rukidi Kijanangoma was crowned as the 13th king of the historic Tooro Kingdom. In which African nation is this traditional monarchy situated?",
+            "options": [
+                "Ghana",
+                "Kenya",
+                "Uganda",
+                "Nigeria"
+            ],
+            "correct_answer": "Uganda",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "The United Nations marks the International Day for Universal Access to Information every year in late September. On which specific date does this global observance fall?",
+            "options": [
+                "September 15",
+                "September 21",
+                "September 28",
+                "September 30"
+            ],
+            "correct_answer": "September 28",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "The Union Government slashed the Basic Customs Duty on imported edible oils to tame food inflation. What economic trade-off does this administrative adjustment primarily highlight?",
+            "options": [
+                "Short-term consumer relief versus domestic farmer incentives",
+                "Export competitiveness versus import substitution",
+                "Fiscal deficit versus revenue surplus",
+                "Wholesale price index versus consumer price index weights"
+            ],
+            "correct_answer": "Short-term consumer relief versus domestic farmer incentives",
+            "answer_no": 1
+        },
+        {
+            "question_no": 18,
+            "question": "The Ministry of Home Affairs recently extended controversial special security legislation in parts of the Northeast. When was the original Armed Forces Special Powers Act enacted by Parliament?",
+            "options": [
+                "1958",
+                "1950",
+                "1965",
+                "1947"
+            ],
+            "correct_answer": "1958",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "Constitutional debates resurfaced around Jammu and Kashmir's governance framework following recent legislative resolutions. Through which specific legal clause was Article 370 rendered inoperative in August 2019?",
+            "options": [
+                "Clause 1 of Article 370",
+                "Article 356",
+                "Clause 3 of Article 370",
+                "Article 368"
+            ],
+            "correct_answer": "Clause 3 of Article 370",
+            "answer_no": 3
+        },
+        {
+            "question_no": 20,
+            "question": "The historic Instrument of Accession integrating the princely state of Jammu and Kashmir into the Indian Union was signed in which eventful year?",
+            "options": [
+                "1948",
+                "1947",
+                "1945",
+                "1950"
+            ],
+            "correct_answer": "1947",
+            "answer_no": 2
+        }
+    ]
+}
