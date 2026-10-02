@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "02-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "किस मंत्रालय ने यात्री वाहनों के लिए कॉर्पोरेट औसत ईंधन अर्थव्यवस्था (सीएएफई - III) मानदंडों के तीसरे चरण को आधिकारिक तौर पर अधिसूचित किया है?",
+            "options": [
+                "भारी उद्योग मंत्रालय",
+                "एमओईएफसीसी - पर्यावरण, वन एवं जलवायु परिवर्तन मंत्रालय",
+                "((सड़क परिवहन और राजमार्ग मंत्रालय | मिनिस्ट्री ऑफ रोड ट्रांसपोर्ट आंड हाइवेस | Ministry of road transport and Highways))",
+                "विद्युत मंत्रालय"
+            ],
+            "correct_answer": "विद्युत मंत्रालय",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "नए अधिसूचित सीएएफई - III ढांचे के तहत, ऑटोमोबाइल निर्माताओं के लिए कार्यान्वयन विंडो सेट क्या है?",
+            "options": [
+                "अप्रैल 2027 से मार्च 2032",
+                "अप्रैल 2026 से मार्च 2031",
+                "अप्रैल 2025 से मार्च 2030 तक",
+                "जनवरी 2027 से दिसंबर 2031"
+            ],
+            "correct_answer": "अप्रैल 2027 से मार्च 2032",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "क्लीनर मोबिलिटी विकल्पों को प्रोत्साहित करने के लिए, CAFE - III नियम एक सुपर - क्रेडिट तंत्र पेश करते हैं जहां बैटरी इलेक्ट्रिक वाहन (BEVs) निम्नलिखित के वॉल्यूम अपमान कारक का आनंद लेते हैं:",
+            "options": [
+                "2.5",
+                "1.5",
+                "3.0",
+                "2.0"
+            ],
+            "correct_answer": "3.0",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "भारत में विदेशी निवेश के संबंध में, हाल ही में अमेरिकी विदेश विभाग की एक रिपोर्ट में इस बात पर प्रकाश डाला गया है कि विदेशी बैंकों को निम्नलिखित प्रभावी कर दर का सामना करना पड़ता है:",
+            "options": [
+                "34.15%",
+                "33.59%",
+                "38.22%",
+                "40 से 50"
+            ],
+            "correct_answer": "38.22%",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "बढ़ते समुद्र के स्तर पर संयुक्त राष्ट्र महासभा की ऐतिहासिक घोषणा के अनुसार, एक राष्ट्र की समुद्री सीमाएं, जैसे कि इसका विशेष आर्थिक क्षेत्र (EEZ), निम्न कार्य करेगी:",
+            "options": [
+                "ग्लोबल कॉमन्स पर अपने आप लौटें",
+                "हर दशक में UNCLOS के तहत पुनर्विचार की आवश्यकता होती है",
+                "भले ही तटीय रेखाएँ शारीरिक रूप से पीछे हट जाएं, तब भी स्थिर रहें",
+                "तटीय रेखाएं कम होने पर आनुपातिक रूप से सिकोड़ें"
+            ],
+            "correct_answer": "भले ही तटीय रेखाएँ शारीरिक रूप से पीछे हट जाएं, तब भी स्थिर रहें",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "कलकत्ता उच्च न्यायालय ने हाल ही में फैसला सुनाया कि सोशल मीडिया पर जातिवादी गालियां एससी/एसटी (अत्याचार निवारण) अधिनियम को आकर्षित कर सकती हैं, यह कहते हुए कि 'सार्वजनिक दृष्टिकोण' की अवधारणा:",
+            "options": [
+                "कड़ाई से स्वतंत्र गवाहों की शारीरिक उपस्थिति की आवश्यकता होती है",
+                "आपराधिक न्यायशास्त्र के बाहर पूरी तरह से गिर जाता है",
+                "आधिकारिक हैंडल के साथ टैग किए जाने पर ही लागू होता है",
+                "भौतिक स्थान को डिजिटल डोमेन में बदल देता है"
+            ],
+            "correct_answer": "भौतिक स्थान को डिजिटल डोमेन में बदल देता है",
+            "answer_no": 4
+        },
+        {
+            "question_no": 7,
+            "question": "स्वयर सिंड्रोम, एक दुर्लभ आनुवंशिक विकार जहां व्यक्तियों में 46, XY गुणसूत्र होते हैं लेकिन महिला बाहरी जननांग विकसित होते हैं, को चिकित्सकीय रूप से निम्नलिखित के रूप में वर्गीकृत किया जाता है:",
+            "options": [
+                "लिंग विकास का विकार",
+                "माइटोकॉन्ड्रियल विरासत दोष",
+                "गुणसूत्रीय ट्राइसोमी की स्थिति",
+                "लिंग से जुड़ी अप्रभावी विसंगति"
+            ],
+            "correct_answer": "लिंग विकास का विकार",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "नई अनुमोदित पीएम - धारा योजना का उद्देश्य भारत की अंतर - राज्यीय पारेषण प्रणाली को मजबूत करना है ताकि कितनी नवीकरणीय ऊर्जा को निकाला जा सके?",
+            "options": [
+                "135 गीगावॉट",
+                "100 गीगावॉट",
+                "180 गीगावॉट",
+                "75 गीगावॉट"
+            ],
+            "correct_answer": "135 गीगावॉट",
+            "answer_no": 1
+        },
+        {
+            "question_no": 9,
+            "question": "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय द्वारा कार्यान्वित, राष्ट्रीय तटीय मिशन 2.0 को निम्नलिखित के रूप में वर्गीकृत किया गया है:",
+            "options": [
+                "पब्लिक - प्राइवेट पार्टनरशिप वेंचर",
+                "केंद्रीय क्षेत्र योजना",
+                "केंद्र प्रायोजित योजना",
+                "राज्य के नेतृत्व वाला स्पेशल पर्पज व्हीकल"
+            ],
+            "correct_answer": "केंद्रीय क्षेत्र योजना",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "ब्रिटिश कोलंबिया में स्थित किस रेडियो टेलीस्कोप का उपयोग हाल ही में भारतीय शोधकर्ताओं सहित एक अंतरराष्ट्रीय टीम द्वारा 9 अरब साल पहले की धुंधली हाइड्रोजन रेडियो चमक का पता लगाने के लिए किया गया था?",
+            "options": [
+                "मीरकैट ऐरे",
+                "तेज़ दूरबीन",
+                "अरेसिबो टेलीस्कॉप",
+                "चाइम टेलीस्कॉप"
+            ],
+            "correct_answer": "चाइम टेलीस्कॉप",
+            "answer_no": 4
+        },
+        {
+            "question_no": 11,
+            "question": "आसियान - भारत समुद्री अभ्यास (एआईएमई -2026) के दूसरे संस्करण की मेजबानी की गई, जिसमें भारतीय नौसेना के जहाज सह्याद्री और कुलिश शामिल थे:",
+            "options": [
+                "चांगी नेवल बेस, सिंगापुर",
+                "सबिक बे, फ़िलिपींस",
+                "सिहानोकविले, कंबोडिया",
+                "कैम रान बे, वियतनाम"
+            ],
+            "correct_answer": "सबिक बे, फ़िलिपींस",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "हाल ही में खबरों में देखा गया, यूक्रेन में रूसी बलों द्वारा उपयोग की जा रही मिसाघ -2 प्रणाली किस देश की तकनीक से प्राप्त एक ईरानी मैन - पोर्टेबल सतह से हवा में मार करने वाली मिसाइल है?",
+            "options": [
+                "फ़्रांस",
+                "रूस",
+                "चीन",
+                "उत्तरी कोरिया"
+            ],
+            "correct_answer": "चीन",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "The Schokari Sand Racer, recently rediscovered in Gujarat's Kutch region after more than 150 years, is best described as an:",
+            "options": [
+                "Critically endangered arboreal colubrid",
+                "Endangered semi-aquatic viper",
+                "Endemic nocturnal burrowing python",
+                "Extremely fast diurnal desert snake"
+            ],
+            "correct_answer": "Extremely fast diurnal desert snake",
+            "answer_no": 4
+        },
+        {
+            "question_no": 14,
+            "question": "Bathymyrus perplexus, a newly identified fish species characterized by a cylindrical body and pinkish coloration, was discovered in which marine body?",
+            "options": [
+                "Arabian Sea",
+                "Andaman Sea",
+                "Bay of Bengal",
+                "Gulf of Mannar"
+            ],
+            "correct_answer": "Bay of Bengal",
+            "answer_no": 3
+        },
+        {
+            "question_no": 15,
+            "question": "Bandhavgarh Tiger Reserve, which recently hosted an Elephant Festival and Rejuvenation Camp, is geographically situated between which two hill ranges?",
+            "options": [
+                "Vindhyan and Satpura ranges",
+                "Eastern Ghats and Chota Nagpur plateau",
+                "Western Ghats and Nilgiri hills",
+                "Aravalli and Vindhyan ranges"
+            ],
+            "correct_answer": "Vindhyan and Satpura ranges",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "Permafrost is scientifically defined as ground that remains completely frozen at or below 0°C for at least how many consecutive years?",
+            "options": [
+                "Ten years",
+                "One year",
+                "Five years",
+                "Two years"
+            ],
+            "correct_answer": "Two years",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "Under the Foreign Investment Framework highlighted in recent reports, what primary restriction do investors face when utilizing both FDI and FPI routes in India?",
+            "options": [
+                "FPI quotas cannot exceed 5% in companies with prior foreign direct investment",
+                "Pre-IPO FDI holdings must be fully divested before acquiring new shares via FPI",
+                "Simultaneous registration under both channels is outright banned",
+                "They must obtain RBI approval for every equity transfer"
+            ],
+            "correct_answer": "Pre-IPO FDI holdings must be fully divested before acquiring new shares via FPI",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "According to the UN declaration on sea-level rise, which historical convention's four-tier criteria is used to affirm that a submerged state's sovereignty survives?",
+            "options": [
+                "Geneva Convention",
+                "Montevideo Convention",
+                "Kyoto Protocol",
+                "Vienna Convention"
+            ],
+            "correct_answer": "Montevideo Convention",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "In the context of the Calcutta High Court's directives regarding digital casteist abuse, investigators were instructed to prioritize specialized protocols from which agency rather than declaring a dead end?",
+            "options": [
+                "State CID cyber-forensic and IP-log tracking units",
+                "CERT-In emergency response teams",
+                "National Technical Research Organisation",
+                "Central Bureau of Investigation"
+            ],
+            "correct_answer": "State CID cyber-forensic and IP-log tracking units",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "The super-credit mechanism under CAFE-III rules assigns a carbon-neutrality factor of 22.3% specifically to:",
+            "options": [
+                "Battery electric vehicles",
+                "Flex-fuel ethanol vehicles",
+                "Plug-in hybrid electric vehicles",
+                "Hydrogen fuel-cell cars"
+            ],
+            "correct_answer": "Flex-fuel ethanol vehicles",
+            "answer_no": 2
+        }
+    ]
+}
