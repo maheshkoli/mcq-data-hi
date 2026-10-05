@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "05-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "किन दो सरकारी निकायों ने RoDTEP और RoSCTL निर्यात प्रोत्साहन ढांचे की वैधता को दिसंबर 2026 के अंत तक बढ़ा दिया?",
+            "options": [
+                "विदेश मंत्रालय और विदेश व्यापार महानिदेशालय",
+                "एमएसएमई मंत्रालय और नीति आयोग",
+                "वस्त्र मंत्रालय के साथ वाणिज्य और उद्योग मंत्रालय",
+                "वित्त मंत्रालय और भारतीय रिज़र्व बैंक"
+            ],
+            "correct_answer": "वस्त्र मंत्रालय के साथ वाणिज्य और उद्योग मंत्रालय",
+            "answer_no": 3
+        },
+        {
+            "question_no": 2,
+            "question": "यात्री वाहनों के लिए नए अधिसूचित सीएएफई - III नियमों के तहत, विद्युत मंत्रालय द्वारा निर्धारित कार्यान्वयन विंडो क्या है?",
+            "options": [
+                "अक्टूबर 2027 से सितंबर 2032",
+                "अप्रैल 2025 से मार्च 2030 तक",
+                "जनवरी 2026 से दिसंबर 2030 तक",
+                "अप्रैल 2027 से मार्च 2032"
+            ],
+            "correct_answer": "अप्रैल 2027 से मार्च 2032",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "रक्षा लेखा विभाग के 279 वें वार्षिक दिवस समारोह के दौरान, रक्षा मंत्री ने जस्ट - इन - टाइम फंड रिलीज को सक्षम करने के लिए किस वित्तीय तंत्र का संचालन किया?",
+            "options": [
+                "किसान रिकॉर्ड pfms बैंक द्वारा किया गया है",
+                "ट्रेजरी सिंगल अकाउंट (TSA) सिस्टम",
+                "एकीकृत वित्तीय सलाहकार पोर्टल (IFAP)",
+                "केंद्रीय योजना निगरानी प्रणाली (सीपीएसएमएस)"
+            ],
+            "correct_answer": "ट्रेजरी सिंगल अकाउंट (TSA) सिस्टम",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "राष्ट्रीय ग्रामीण अवसंरचना विकास एजेंसी ने पीएमजीएसवाई - IV के तहत निर्मित ग्रामीण सड़कों पर चार साल के प्रभाव अध्ययन के लिए किस प्रमुख प्रबंधन संस्थान के साथ साझेदारी की?",
+            "options": [
+                "आईआईएम कोलकाता",
+                "आईआईएम कोझिकोड",
+                "आईआईएम अहमदाबाद",
+                "आईआईएम बैंगलोर"
+            ],
+            "correct_answer": "आईआईएम कोलकाता",
+            "answer_no": 1
+        },
+        {
+            "question_no": 5,
+            "question": "पीआरआईपी योजना के नए लॉन्च किए गए न्यू डिस्कवरी ट्रैक के तहत स्टार्टअप और एमएसएमई को दी जाने वाली प्रति परियोजना अधिकतम वित्तीय सहायता कितनी है?",
+            "options": [
+                "50 करोड़ रुपये तक",
+                "25 करोड़ रुपये तक",
+                "100 करोड़ रुपये तक",
+                "10 करोड़ रुपये तक"
+            ],
+            "correct_answer": "50 करोड़ रुपये तक",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "नियंत्रक और महालेखा परीक्षक के कार्यालय द्वारा आधिकारिक ऑडिट रिपोर्ट के एआई - संचालित, संदर्भ - जागरूक अनुवाद के लिए किस तकनीकी मंच को अपनाया गया था?",
+            "options": [
+                "कैग - भशिनी अनुवाद",
+                "न्याय भाषा पोर्टल",
+                "अनुवादिनी एआई",
+                "भारतीय अनुवदक"
+            ],
+            "correct_answer": "कैग - भशिनी अनुवाद",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "भारतीय खाद्य निगम के साथ सहयोग करते हुए, कौन सा वैज्ञानिक निकाय संग्रहीत खाद्यान्नों के लिए गैर - रासायनिक धूमन विकल्पों में अनुसंधान का नेतृत्व कर रहा है?",
+            "options": [
+                "वैज्ञानिक और औद्योगिक अनुसंधान परिषद (सीएसआईआर)",
+                "भारतीय कृषि अनुसंधान परिषद (आईसीएआर)",
+                "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण",
+                "राष्ट्रीय पोषण संस्थान (एनआईएन)"
+            ],
+            "correct_answer": "भारतीय कृषि अनुसंधान परिषद (आईसीएआर)",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "महाराष्ट्र के लिए हस्ताक्षरित संशोधित भारतनेट कार्यक्रम समझौते के तहत, राज्य के नेतृत्व वाले निष्पादन मॉडल को मुख्य रूप से किस इकाई के माध्यम से लागू किया जाएगा?",
+            "options": [
+                "रिलायंस जियो इन्फोकॉम",
+                "भारतीय रेलटेल निगम लिमिटेड",
+                "टाटा टेलीसर्विसेज",
+                "महानेट डिजिटल इन्फ्रास्ट्रक्चर लिमिटेड (एमडीआईएल)"
+            ],
+            "correct_answer": "महानेट डिजिटल इन्फ्रास्ट्रक्चर लिमिटेड (एमडीआईएल)",
+            "answer_no": 4
+        },
+        {
+            "question_no": 9,
+            "question": "At the 70th meeting of the International Whaling Commission held in Hobart, participating nations adopted which consensus declaration marking an 80-year milestone?",
+            "options": [
+                "दक्षिणी महासागर चार्टर",
+                "होबार्ट घोषणा",
+                "मेलबर्न सेटेशियन पैक्ट",
+                "द पैसिफ़िक व्हेल एकॉर्ड"
+            ],
+            "correct_answer": "होबार्ट घोषणा",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "Which public sector banking institution recently secured regulatory approval to sponsor its own pension fund subsidiary under the PFRDA Act?",
+            "options": [
+                "State Bank of India",
+                "Bank of Baroda",
+                "Canara Bank",
+                "Punjab National Bank"
+            ],
+            "correct_answer": "Bank of Baroda",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "According to the Ministry of Finance's review, India's real GDP growth for the second quarter of Financial Year 2026-27 was pegged at what percentage?",
+            "options": [
+                "7.1%",
+                "7.3%",
+                "7.8%",
+                "6.8%"
+            ],
+            "correct_answer": "7.3%",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "In the latest Times Higher Education World University Rankings, which Indian institution emerged as the highest-ranked domestic entrant?",
+            "options": [
+                "IIT Bombay",
+                "IIT Madras",
+                "IIT Delhi",
+                "IISc Bengaluru"
+            ],
+            "correct_answer": "IISc Bengaluru",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "Who assumed charge as the Managing Director and CEO of HDFC Bank, marking a historic milestone as the institution's first external chief executive?",
+            "options": [
+                "Anup Bagchi",
+                "Sandeep Bakhshi",
+                "Sashidhar Jagdishan",
+                "Amitabh Chaudhry"
+            ],
+            "correct_answer": "Anup Bagchi",
+            "answer_no": 1
+        },
+        {
+            "question_no": 14,
+            "question": "Flying Wedge Defence & Aerospace partnered with Portugal's Keydef to manufacture which autonomous drone models abroad?",
+            "options": [
+                "Rustom and Tapas",
+                "Garuda and Lakshya",
+                "Nishant and Netra",
+                "Kaal Bhairava and YAMA"
+            ],
+            "correct_answer": "Kaal Bhairava and YAMA",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "SpaceX's Transporter-18 mission deployed numerous payloads into Low Earth Orbit, notably carrying Google's experimental AI chips under which program?",
+            "options": [
+                "Project Starlight",
+                "Project OrbitNet",
+                "Project Suncatcher",
+                "Project Nebula"
+            ],
+            "correct_answer": "Project Suncatcher",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "What's the official theme chosen by the United Nations for the International Day of Older Persons observed on October 1?",
+            "options": [
+                "Fulfilling the Promises of the Universal Declaration of Human Rights for Older Persons",
+                "Digital Equity for All Ages",
+                "The Age of Longevity: Rethinking Systems for Longer Lives",
+                "Resilience of Older Persons in a Changing World"
+            ],
+            "correct_answer": "The Age of Longevity: Rethinking Systems for Longer Lives",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "World Vegetarian Day, which kicks off a month-long awareness campaign every October, was first established by an organisation based in which nation?",
+            "options": [
+                "Switzerland",
+                "United Kingdom",
+                "United States of America",
+                "India"
+            ],
+            "correct_answer": "United States of America",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "International Coffee Day is celebrated annually on October 1, coinciding with what significant agricultural marker in several producing countries?",
+            "options": [
+                "The peak monsoon withdrawal period for coffee estates",
+                "The foundation anniversary of the International Coffee Organization",
+                "The start of the official coffee trade financial year",
+                "The beginning of the regional coffee harvesting season"
+            ],
+            "correct_answer": "The start of the official coffee trade financial year",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "Which government department oversees Digital Bharat Nidhi, the fund recently utilized for digital infrastructure expansion agreements?",
+            "options": [
+                "Department of Telecommunications",
+                "Department of Science and Technology",
+                "Department of Expenditure",
+                "Department of Economic Affairs"
+            ],
+            "correct_answer": "Department of Telecommunications",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "Under the ICAR-FCI collaborative research project, how many major phases are outlined for developing alternative fumigation protocols?",
+            "options": [
+                "Four continuous phases",
+                "Three sequential phases",
+                "Single comprehensive phase",
+                "Two distinct phases"
+            ],
+            "correct_answer": "Two distinct phases",
+            "answer_no": 4
+        }
+    ]
+}
