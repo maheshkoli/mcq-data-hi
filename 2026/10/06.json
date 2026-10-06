@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "06-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "न्यायिक हस्तक्षेप के बाद केंद्रीय मंत्रिमंडल द्वारा केंद्रीय सशस्त्र पुलिस बलों के समूह ए कार्यकारी कैडर अधिकारियों को कौन सा विशिष्ट दर्जा दिया गया था?",
+            "options": [
+                "अर्धसैनिक कार्यकारी कमान (पीईसी) की मान्यता",
+                "अखिल भारतीय सेवा (एआईएस) कैडर की स्थिति",
+                "सेंट्रल सिविल सर्विसेज क्लास I पदनाम",
+                "संगठित समूह ए सेवा (ओजीएएस) की स्थिति"
+            ],
+            "correct_answer": "संगठित समूह ए सेवा (ओजीएएस) की स्थिति",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "नए अधिनियमित केंद्रीय सशस्त्र पुलिस बल अधिनियम के तहत, महानिरीक्षक (IG) पदों के किस अनुपात को विशेष रूप से प्रतिनियुक्ति के लिए अलग रखा गया है?",
+            "options": [
+                "तैंतीस प्रतिशत",
+                "साठ - सात प्रतिशत",
+                "पचास प्रतिशत",
+                "बीस प्रतिशत"
+            ],
+            "correct_answer": "पचास प्रतिशत",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "ग्रीन एनर्जी कॉरिडोर के नए अनुमोदित तीसरे चरण में मुख्य रूप से किस प्राथमिक परिचालन बाधा से निपटना है?",
+            "options": [
+                "सौर फोटोवोल्टिक पैनलों की उच्च विनिर्माण लागत",
+                "फोटोवोल्टिक कोशिकाओं के लिए अत्यधिक विदेशी निर्भरता",
+                "पवन कृषि प्रतिष्ठानों के लिए भूमि की कमी",
+                "ट्रांसमिशन की अड़चनें और बिजली कटौती के मुद्दे"
+            ],
+            "correct_answer": "ट्रांसमिशन की अड़चनें और बिजली कटौती के मुद्दे",
+            "answer_no": 4
+        },
+        {
+            "question_no": 4,
+            "question": "For the first time in its history, Phase 3 of the Green Energy Corridor incorporates a dedicated financial outlay for which technology?",
+            "options": [
+                "अपतटीय फ्लोटिंग पवन टरबाइन इकाइयां",
+                "बैटरी एनर्जी स्टोरेज सिस्टम (BESS)",
+                "स्मार्ट माइक्रोग्रिड डिस्ट्रीब्यूशन मीटर",
+                "हरित हाइड्रोजन उत्पादन सुविधाएं"
+            ],
+            "correct_answer": "बैटरी एनर्जी स्टोरेज सिस्टम (BESS)",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "In a recent ruling concerning a foreign national at New Delhi's airport, the Delhi High Court clarified that holding a valid visa...",
+            "options": [
+                "Enforces reciprocal travel privileges under bilateral accords",
+                "Guarantees automatic entry under international transit treaties",
+                "Grants an absolute right of admission once clearance is paid",
+                "Does not constitute an enforceable legal right to enter India"
+            ],
+            "correct_answer": "Does not constitute an enforceable legal right to enter India",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "When developing greenfield intra-state transmission projects under the Green Energy Corridor scheme, which implementation model is utilised?",
+            "options": [
+                "Tariff-Based Competitive Bidding (TBCB)",
+                "Cost-Plus Basis (CPB) state funding",
+                "Direct central budgetary allocation model",
+                "Public-Private Partnership viability gap funding"
+            ],
+            "correct_answer": "Tariff-Based Competitive Bidding (TBCB)",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "The constitutional right to move, reside, and settle freely anywhere within the territory of India under Article 19(1)(e) is available to...",
+            "options": [
+                "Foreign nationals holding valid business visas",
+                "Persons of Indian Origin residing abroad temporarily",
+                "All residents holding a valid Aadhaar card",
+                "Citizens of India exclusively"
+            ],
+            "correct_answer": "Citizens of India exclusively",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "As per the Central Electricity Authority projections for 2035–36, what is India's targeted total energy storage capacity mix?",
+            "options": [
+                "82 GW across pumped hydro units only",
+                "174 GW combining BESS and pumped hydro storage",
+                "95 GW distributed via compressed air systems",
+                "210 GW exclusively through lithium-ion battery installations"
+            ],
+            "correct_answer": "174 GW combining BESS and pumped hydro storage",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "What was the primary legal ground cited by the Turkmenistan citizen who challenged her denial of entry at the Delhi airport?",
+            "options": [
+                "Violation of equality before law and protection of life under Articles 14 and 21",
+                "Infringement of freedom of trade and commerce under Article 301",
+                "Breach of consular immunity provisions under the Vienna Convention",
+                "Denial of natural justice through retroactive statutory application"
+            ],
+            "correct_answer": "Violation of equality before law and protection of life under Articles 14 and 21",
+            "answer_no": 1
+        },
+        {
+            "question_no": 10,
+            "question": "Which specific committee level monitors the progress and implementation milestones of GEC-II and GEC-III projects twice a year?",
+            "options": [
+                "Parliamentary Standing Committee on Energy",
+                "Cabinet Secretary level steering committee",
+                "Prime Minister's Office infrastructure task force",
+                "NITI Aayog governing council advisory board"
+            ],
+            "correct_answer": "Cabinet Secretary level steering committee",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "In the context of the CAPF dispute, what does the acronym NFFU stand for in public service administration?",
+            "options": [
+                "Non-Functional Financial Upgradation",
+                "National Force Financial Unification",
+                "Net Foreign Fund Utilization",
+                "Non-Cadre Fixed Financial Undertaking"
+            ],
+            "correct_answer": "Non-Functional Financial Upgradation",
+            "answer_no": 1
+        },
+        {
+            "question_no": 12,
+            "question": "Under the statutory framework of the Foreigners Act, powers to regulate, restrict, or prohibit the entry and presence of foreign nationals are vested primarily in...",
+            "options": [
+                "Bureau of Immigration district regional offices",
+                "State police DGP headquarters via Home Ministry notifications",
+                "The Central government through executive discretion",
+                "The Supreme Court collegium on administrative matters"
+            ],
+            "correct_answer": "The Central government through executive discretion",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "How many states were initially covered under the first phase of the Green Energy Corridor scheme before its subsequent expansion?",
+            "options": [
+                "Twelve states",
+                "Eight states",
+                "Fifteen states",
+                "Five states"
+            ],
+            "correct_answer": "Eight states",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "What is the primary rationale provided by the Ministry of Home Affairs for retaining IPS deputation slots within paramilitary forces?",
+            "options": [
+                "To offset budgetary deficits in central paramilitary pension funds",
+                "To maintain a seamless institutional link between central and state police machinery",
+                "To comply with mandatory UN peacekeeping deployment protocols",
+                "To ensure technical compatibility with international defence standards"
+            ],
+            "correct_answer": "To maintain a seamless institutional link between central and state police machinery",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "Approximately how much clean electricity generation faced curtailment in FY26 due to transmission infrastructure mismatches?",
+            "options": [
+                "12,400 GWh",
+                "1,200 GWh",
+                "3,500 GWh",
+                "6,900 GWh"
+            ],
+            "correct_answer": "6,900 GWh",
+            "answer_no": 4
+        },
+        {
+            "question_no": 16,
+            "question": "Which historic judicial precedent established that the Foreigners Act grants the Indian government expansive authority regarding the expulsion of aliens?",
+            "options": [
+                "Hans Muller of Nurenburg v. Superintendent, Presidency Jail",
+                "Kesavananda Bharati v. State of Kerala",
+                "ADM Jabalpur v. Shivkant Shukla",
+                "Maneka Gandhi v. Union of India"
+            ],
+            "correct_answer": "Hans Muller of Nurenburg v. Superintendent, Presidency Jail",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "What core legal tension does the recent controversy surrounding the 2026 CAPF Act highlight in India's constitutional framework?",
+            "options": [
+                "The conflict over language representation in administrative tribunals",
+                "The clash between federal financial grants and state taxation powers",
+                "The interface between legislative supremacy and judicial review of service rules",
+                "The division of emergency powers between the President and state governors"
+            ],
+            "correct_answer": "The interface between legislative supremacy and judicial review of service rules",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "Which agency serves as the overall implementing body for intra-state transmission projects under the Green Energy Corridor framework?",
+            "options": [
+                "National Thermal Power Corporation (NTPC)",
+                "Central Electricity Authority regional boards",
+                "State transmission utilities",
+                "Power Grid Corporation of India Limited (PGCIL)"
+            ],
+            "correct_answer": "State transmission utilities",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "Under the Foreigners Act framework, what specific documentation must every arriving international traveller present at the port of entry?",
+            "options": [
+                "A valid passport or travel document alongside an appropriate visa",
+                "A tax clearance certificate and local sponsorship affidavit",
+                "A medical fitness certificate and police clearance from home country",
+                "Proof of return air travel and confirmed hotel bookings only"
+            ],
+            "correct_answer": "A valid passport or travel document alongside an appropriate visa",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "What key objective does the Central Financial Support (CFS) component of ₹54,082 crore aim to achieve within GEC-III?",
+            "options": [
+                "Provide interest-free loans to rural cooperatives for setting up solar water pumps",
+                "Directly subsidise solar panel manufacturing plants across coastal industrial corridors",
+                "Offset intra-state transmission charges to keep electricity affordable for end users",
+                "Fund state-level research grants for advanced lithium-ion cell recycling technologies"
+            ],
+            "correct_answer": "Offset intra-state transmission charges to keep electricity affordable for end users",
+            "answer_no": 3
+        }
+    ]
+}
