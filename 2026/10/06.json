@@ -5,50 +5,50 @@
     "data": [
         {
             "question_no": 1,
-            "question": "न्यायिक हस्तक्षेप के बाद केंद्रीय मंत्रिमंडल द्वारा केंद्रीय सशस्त्र पुलिस बलों के समूह ए कार्यकारी कैडर अधिकारियों को कौन सा विशिष्ट दर्जा दिया गया था?",
+            "question": "Which specific status was granted by the Union Cabinet to Group A executive cadre officers of the Central Armed Police Forces following judicial intervention?",
             "options": [
-                "अर्धसैनिक कार्यकारी कमान (पीईसी) की मान्यता",
-                "अखिल भारतीय सेवा (एआईएस) कैडर की स्थिति",
-                "सेंट्रल सिविल सर्विसेज क्लास I पदनाम",
-                "संगठित समूह ए सेवा (ओजीएएस) की स्थिति"
+                "Paramilitary Executive Command (PEC) recognition",
+                "All India Services (AIS) cadre status",
+                "Central Civil Services Class I designation",
+                "Organised Group A Service (OGAS) status"
             ],
-            "correct_answer": "संगठित समूह ए सेवा (ओजीएएस) की स्थिति",
+            "correct_answer": "Organised Group A Service (OGAS) status",
             "answer_no": 4
         },
         {
             "question_no": 2,
-            "question": "नए अधिनियमित केंद्रीय सशस्त्र पुलिस बल अधिनियम के तहत, महानिरीक्षक (IG) पदों के किस अनुपात को विशेष रूप से प्रतिनियुक्ति के लिए अलग रखा गया है?",
+            "question": "Under the newly enacted Central Armed Police Forces Act, what proportion of Inspector General (IG) posts is specifically set aside for deputation?",
             "options": [
-                "तैंतीस प्रतिशत",
-                "साठ - सात प्रतिशत",
-                "पचास प्रतिशत",
-                "बीस प्रतिशत"
+                "Thirty-three percent",
+                "Sixty-seven percent",
+                "Fifty percent",
+                "Twenty percent"
             ],
-            "correct_answer": "पचास प्रतिशत",
+            "correct_answer": "Fifty percent",
             "answer_no": 3
         },
         {
             "question_no": 3,
-            "question": "ग्रीन एनर्जी कॉरिडोर के नए अनुमोदित तीसरे चरण में मुख्य रूप से किस प्राथमिक परिचालन बाधा से निपटना है?",
+            "question": "What primary operational hurdle does the newly approved third phase of the Green Energy Corridor primarily seek to tackle?",
             "options": [
-                "सौर फोटोवोल्टिक पैनलों की उच्च विनिर्माण लागत",
-                "फोटोवोल्टिक कोशिकाओं के लिए अत्यधिक विदेशी निर्भरता",
-                "पवन कृषि प्रतिष्ठानों के लिए भूमि की कमी",
-                "ट्रांसमिशन की अड़चनें और बिजली कटौती के मुद्दे"
+                "High manufacturing costs of solar photovoltaic panels",
+                "Excessive foreign dependency for photovoltaic cells",
+                "Scarcity of land for wind farm installations",
+                "Transmission bottlenecks and power curtailment issues"
             ],
-            "correct_answer": "ट्रांसमिशन की अड़चनें और बिजली कटौती के मुद्दे",
+            "correct_answer": "Transmission bottlenecks and power curtailment issues",
             "answer_no": 4
         },
         {
             "question_no": 4,
             "question": "For the first time in its history, Phase 3 of the Green Energy Corridor incorporates a dedicated financial outlay for which technology?",
             "options": [
-                "अपतटीय फ्लोटिंग पवन टरबाइन इकाइयां",
-                "बैटरी एनर्जी स्टोरेज सिस्टम (BESS)",
-                "स्मार्ट माइक्रोग्रिड डिस्ट्रीब्यूशन मीटर",
-                "हरित हाइड्रोजन उत्पादन सुविधाएं"
+                "Offshore floating wind turbine units",
+                "Battery Energy Storage Systems (BESS)",
+                "Smart microgrid distribution meters",
+                "Green hydrogen production facilities"
             ],
-            "correct_answer": "बैटरी एनर्जी स्टोरेज सिस्टम (BESS)",
+            "correct_answer": "Battery Energy Storage Systems (BESS)",
             "answer_no": 2
         },
         {
