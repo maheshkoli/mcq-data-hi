@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "10-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "1970 के दशक के उत्तरार्ध में पेश किए गए कौन से विशिष्ट कृषि उपकरण ऐतिहासिक रूप से पंजाब में पराली जलाने की उत्पत्ति से जुड़े हुए हैं?",
+            "options": [
+                "रोटावेटर",
+                "ट्रैक्टर - माउंटेड थ्रेशर",
+                "हैप्पी सीडर्स",
+                "हार्वेस्टर को मिलाएँ"
+            ],
+            "correct_answer": "हार्वेस्टर को मिलाएँ",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "भूजल के संरक्षण के उद्देश्य से एक कदम में, पंजाब उप - मृदा जल संरक्षण अधिनियम किस वर्ष अधिनियमित किया गया था?",
+            "options": [
+                "2012",
+                "2015.",
+                "2009",
+                "२००५"
+            ],
+            "correct_answer": "2009",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "किस वैज्ञानिक पहल या अध्ययन ने 2002 और 2008 के बीच पंजाब - हरियाणा - राजस्थान क्षेत्र में बड़े पैमाने पर भूजल की कमी की घटना का खुलासा किया?",
+            "options": [
+                "सीपीसीबी भूजल जनगणना",
+                "इसरो कार्टोसैट सर्वेक्षण",
+                "NASA GRACE उपग्रह अध्ययन",
+                "आईएमडी हाइड्रोलॉजिकल मूल्यांकन"
+            ],
+            "correct_answer": "NASA GRACE उपग्रह अध्ययन",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "सख्त पर्यावरणीय चेतावनियों के बावजूद किसानों के जल - सघन धान और गेहूं की खेती के साथ बने रहने के पीछे प्राथमिक कारण क्या है?",
+            "options": [
+                "किसी अन्य व्यवहार्य खाद्य फसलों की अनुपस्थिति",
+                "आश्वस्त फसल खरीद और मुफ्त बिजली",
+                "उच्च उपज वाले वैकल्पिक बीजों की कमी",
+                "अनाज निर्यात के लिए अनिवार्य राज्य कोटा"
+            ],
+            "correct_answer": "आश्वस्त फसल खरीद और मुफ्त बिजली",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "हाल ही में धान की कटाई के मौसम के दौरान पराली जलाने की घटनाओं में 90% की गिरावट सांख्यिकीय रूप से भ्रामक क्यों हो सकती है?",
+            "options": [
+                "डेटा में छोटी सीमांत जोत शामिल नहीं है",
+                "राज्य सरकारें ज़िला जुर्माने के संग्रह को कम करके रिपोर्ट करती हैं",
+                "ध्रुवीय उपग्रह अपनी संकीर्ण दोपहर अवलोकन खिड़की के बाहर जलाए गए आग को याद करते हैं",
+                "क्लाउड कवर थर्मल सेंसर को पूरी तरह से अस्पष्ट कर देता है"
+            ],
+            "correct_answer": "ध्रुवीय उपग्रह अपनी संकीर्ण दोपहर अवलोकन खिड़की के बाहर जलाए गए आग को याद करते हैं",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "कुशल विदेशी कर्मचारियों के लिए स्थायी निवास की मांग करने वाली प्रमुख भारतीय आईटी फर्मों को प्रभावित करने वाले हालिया अमेरिकी निलंबन के केंद्र में कौन सा कार्यक्रम है?",
+            "options": [
+                "पर्म श्रम प्रमाणन",
+                "EB -5 आप्रवासी निवेशक",
+                "H -1B वीज़ा योजना",
+                "L -1 इंट्रा - कंपनी ट्रांसफर"
+            ],
+            "correct_answer": "पर्म श्रम प्रमाणन",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "PERM प्रक्रिया मूल रूप से एक मानक H -1B वीज़ा आवेदन से कैसे अलग है?",
+            "options": [
+                "PERM आवेदन सीधे व्यक्तिगत कर्मचारी द्वारा दायर किए जाते हैं",
+                "पर्म को पूरी तरह से नियोक्ता द्वारा प्रबंधित किया जाता है ताकि श्रम प्रमाणीकरण सुरक्षित किया जा सके",
+                "एच -1बी (H -1B) तुरंत स्थायी निवास प्रदान करता है",
+                "H -1B के लिए प्रचलित वेतन ऑडिट की आवश्यकता होती है जबकि PERM नहीं करता है"
+            ],
+            "correct_answer": "पर्म को पूरी तरह से नियोक्ता द्वारा प्रबंधित किया जाता है ताकि श्रम प्रमाणीकरण सुरक्षित किया जा सके",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "हाल ही में अमेरिकी विदेश विभाग के वीज़ा बुलेटिन में किस भारतीय रोजगार - आधारित ग्रीन कार्ड श्रेणी को 'अनुपलब्ध' के रूप में सूचीबद्ध किया गया था?",
+            "options": [
+                "EB -5 आप्रवासी निवेशक",
+                "ईबी -1 प्राथमिकता वाले कर्मचारी",
+                "EB -2 दूसरी प्राथमिकता",
+                "EB -4 विशेष आप्रवासी"
+            ],
+            "correct_answer": "EB -2 दूसरी प्राथमिकता",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "जीएसटी परिषद ने अपनी 57 वीं बैठक के दौरान प्रशासनिक विवादों को आपराधिक कृत्यों से अलग करने के लिए अभियोजन के लिए किस सीमा में बदलाव की सिफारिश की थी?",
+            "options": [
+                "₹ 2 करोड़ से बढ़ाकर ₹ 10 करोड़ किया गया",
+                "₹ 1 करोड़ से बढ़ाकर ₹ 5 करोड़ किया गया",
+                "सभी पंजीकृत संस्थाओं के लिए पूरी तरह से हटाया गया",
+                "₹ 50 लाख से बढ़ाकर ₹ 2 करोड़ किया गया"
+            ],
+            "correct_answer": "₹ 1 करोड़ से बढ़ाकर ₹ 5 करोड़ किया गया",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "नए प्रस्तावित जीएसटी रिफंड फ्रेमवर्क के तहत, तीन कार्य दिवसों के भीतर स्वचालित मंजूरी के लिए योग्य दावों के कितने प्रतिशत की सिफारिश की जाती है?",
+            "options": [
+                "75 प्रतिशत.",
+                "80 प्रतिशत",
+                "100 प्रतिशत",
+                "90 प्रतिशत"
+            ],
+            "correct_answer": "90 प्रतिशत",
+            "answer_no": 4
+        },
+        {
+            "question_no": 11,
+            "question": "An inverted duty structure occurs when the tax rate on inputs is...",
+            "options": [
+                "अंतिम आउटपुट पर कर की दर से कम",
+                "अंतिम आउटपुट पर कर की दर से अधिक",
+                "अंतिम उत्पाद के खुदरा मूल्य के बराबर",
+                "राज्य के राजस्व विभागों द्वारा छूट"
+            ],
+            "correct_answer": "अंतिम आउटपुट पर कर की दर से अधिक",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "To prevent arbitrary checks during inter-State transportation, vehicles carrying goods may now be intercepted only upon specific intelligence and due authorisation by an officer at which rank?",
+            "options": [
+                "Joint Commissioner level",
+                "Superintendent level",
+                "Commissioner of Customs",
+                "Chief Secretary"
+            ],
+            "correct_answer": "Joint Commissioner level",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "What GST rate was clarified by the Council to be applicable on delivery services provided by unregistered riders via e-commerce platforms?",
+            "options": [
+                "18 percent",
+                "12 percent",
+                "5 percent",
+                "3 percent"
+            ],
+            "correct_answer": "5 percent",
+            "answer_no": 3
+        },
+        {
+            "question_no": 14,
+            "question": "Which technological measure for in-situ stubble management requires an expensive 60-HP tractor that often remains idle for most of the year?",
+            "options": [
+                "Direct seeding drills",
+                "Happy Seeders and Super Seeders",
+                "Bio-ethanol conversion units",
+                "Compressed biogas plants"
+            ],
+            "correct_answer": "Happy Seeders and Super Seeders",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "Haryana’s incentive-based stubble management model includes providing how much financial assistance per acre specifically for direct seeding of rice?",
+            "options": [
+                "₹4,000",
+                "₹2,500",
+                "₹7,000",
+                "₹1,000"
+            ],
+            "correct_answer": "₹4,000",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "What is the primary operational hurdle associated with ex-situ stubble management options like bio-ethanol or compressed biogas production?",
+            "options": [
+                "Strict bans imposed by the National Green Tribunal on factory setups",
+                "Lack of transport vehicles in rural districts",
+                "Complete unsuitability of paddy straw for biofuel processing",
+                "Heavy logistical conversion expenses ranging between ₹1,500 and ₹2,500 per acre"
+            ],
+            "correct_answer": "Heavy logistical conversion expenses ranging between ₹1,500 and ₹2,500 per acre",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "What major procedural change was announced for Central GST taxpayers registered in multiple States to improve assessment consistency?",
+            "options": [
+                "Introduction of faceless assessment systems",
+                "Mandatory physical verification every quarter",
+                "Manual audits conducted by local district collectors",
+                "Abolition of multi-state registration requirements"
+            ],
+            "correct_answer": "Introduction of faceless assessment systems",
+            "answer_no": 1
+        },
+        {
+            "question_no": 18,
+            "question": "In the context of recent PERM suspensions, what immediate barrier do affected Indian professionals face if they are approaching their H-1B six-year limit?",
+            "options": [
+                "Inability to file new labor certifications to secure visa extensions",
+                "Permanent disqualification from applying for US citizenship",
+                "Automatic conversion of their status to student visas",
+                "Immediate deportation from the country"
+            ],
+            "correct_answer": "Inability to file new labor certifications to secure visa extensions",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "Which scientific organization led the November 2025 study revealing that farmers had adjusted their burning schedules to late evenings to elude polar satellite observation windows?",
+            "options": [
+                "ESA",
+                "NOAA",
+                "NASA",
+                "ISRO"
+            ],
+            "correct_answer": "ISRO",
+            "answer_no": 4
+        },
+        {
+            "question_no": 20,
+            "question": "What overarching governance approach did the Parliamentary Committee on air quality recommend regarding farmers who burn crop residue?",
+            "options": [
+                "Complete withdrawal of all rural banking facilities",
+                "Total seizure of agricultural land for repeat offenders",
+                "Immediate imprisonment without trial",
+                "Penalising cultivators should be a last resort alongside offering minimum cost prices for stubble"
+            ],
+            "correct_answer": "Penalising cultivators should be a last resort alongside offering minimum cost prices for stubble",
+            "answer_no": 4
+        }
+    ]
+}
