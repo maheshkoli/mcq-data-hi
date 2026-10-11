@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "11-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "पहले कैप्टिव - नस्ल के नर ग्रेट इंडियन बस्टर्ड्स को हाल ही में जंगल में कहाँ छोड़ा गया था?",
+            "options": [
+                "डेजर्ट नेशनल पार्क, राजस्थान",
+                "जिम कॉर्बेट नेशनल पार्क, उत्तराखंड",
+                "काजीरंगा राष्ट्रीय उद्यान, असम",
+                "गिर नेशनल पार्क, गुजरात"
+            ],
+            "correct_answer": "डेजर्ट नेशनल पार्क, राजस्थान",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "Which of the following is considered the primary threat to the survival of the Great Indian Bustard in its natural habitat?",
+            "options": [
+                "वन विभागों द्वारा बनाए गए कृत्रिम वॉटरहोल की गंभीर कमी",
+                "संरक्षित क्षेत्रों में पशुधन चराई के साथ भोजन के लिए प्रतियोगिता",
+                "ओवरहेड अक्षय ऊर्जा बिजली लाइनों के साथ टकराव",
+                "सवाना के आवासों में बड़ी बिल्लियों द्वारा प्राकृतिक शिकार"
+            ],
+            "correct_answer": "ओवरहेड अक्षय ऊर्जा बिजली लाइनों के साथ टकराव",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "Which constitutional provisions serve as the foundation for the right to peaceful protest in India?",
+            "options": [
+                "Article 25 and Article 26",
+                "Article 19(1)(a) and Article 19(1)(b)",
+                "Article 32 and Article 226",
+                "Article 14 and Article 21"
+            ],
+            "correct_answer": "Article 19(1)(a) and Article 19(1)(b)",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "Under the current legal framework, which section of the Bharatiya Nyaya Sanhita (BNS) can be invoked against individuals defying a lawful prohibition on a public protest?",
+            "options": [
+                "Section 223",
+                "Section 144",
+                "Section 302",
+                "Section 420"
+            ],
+            "correct_answer": "Section 223",
+            "answer_no": 1
+        },
+        {
+            "question_no": 5,
+            "question": "In the context of international trade discussions, what does 'global manufacturing overcapacity' typically refer to?",
+            "options": [
+                "The mandatory stockpiling of essential raw materials by developing economies to prevent supply shocks",
+                "The surplus generation of renewable energy exceeding a nation's smart grid transmission capacity",
+                "A situation where industrial output surpasses what domestic and global markets can absorb at existing prices",
+                "An intentional reduction in factory production quotas agreed upon during G20 multilateral summits"
+            ],
+            "correct_answer": "A situation where industrial output surpasses what domestic and global markets can absorb at existing prices",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "Section 301 of the United States Trade Act of 1974 empowers authorities to investigate which of the following?",
+            "options": [
+                "Foreign government practices deemed unreasonable, discriminatory, or restrictive to US commerce",
+                "Intellectual property violations specific to agricultural biotechnology patents",
+                "Environmental compliance standards in developing export economies",
+                "Currency manipulation tactics used by European Union member states"
+            ],
+            "correct_answer": "Foreign government practices deemed unreasonable, discriminatory, or restrictive to US commerce",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "What was the primary objective behind India terminating numerous Bilateral Investment Treaties (BITs) during 2016–17?",
+            "options": [
+                "To penalize European nations for imposing carbon border adjustment taxes on Indian steel",
+                "To comply with mandatory directives issued by the World Trade Organization dispute settlement body",
+                "To eliminate all foreign direct investment and promote complete economic self-reliance",
+                "To overhaul the framework and safeguard state regulatory autonomy against adverse international arbitration"
+            ],
+            "correct_answer": "To overhaul the framework and safeguard state regulatory autonomy against adverse international arbitration",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "What does the Exhaustion of Local Remedies (ELR) requirement in modern investment treaties entail?",
+            "options": [
+                "Multinational corporations must settle tax disputes exclusively through local village panchayats",
+                "Foreign investors must employ a fixed percentage of domestic workers before starting operations",
+                "Foreign entities must reinvest a portion of their profits within local manufacturing corridors",
+                "Investors must approach domestic courts or administrative authorities before initiating international arbitration"
+            ],
+            "correct_answer": "Investors must approach domestic courts or administrative authorities before initiating international arbitration",
+            "answer_no": 4
+        },
+        {
+            "question_no": 9,
+            "question": "During which years did India's collaborative conservation breeding programme for the Great Indian Bustard officially take shape with government backing?",
+            "options": [
+                "1991–92",
+                "2004–05",
+                "2020–21",
+                "2012–13"
+            ],
+            "correct_answer": "2012–13",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "Which specific provision under criminal procedure laws empowers a magistrate to issue prohibitory orders against unlawful assemblies?",
+            "options": [
+                "Section 107 of the Bharatiya Sakshya Adhiniyam",
+                "Section 307 of the Indian Penal Code",
+                "Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS)",
+                "Section 151 of the Code of Criminal Procedure"
+            ],
+            "correct_answer": "Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS)",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "Which international grouping recently served as the platform where participating trade ministers deliberated on structural manufacturing overcapacity?",
+            "options": [
+                "BRICS Summit",
+                "ASEAN Regional Forum",
+                "QUAD Leaders' Dialogue",
+                "G20 Trade Ministers' Meeting"
+            ],
+            "correct_answer": "G20 Trade Ministers' Meeting",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "Why have developing economies like South Africa and India expressed deep reservations regarding Investor-State Dispute Settlement (ISDS) mechanisms?",
+            "options": [
+                "ISDS tribunals exclusively handle maritime boundary disputes rather than commercial investments",
+                "They believe ISDS clauses infringe upon national sovereignty and chill legitimate public welfare regulations",
+                "These provisions completely prohibit foreign corporations from repatriating dividends to their home countries",
+                "They prevent developing nations from participating in United Nations climate change conferences"
+            ],
+            "correct_answer": "They believe ISDS clauses infringe upon national sovereignty and chill legitimate public welfare regulations",
+            "answer_no": 2
+        },
+        {
+            "question_no": 13,
+            "question": "What is the primary function of the rewilding aviary and soft-release facility established by WII within Desert National Park?",
+            "options": [
+                "To quarantine migratory birds arriving from Central Asian flyways during winter",
+                "To breed apex predators that can control rodent populations threatening grassland flora",
+                "To conduct commercial tourism safaris supporting local pastoralist livelihoods",
+                "To help hand-reared bustard chicks adapt to natural habitats without human imprinting"
+            ],
+            "correct_answer": "To help hand-reared bustard chicks adapt to natural habitats without human imprinting",
+            "answer_no": 4
+        },
+        {
+            "question_no": 14,
+            "question": "According to Delhi Police guidelines, what is the prescribed capacity limit for peaceful demonstrations at Jantar Mantar before organizers must shift to Ramlila Ground?",
+            "options": [
+                "Up to 1,000 people",
+                "Up to 5,000 people",
+                "Up to 500 people",
+                "Up to 10,000 people"
+            ],
+            "correct_answer": "Up to 1,000 people",
+            "answer_no": 1
+        },
+        {
+            "question_no": 15,
+            "question": "How does India's revamped Model BIT approach the timeline for resolving grievances compared to older agreements?",
+            "options": [
+                "It introduces structured local-remedies periods ranging between two to five years before international arbitration",
+                "It completely bans any form of international arbitration for foreign entities",
+                "It delegates all corporate disputes to international tribunals without any domestic judicial review",
+                "It mandates automatic compensation payouts within thirty days of filing a claim"
+            ],
+            "correct_answer": "It introduces structured local-remedies periods ranging between two to five years before international arbitration",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "What major environmental challenge does limestone mining pose to the natural habitat of the Great Indian Bustard in Rajasthan?",
+            "options": [
+                "It pollutes river waters, causing severe avian cholera outbreaks among wetland birds",
+                "It destroys the open, flat terrain that bustards require for survival and breeding",
+                "It generates intense acoustic vibrations that permanently damage the hearing of nocturnal predators",
+                "It introduces invasive floral species that choke out native desert grasses overnight"
+            ],
+            "correct_answer": "It destroys the open, flat terrain that bustards require for survival and breeding",
+            "answer_no": 2
+        },
+        {
+            "question_no": 17,
+            "question": "In the landmark Mazdoor Kisan Shakti Sangathan case (2018), what important principle did the Supreme Court reiterate regarding public protests?",
+            "options": [
+                "State governments must financially sponsor all logistic expenses incurred during peaceful marches",
+                "Police commissioners possess absolute authority to ban any public gathering without assigning reasons",
+                "Holding peaceful demonstrations is a fundamental right essential for airing citizen grievances",
+                "Protests can only be organized inside enclosed indoor stadiums during weekends"
+            ],
+            "correct_answer": "Holding peaceful demonstrations is a fundamental right essential for airing citizen grievances",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "Which sectors have international discussions identified as areas of concern regarding potential structural overcapacity?",
+            "options": [
+                "Handloom textiles, organic spices, and traditional handicrafts",
+                "Electric vehicles, solar panels, batteries, and foundational semiconductors",
+                "Commercial aviation, luxury hospitality, and cinematic production",
+                "Marine fisheries, dairy farming, and organic fertilizer manufacturing"
+            ],
+            "correct_answer": "Electric vehicles, solar panels, batteries, and foundational semiconductors",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "Why do experts argue that grassland protection policies in India have historically lagged behind forest conservation?",
+            "options": [
+                "Nomadic pastoralists legally own every single square kilometer of grassland across the country",
+                "The Indian Constitution explicitly prohibits the creation of protected wildlife sanctuaries in arid plains",
+                "Grasslands are traditionally mischaracterized as 'wastelands' rather than vital ecosystems needing distinct legal safeguards",
+                "Grasslands do not support any endemic flora or fauna worth preserving under schedule categories"
+            ],
+            "correct_answer": "Grasslands are traditionally mischaracterized as 'wastelands' rather than vital ecosystems needing distinct legal safeguards",
+            "answer_no": 3
+        },
+        {
+            "question_no": 20,
+            "question": "What is the primary rationale behind India's cautious engagement with the United States regarding global manufacturing overcapacity investigations?",
+            "options": [
+                "To completely shut down all foreign trade ties and rely exclusively on domestic barter systems",
+                "To protect legitimate industrial growth, employment generation, and strategic manufacturing policies from unfair trade curbs",
+                "To secure permanent membership on the United Nations Security Council through trade concessions",
+                "To force neighboring nations into signing bilateral currency swap agreements"
+            ],
+            "correct_answer": "To protect legitimate industrial growth, employment generation, and strategic manufacturing policies from unfair trade curbs",
+            "answer_no": 2
+        }
+    ]
+}
