@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "14-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "गुजरात के किन जिलों को हाल ही में पीएम धन - धन्या कृषि योजना (पीएमडीडीकेवाई) के तहत उनके काम के लिए राष्ट्रीय उत्कृष्टता पुरस्कार से सम्मानित किया गया?",
+            "options": [
+                "कच्छ, दाहोद और छोटा उदयपुर",
+                "मेहसाणा, गांधीनगर और भावनगर",
+                "अमरेली, जूनागढ़ और गिर सोमनाथ",
+                "अहमदाबाद, सूरत और राजकोट"
+            ],
+            "correct_answer": "कच्छ, दाहोद और छोटा उदयपुर",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "प्रधान मंत्री धन - धन्या कृषि योजना की समयरेखा के संबंध में, केंद्रीय मंत्रिमंडल द्वारा अनुमोदित इसकी कुल कार्यान्वयन अवधि कितने वर्ष है?",
+            "options": [
+                "10 साल",
+                "6+ वर्ष",
+                "4 साल",
+                "3 वर्ष"
+            ],
+            "correct_answer": "6+ वर्ष",
+            "answer_no": 2
+        },
+        {
+            "question_no": 3,
+            "question": "10 वीं इंडिया मोबाइल कांग्रेस के दौरान, प्रधानमंत्री ने कहा कि भारत में मोबाइल डेटा की लागत 2014 में 268 रुपये प्रति जीबी से घटकर 2026 में कितनी हो गई?",
+            "options": [
+                "5 रुपये",
+                "15 रुपये",
+                "8 रुपये",
+                "12 रुपये"
+            ],
+            "correct_answer": "8 रुपये",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "इंडिया मोबाइल कांग्रेस (IMC) का 10 वां संस्करण चार रणनीतिक स्तंभों पर बनाया गया था। निम्नलिखित में से कौन सा स्तंभ उन स्तंभों में से एक नहीं है?",
+            "options": [
+                "सृष्टि",
+                "सशक्त",
+                "सम्वर्धन",
+                "स्वदेशी"
+            ],
+            "correct_answer": "स्वदेशी",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "इंडिया मोबाइल कांग्रेस में लॉन्च किए गए नए घोषित 'विक्सित टेक 47 (वीटी 47 )' प्लेटफॉर्म का प्राथमिक उद्देश्य क्या है?",
+            "options": [
+                "स्टार्टअप को 5G स्पेक्ट्रम लाइसेंस प्रदान करने के लिए",
+                "सीमा पार वास्तविक समय में साइबर खतरों की निगरानी करना",
+                "वैश्विक प्रतिस्पर्धा के लिए भारतीय प्रौद्योगिकी ब्रांडों की पहचान करना और उन्हें स्केल करना",
+                "ग्रामीण स्कूलों के लिए बजट स्मार्टफ़ोन का निर्माण करना"
+            ],
+            "correct_answer": "वैश्विक प्रतिस्पर्धा के लिए भारतीय प्रौद्योगिकी ब्रांडों की पहचान करना और उन्हें स्केल करना",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "तीसरे अंतर्राष्ट्रीय भारत 6 जी संगोष्ठी के हिस्से के रूप में, भारत 6 जी एलायंस (B6GA) ने कितने संगठनों के साथ समझौता ज्ञापनों पर हस्ताक्षर करके अपनी पहुंच का विस्तार किया?",
+            "options": [
+                "नौ",
+                "पांच",
+                "2 साल और 7 महीने के लिए रिश्ते में",
+                "प्रसंग (T)"
+            ],
+            "correct_answer": "पांच",
+            "answer_no": 2
+        },
+        {
+            "question_no": 7,
+            "question": "भारतीय सेना की 'भारत चावल' पहल में विशिष्ट बैग आकारों में चावल की आपूर्ति के लिए नाफेड के साथ एक खरीद सौदा शामिल है। ये एर्गोनोमिक आकार क्या हैं?",
+            "options": [
+                "10 किग्रा और 30 किग्रा",
+                "5 किग्रा और 20 किग्रा",
+                "20 किग्रा और 50 किग्रा",
+                "15 किग्रा और 25 किग्रा"
+            ],
+            "correct_answer": "10 किग्रा और 30 किग्रा",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "हॉकी इंडिया लीग (एचआईएल) के वित्तीय और प्रशासन के मुद्दों के निवारण के लिए हाल ही में एक सात सदस्यीय समिति की स्थापना की गई थी। इस समिति का गठन करने वाले मंत्रालय का प्रमुख कौन है?",
+            "options": [
+                "किरेन रिजिजू",
+                "मनसुख मंडाविया",
+                "राज्यवर्धन राठौड़",
+                "अनुराग ठाकुर"
+            ],
+            "correct_answer": "मनसुख मंडाविया",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "बोइंग सुकन्या कार्यक्रम के तहत, ओडिशा के किस जिले में एक नई एसटीईएम प्रयोगशाला और एयरोमॉडलिंग प्रशिक्षण केंद्र का उद्घाटन किया गया था?",
+            "options": [
+                "खुर्दा",
+                "Bargarh",
+                "कटक",
+                "गंजाम"
+            ],
+            "correct_answer": "Bargarh",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "डब्ल्यूडब्ल्यूएफ द्वारा '2026 लिविंग प्लैनेट रिपोर्ट' के अनुसार, 1970 और 2022 के बीच निगरानी की गई वन्यजीव आबादी में औसत प्रतिशत गिरावट क्या है?",
+            "options": [
+                "61%",
+                "73",
+                "82",
+                "45%."
+            ],
+            "correct_answer": "73",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "डब्ल्यूडब्ल्यूएफ 2026 रिपोर्ट ने पहचान की कि एक विशिष्ट प्रकार की वन्यजीव आबादी में 85% की सबसे भारी गिरावट का सामना करना पड़ा। यह किस पारिस्थितिकी तंत्र से जुड़ा हुआ है?",
+            "options": [
+                "समुद्री",
+                "स्थलीय",
+                "ताजा जल",
+                "घ्रुवीय"
+            ],
+            "correct_answer": "ताजा जल",
+            "answer_no": 3
+        },
+        {
+            "question_no": 12,
+            "question": "Which Indian Naval Ship represented the country in the bilateral exercise 'KONKAN-26' held off the coast of Plymouth, UK?",
+            "options": [
+                "आईएनएस दिल्ली",
+                "आईएनएस विक्रांत",
+                "आईएनएस त्रिशूल",
+                "INS Tabar"
+            ],
+            "correct_answer": "आईएनएस त्रिशूल",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "The IMF's World Economic Outlook for October 2026 has revised India's GDP growth forecast for FY27 to what percentage?",
+            "options": [
+                "8.1%",
+                "7.5%",
+                "6.8%",
+                "7.0%"
+            ],
+            "correct_answer": "7.0%",
+            "answer_no": 4
+        },
+        {
+            "question_no": 14,
+            "question": "While the IMF sees a 7% growth, UNCTAD's Trade and Development Report 2026 projects India's economy to grow at which rate?",
+            "options": [
+                "7.8%",
+                "8.2%",
+                "6.5%",
+                "7.3%"
+            ],
+            "correct_answer": "7.3%",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "Who were the joint recipients of the 2026 Sveriges Riksbank Prize in Economic Sciences?",
+            "options": [
+                "Robert E. Hall and Michael Woodford",
+                "Abhijit Banerjee and Esther Duflo",
+                "Ben Bernanke and Douglas Diamond",
+                "Claudia Goldin and David Card"
+            ],
+            "correct_answer": "Robert E. Hall and Michael Woodford",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "In a rare honor, Indian Captain Smit Machchhar was awarded Israel's highest civilian bravery award for which action?",
+            "options": [
+                "Preventing a catastrophe by resisting a cockpit attack",
+                "Delivering medical supplies during a storm",
+                "Managing a record-breaking flight duration",
+                "Rescuing citizens from a conflict zone"
+            ],
+            "correct_answer": "Preventing a catastrophe by resisting a cockpit attack",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "Which prominent Indian business leader was recently named a Knight of France’s National Order of the Legion of Honour?",
+            "options": [
+                "Gautam Adani",
+                "Mukesh Ambani",
+                "Sunil Bharti Mittal",
+                "Ratan Tata"
+            ],
+            "correct_answer": "Sunil Bharti Mittal",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "In the major gubernatorial reshuffle of October 2026, who was appointed as the Governor of Keralam?",
+            "options": [
+                "Om Prakash Mathur",
+                "Sudha Yadav",
+                "Braj Mohan Ram",
+                "Rajendra Vishwanath Arlekar"
+            ],
+            "correct_answer": "Om Prakash Mathur",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "Which class of vessel is 'INS Mangrol', the newly commissioned ship into the Indian Navy at the Mumbai Naval Dockyard?",
+            "options": [
+                "Kamorta-class Corvette",
+                "Mahe-class ASW-SWC",
+                "Scorpene-class Submarine",
+                "Visakhapatnam-class Destroyer"
+            ],
+            "correct_answer": "Mahe-class ASW-SWC",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "Who was appointed as the UNICEF India Celebrity Advocate on the International Day of the Girl Child 2026?",
+            "options": [
+                "Mithali Raj",
+                "PV Sindhu",
+                "Priyanka Chopra",
+                "Smriti Mandhana"
+            ],
+            "correct_answer": "Smriti Mandhana",
+            "answer_no": 4
+        }
+    ]
+}
