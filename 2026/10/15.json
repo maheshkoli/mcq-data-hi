@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "15-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Marking half a decade of coordinated infrastructure planning, which central ministry oversees the PM GatiShakti National Master Plan?",
+            "options": [
+                "Ministry of Finance",
+                "Ministry of Commerce and Industry",
+                "Ministry of Road Transport and Highways",
+                "Ministry of Housing and Urban Affairs"
+            ],
+            "correct_answer": "Ministry of Commerce and Industry",
+            "answer_no": 2
+        },
+        {
+            "question_no": 2,
+            "question": "Which Indian city recently hosted the inaugural BIMSTEC Home Ministers' Meeting under Union leadership?",
+            "options": [
+                "New Delhi",
+                "Mumbai",
+                "Chennai",
+                "Bengaluru"
+            ],
+            "correct_answer": "New Delhi",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "Under the PM-SETU scheme, an agreement was signed to upgrade nine industrial training institutes located in Gujarat and which other state?",
+            "options": [
+                "Maharashtra",
+                "Andhra Pradesh",
+                "Tamil Nadu",
+                "Karnataka"
+            ],
+            "correct_answer": "Andhra Pradesh",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "How many Second Level Fund Managers were inducted into the first cohort supported by the Research, Development and Innovation Fund?",
+            "options": [
+                "12",
+                "15",
+                "24",
+                "19"
+            ],
+            "correct_answer": "19",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "The newly launched website of the Department of Animal Husbandry and Dairying complies with which version of MeitY's Digital Brand Identity Manual?",
+            "options": [
+                "Version 4.0",
+                "Version 2.0",
+                "Version 3.0",
+                "Version 1.0"
+            ],
+            "correct_answer": "Version 3.0",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "Which Union Territory earned the distinction of becoming India's first 100% literate UT under the ULLAS scheme?",
+            "options": [
+                "Andaman and Nicobar Islands",
+                "Puducherry",
+                "Lakshadweep",
+                "Dadra and Nagar Haveli"
+            ],
+            "correct_answer": "Lakshadweep",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "The Technology Development Board partnered with Peptris Technologies under the RDI fund to advance which sector through an AI-driven project?",
+            "options": [
+                "Drug Discovery",
+                "Agricultural Yield",
+                "Smart Grid Management",
+                "Space Debris Tracking"
+            ],
+            "correct_answer": "Drug Discovery",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "During the 20th East Asia Summit Energy Ministers' Meeting in Manila, India committed to training 400 professionals for which regional initiative?",
+            "options": [
+                "ASEAN Power Grid",
+                "Bimstec Solar Highway",
+                "Bay of Bengal Hydro Alliance",
+                "Indo-Pacific Nuclear Network"
+            ],
+            "correct_answer": "ASEAN Power Grid",
+            "answer_no": 1
+        },
+        {
+            "question_no": 9,
+            "question": "Among the three insurance products rolled out by the LIC to cater to retirement and health needs, what is the designation of Plan 892?",
+            "options": [
+                "New Cancer Cover",
+                "Health Shield",
+                "New Jeevan Dhara-II",
+                "Suraksha Annuity Plus"
+            ],
+            "correct_answer": "New Jeevan Dhara-II",
+            "answer_no": 3
+        },
+        {
+            "question_no": 10,
+            "question": "Karur Vysya Bank tied up with which general insurance entity to distribute non-life policies through its banking network?",
+            "options": [
+                "ICICI Lombard",
+                "HDFC ERGO General Insurance",
+                "Zurich Kotak General Insurance",
+                "Tata AIG General Insurance"
+            ],
+            "correct_answer": "Zurich Kotak General Insurance",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "Karnataka Bank introduced 'Trade Konnect' to streamline online requests for import, export, and outward remittances without requiring what?",
+            "options": [
+                "Physical notarization",
+                "PAN card verification",
+                "Digital signature tokens",
+                "Physical branch visits"
+            ],
+            "correct_answer": "Physical branch visits",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "Fitch's BMI revised India's GDP growth projection for the financial year 2026-27 upward to which figure?",
+            "options": [
+                "7.5%",
+                "7.2%",
+                "7.0%",
+                "7.8%"
+            ],
+            "correct_answer": "7.5%",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "Adani Enterprises partnered with Jabil Inc. to manufacture which category of hardware through a newly proposed joint venture?",
+            "options": [
+                "Electric vehicle battery cells",
+                "AI and data centre equipment",
+                "Solar photovoltaic inverters",
+                "Consumer smartphones"
+            ],
+            "correct_answer": "AI and data centre equipment",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "The traditional temple offering 'Ambaji Mohanthal' that bagged a Geographical Indication tag belongs to which state?",
+            "options": [
+                "Madhya Pradesh",
+                "Rajasthan",
+                "Uttar Pradesh",
+                "Gujarat"
+            ],
+            "correct_answer": "Gujarat",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "Which defense unit recently inducted the indigenous Advanced Light Helicopter MK-III designated CG 875 in Maharashtra?",
+            "options": [
+                "Indian Air Force",
+                "Border Security Force",
+                "Indian Navy",
+                "Indian Coast Guard"
+            ],
+            "correct_answer": "Indian Coast Guard",
+            "answer_no": 4
+        },
+        {
+            "question_no": 16,
+            "question": "The late Dr. A.V.S. Raju, who earned a Guinness World Record for his literary works, was the founder of which construction giant?",
+            "options": [
+                "Nagarjuna Construction Company",
+                "Shapoorji Pallonji",
+                "HCC Infrastructure",
+                "Larsen & Toubro"
+            ],
+            "correct_answer": "Nagarjuna Construction Company",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "What is the official theme adopted globally for the International Day for Disaster Risk Reduction observed on October 13?",
+            "options": [
+                "Fighting Inequality for a Resilient Future",
+                "Resilience Starts at Home",
+                "Early Warning for All",
+                "Building Back Better"
+            ],
+            "correct_answer": "Resilience Starts at Home",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "World Standards Day is jointly organized by the ISO, the International Telecommunication Union, and which other global body?",
+            "options": [
+                "International Labour Organization",
+                "World Trade Organization",
+                "United Nations Industrial Development Organization",
+                "International Electrotechnical Commission"
+            ],
+            "correct_answer": "International Electrotechnical Commission",
+            "answer_no": 4
+        },
+        {
+            "question_no": 19,
+            "question": "The newly approved 'Bhagini Nivedita Scheme' in West Bengal aims to provide financial support of Rs. 50,000 to which demographic?",
+            "options": [
+                "Widowed artisans in rural cottage industries",
+                "Unmarried women pursuing higher education",
+                "First-time women entrepreneurs in MSMEs",
+                "Expectant mothers below the poverty line"
+            ],
+            "correct_answer": "Unmarried women pursuing higher education",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "As part of recent cabinet revisions in West Bengal, the monthly allowance for students belonging to SC and ST communities residing in government hostels was raised to how much?",
+            "options": [
+                "Rs. 4,000",
+                "Rs. 2,500",
+                "Rs. 3,300",
+                "Rs. 3,000"
+            ],
+            "correct_answer": "Rs. 3,300",
+            "answer_no": 3
+        }
+    ]
+}
