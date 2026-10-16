@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "16-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "केंद्रीय मंत्रिमंडल ने हाल ही में राष्ट्रीय सामाजिक सहायता कार्यक्रम (एनएसएपी) को फिर से ब्रांड करते हुए पांच साल के लिए जारी रखने को हरी झंडी दे दी है। इस कल्याणकारी पहल का नया नामकरण क्या है?",
+            "options": [
+                "प्रधानमंत्री सामाजिक सहायता योजना",
+                "प्रधानमंत्री सामाजिक सुरक्षा अभियान",
+                "प्रधानमंत्री जन कल्याण सहायता मिशन",
+                "प्रधानमंत्री वृद्धावस्था सहायता योजना"
+            ],
+            "correct_answer": "प्रधानमंत्री सामाजिक सहायता योजना",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "किस मंत्रालय ने घरेलू समुद्री विनिर्माण को बढ़ावा देने के लिए 'शिप बिल्डिंग प्रोजेक्ट क्रेडिट रिस्क इंश्योरेंस पॉलिसी' और 'बिजनेस क्रेडिट शील्ड पॉलिसी' शुरू की?",
+            "options": [
+                "भारी उद्योग मंत्रालय",
+                "रक्षा मंत्रालय",
+                "वाणिज्य और उद्योग मंत्रालय",
+                "बंदरगाह, शिपिंग और जलमार्ग मंत्रालय"
+            ],
+            "correct_answer": "बंदरगाह, शिपिंग और जलमार्ग मंत्रालय",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "ग्रामीण विकास मंत्रालय ने किस राष्ट्रव्यापी संस्थागत नेटवर्क में प्रशिक्षण मानकों को कारगर बनाने के लिए राष्ट्रीय रुडसेटी अकादमी के साथ भागीदारी की?",
+            "options": [
+                "प्रधानमंत्री कौशल केंद्र",
+                "ग्रामीण स्वरोजगार प्रशिक्षण संस्थान",
+                "कृषि विज्ञान केंद्र",
+                "दीन दयाल उपाध्याय सेंटर"
+            ],
+            "correct_answer": "ग्रामीण स्वरोजगार प्रशिक्षण संस्थान",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "एक ऐतिहासिक बदलाव में, राष्ट्रीय सरस मेला पहली बार दिल्ली - एनसीआर क्षेत्र के बाहर आयोजित किया गया था। यह घटना किस शहर में हुई थी?",
+            "options": [
+                "वाराणसी",
+                "विजयवाड़ा",
+                "गुवाहाटी",
+                "भोपाल"
+            ],
+            "correct_answer": "विजयवाड़ा",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "कर प्रशासन को बढ़ाने के लिए डिज़ाइन की गई नव स्थापित वस्तु और सेवा कर स्थायी समिति में कितने राज्य स्थायी सीटें रखते हैं?",
+            "options": [
+                "2 साल और 7 महीने के लिए रिश्ते में",
+                "प्रसंग (T)",
+                "पांच",
+                "बारह"
+            ],
+            "correct_answer": "पांच",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "दो साल की अवधि में किस खेल अनुशासन में चालीस करोड़ रुपये लगाने के लिए हाल ही में आईओसीएल, एनएसडीएफ और एसएआई को शामिल करते हुए एक त्रिपक्षीय साझेदारी पर हस्ताक्षर किए गए थे?",
+            "options": [
+                "बॉक्सिंग",
+                "कुश्ती",
+                "वैटलिफ्टिंग",
+                "शूटिंग"
+            ],
+            "correct_answer": "बॉक्सिंग",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "अंतर्राष्ट्रीय व्यापार मशीनों ने उद्यम प्रौद्योगिकियों को बढ़ावा देने के लिए मुंबई में एक कार्यक्रम के दौरान एमईआईटीवाई स्टार्टअप हब के साथ सहयोग किया। MSH को मूल रूप से एक स्वतंत्र प्रभाग के रूप में कहाँ रखा गया है?",
+            "options": [
+                "डिजिटल इंडिया कॉर्पोरेशन",
+                "नीति आयोग",
+                "राष्ट्रीय सूचना विज्ञान केन्द्र",
+                "भारतीय सॉफ्टवेयर प्रौद्योगिकी पार्क"
+            ],
+            "correct_answer": "डिजिटल इंडिया कॉर्पोरेशन",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "भारत मौसम विज्ञान विभाग ने चक्रवात चेतावनी और समुद्री मौसम सेवा निर्णय समर्थन प्रणाली नामक एक इंटरैक्टिव वेबजीआईएस प्लेटफॉर्म लॉन्च किया। आईएमडी किस केंद्रीय मंत्रालय के तहत कार्य करता है?",
+            "options": [
+                "एमओईएफसीसी - पर्यावरण, वन एवं जलवायु परिवर्तन मंत्रालय",
+                "पृथ्वी विज्ञान मंत्रालय",
+                "गृह मंत्रालय",
+                "विज्ञान और प्रौद्योगिकी मंत्रालय"
+            ],
+            "correct_answer": "पृथ्वी विज्ञान मंत्रालय",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "Union Minister JP Nadda laid the foundation stone for the Indian Council of Medical Research's maiden high-altitude health research facility in which state?",
+            "options": [
+                "अरुणाचल प्रदेश",
+                "सिक्किम",
+                "उत्तराखंड",
+                "हिमाचल प्रदेश"
+            ],
+            "correct_answer": "हिमाचल प्रदेश",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "The Indian Navy participated in the 9th edition of the IBSAMAR naval exercise hosted by South Africa. Which nations complete this trilateral cooperative grouping?",
+            "options": [
+                "Indonesia, Brazil, South Africa",
+                "India, Brazil, South Africa",
+                "Italy, Britain, South Africa",
+                "India, Bangladesh, South Africa"
+            ],
+            "correct_answer": "India, Brazil, South Africa",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "SEBI notified a Common Advertisement Code restricting celebrities from endorsing specific financial products while allowing them to promote brands. When does this regulatory framework officially take effect after its notification period?",
+            "options": [
+                "180 days",
+                "One year",
+                "30 days",
+                "90 days"
+            ],
+            "correct_answer": "180 days",
+            "answer_no": 1
+        },
+        {
+            "question_no": 12,
+            "question": "Dutch development bank FMO extended a hundred-million-dollar debt facility to which Indian decarbonisation company to fund renewable energy assets?",
+            "options": [
+                "Adani Green Energy",
+                "Azure Power",
+                "ReNew Energy Global",
+                "Tata Power Solar"
+            ],
+            "correct_answer": "ReNew Energy Global",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "Astranova Mobility's lending arm, NovaFusion Capital, secured clearance from the Reserve Bank of India to operate under which corporate category?",
+            "options": [
+                "Small Finance Bank",
+                "Payment Bank",
+                "Non-Banking Financial Company",
+                "Asset Reconstruction Company"
+            ],
+            "correct_answer": "Non-Banking Financial Company",
+            "answer_no": 3
+        },
+        {
+            "question_no": 14,
+            "question": "Which stock exchange signed a memorandum of understanding with the London Stock Exchange to explore cross-border listings and derivatives tied to FTSE Russell indices?",
+            "options": [
+                "NSE International Exchange",
+                "Calcutta Stock Exchange",
+                "Multi Commodity Exchange",
+                "Bombay Stock Exchange"
+            ],
+            "correct_answer": "NSE International Exchange",
+            "answer_no": 1
+        },
+        {
+            "question_no": 15,
+            "question": "The Cabinet Committee on Economic Affairs approved the disinvestment of a majority stake in IDBI Bank to a subsidiary of which multinational financial holding company?",
+            "options": [
+                "Brookfield Asset Management",
+                "BlackRock Inc.",
+                "Vanguard Group",
+                "Fairfax Financial Holding"
+            ],
+            "correct_answer": "Fairfax Financial Holding",
+            "answer_no": 4
+        },
+        {
+            "question_no": 16,
+            "question": "Defence researchers tested a Quantum Key Distribution platform on a live military network in Odisha. In which coastal town is the Proof & Experimental Establishment located?",
+            "options": [
+                "Gopalpur",
+                "Dhamra",
+                "Chandipur",
+                "Paradip"
+            ],
+            "correct_answer": "Chandipur",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "Solar Defence and Aerospace Limited delivered hundreds of Nagastra-1R loitering munitions to the armed forces. What alternative moniker is commonly used for these man-portable unmanned systems?",
+            "options": [
+                "Stealth recon drones",
+                "Kamikaze suicide UAVs",
+                "Loitering decoys",
+                "Ballistic interceptors"
+            ],
+            "correct_answer": "Kamikaze suicide UAVs",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "The late Padma Shri awardee Cheruvayal Raman, fondly known as 'Nellachan', was celebrated for conserving which agricultural biodiversity asset?",
+            "options": [
+                "Organic spice strains",
+                "Medicinal herbs",
+                "Indigenous fruit saplings",
+                "Traditional rice varieties"
+            ],
+            "correct_answer": "Traditional rice varieties",
+            "answer_no": 4
+        },
+        {
+            "question_no": 19,
+            "question": "What was the global theme designated for the United Nations International Day of Rural Women observed on October 15?",
+            "options": [
+                "Building Resilience Through Female Leadership",
+                "Digital Inclusion for Grassroots Agriculturalists",
+                "Rural Women Farmers Caring for Mother Nature",
+                "Empowering Women Farmers for Sustainable Futures"
+            ],
+            "correct_answer": "Rural Women Farmers Caring for Mother Nature",
+            "answer_no": 3
+        },
+        {
+            "question_no": 20,
+            "question": "Global Handwashing Day is celebrated annually on October 15 to promote hygiene awareness. Which multi-year theme continued to anchor observance events worldwide?",
+            "options": [
+                "Clean Hands Save Lives",
+                "Hygiene is Our Shared Future",
+                "Universal Hygiene for All",
+                "Be a Handwashing Hero"
+            ],
+            "correct_answer": "Be a Handwashing Hero",
+            "answer_no": 4
+        }
+    ]
+}
