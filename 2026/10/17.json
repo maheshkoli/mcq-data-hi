@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "17-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "प्रधानमंत्री नरेंद्र मोदी ने हाल ही में केंद्र शासित प्रदेश लद्दाख में पांच प्रमुख बुनियादी ढांचे और विरासत परियोजनाओं का उद्घाटन किया। निम्नलिखित में से कौन नए अनावरण किए गए उद्यमों के इस बैच का हिस्सा नहीं है?",
+            "options": [
+                "निम्मू - पदुम - दारचा रोड वाया शिंकुन ला पास",
+                "कुशोक बकुला रिम्पोची एयरपोर्ट टर्मिनल का विस्तार",
+                "हनु स्मॉल हाइड्रोइलेक्ट्रिक प्रोजेक्ट",
+                "जांस्कर में श्यामा प्रसाद मुखर्जी सुरंग परियोजना"
+            ],
+            "correct_answer": "जांस्कर में श्यामा प्रसाद मुखर्जी सुरंग परियोजना",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "सुखना वेटलैंड और सौज झील को हाल ही में शामिल किए जाने के बाद, भारत के रामसर कन्वेंशन साइटों की कुल संख्या ने किस मील के पत्थर के आंकड़े को छुआ है?",
+            "options": [
+                "100",
+                "103",
+                "110",
+                "95"
+            ],
+            "correct_answer": "103",
+            "answer_no": 2
+        },
+        {
+            "question_no": 3,
+            "question": "SIOFA में भारत के प्रवेश को मंजूरी देकर, केंद्र सरकार का उद्देश्य स्थानीय मछुआरों को उच्च - समुद्री मत्स्य पालन तक संरचित पहुंच प्रदान करना है। SIOFA का संक्षिप्त नाम क्या है?",
+            "options": [
+                "दक्षिणी हिंद महासागर मत्स्य पालन समझौता",
+                "नाविकों की अंतर्राष्ट्रीय महासागर फ्रेट एजेंसी",
+                "सस्टेनेबल इंडियन ओशन फ़ाउना एसोसिएशन",
+                "स्ट्रैटेजिक इंडो - पैसिफिक फ़िशरी अलायंस"
+            ],
+            "correct_answer": "दक्षिणी हिंद महासागर मत्स्य पालन समझौता",
+            "answer_no": 1
+        },
+        {
+            "question_no": 4,
+            "question": "रक्षा मंत्रालय ने हाल ही में जीसैट -7सी संचार उपग्रह और वरुणास्त्र हैवी वेट टॉरपीडो के लिए 4,106 करोड़ रुपये से अधिक के अनुबंधों पर हस्ताक्षर किए हैं। वरुणास्त्र टॉरपीडो के निर्माण के लिए किसे सौंपा गया है?",
+            "options": [
+                "भारत डायनामिक्स लिमिटेड",
+                "हिन्दुस्तान ऐरोनॉटिक्स लिमिटेड",
+                "न्यू स्पेस इंडिया लिमिटेड",
+                "मझगांव डॉक शिपबिल्डर्स"
+            ],
+            "correct_answer": "भारत डायनामिक्स लिमिटेड",
+            "answer_no": 1
+        },
+        {
+            "question_no": 5,
+            "question": "विश्व मानक दिवस समारोह के दौरान, भारतीय मानक ब्यूरो ने राष्ट्रव्यापी शुद्धता आश्वासन और पता लगाने की क्षमता सुनिश्चित करने के लिए किस कीमती धातु के लिए एक समर्पित प्रमाणन योजना का अनावरण किया?",
+            "options": [
+                "के- एल्जियम",
+                "स्वर्ण",
+                "चाँदी",
+                "one of the three states of matter (solid, liquid, vaporous or unknown)"
+            ],
+            "correct_answer": "चाँदी",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "नई दिल्ली में आयोजित 8 वीं भारत - ब्रिटेन विज्ञान और नवाचार परिषद की बैठक के दौरान, दोनों देशों ने किस क्षेत्र में सहयोग को बढ़ावा देने के लिए ब्रिक - सीडीएफडी - ओएनटी इंडिया जीनोमिक्स सेंटर ऑफ एक्सीलेंस का उद्घाटन किया?",
+            "options": [
+                "नवीकरणीय ऊर्जा ग्रिड",
+                "जीनोमिक्स रिसर्च एंड बायोटेक्नोलॉजी",
+                "क्वांटम कम्प्यूटिंग",
+                "सेमीकंडक्टर फैब्रिकेशन"
+            ],
+            "correct_answer": "जीनोमिक्स रिसर्च एंड बायोटेक्नोलॉजी",
+            "answer_no": 2
+        },
+        {
+            "question_no": 7,
+            "question": "केंद्र सरकार ने हाल ही में संधि के दुरुपयोग पर अंकुश लगाने के लिए एक विशिष्ट परीक्षण शुरू करके भारत - मॉरीशस दोहरे कराधान से बचाव समझौते में संशोधनों को अधिसूचित किया है। इस परीक्षण को क्या कहा जाता है?",
+            "options": [
+                "सामान्य बचाव - रोधी नियम",
+                "प्रिंसिपल पर्पस टेस्ट",
+                "फ़ॉर्म टेस्ट पर पदार्थ",
+                "बांह की लंबाई का सिद्धांत"
+            ],
+            "correct_answer": "प्रिंसिपल पर्पस टेस्ट",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "गन्ना किसानों की मांगों और चीनी के न्यूनतम बिक्री मूल्य की जांच करने के लिए गठित नवगठित चार सदस्यीय समिति के प्रमुख के रूप में किसे नियुक्त किया गया है?",
+            "options": [
+                "अमिताभ कांत",
+                "हेमनानी",
+                "शक्तिकांत दास",
+                "बिबेक देबरॉय"
+            ],
+            "correct_answer": "हेमनानी",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "The Ministry of Tribal Affairs signed an MoU with Karmayogi Bharat to develop a capacity-building platform for grassroots functionaries. What is the specific title given to these trained volunteers?",
+            "options": [
+                "ग्रामीण विकास साथी",
+                "आदि कर्मयोगी वॉलंटियर्स",
+                "ट्राइबल मित्रा लीडर्स",
+                "वनवासी सेवा कैडर"
+            ],
+            "correct_answer": "आदि कर्मयोगी वॉलंटियर्स",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "In a strategic push to expand its diplomatic footprint in Central America, the Ministry of External Affairs recently operationalized India's resident mission in which capital city?",
+            "options": [
+                "Managua",
+                "Tegucigalpa",
+                "San José",
+                "Panama City"
+            ],
+            "correct_answer": "San José",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "Karnataka Bank recently rolled out 'Nava Dhamaka 2026', introducing nine new financial solutions. Which technological tool did they integrate into this suite to improve customer outreach and lead validation?",
+            "options": [
+                "AI-enabled Voice Bot",
+                "Biometric ATM Network",
+                "Robotic Process Automation",
+                "Blockchain Ledger"
+            ],
+            "correct_answer": "AI-enabled Voice Bot",
+            "answer_no": 1
+        },
+        {
+            "question_no": 12,
+            "question": "HSBC India announced a massive Rs 200 crore philanthropic commitment spread across four years. What is the core focus of this nationwide initiative slated to run until 2030?",
+            "options": [
+                "Organic Farming Transition",
+                "Primary Healthcare Access",
+                "Affordable Housing Construction",
+                "Financial Literacy and Digital Safety"
+            ],
+            "correct_answer": "Financial Literacy and Digital Safety",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "Despite regional conflicts in West Asia, the World Trade Organisation revised its global merchandise trade growth forecast for CY26 upwards to what percentage?",
+            "options": [
+                "2.6%",
+                "4.2%",
+                "3.9%",
+                "1.9%"
+            ],
+            "correct_answer": "3.9%",
+            "answer_no": 3
+        },
+        {
+            "question_no": 14,
+            "question": "NTPC Limited recently partnered with Africa50 to develop commercially viable power projects. Where is the headquarters of Africa50 located?",
+            "options": [
+                "Johannesburg, South Africa",
+                "Cairo, Egypt",
+                "Casablanca, Morocco",
+                "Nairobi, Kenya"
+            ],
+            "correct_answer": "Casablanca, Morocco",
+            "answer_no": 3
+        },
+        {
+            "question_no": 15,
+            "question": "Dr. T. M. Balakrishnan Nair was recently elected as the Chair of the UNESCO Intergovernmental Oceanographic Commission's Indian Ocean Panel. Which premier institution does he head as Director?",
+            "options": [
+                "Indian Marine Fisheries Research Institute",
+                "National Centre for Polar and Ocean Research",
+                "National Institute of Oceanography",
+                "Indian National Centre for Ocean Information Services"
+            ],
+            "correct_answer": "Indian National Centre for Ocean Information Services",
+            "answer_no": 4
+        },
+        {
+            "question_no": 16,
+            "question": "Veteran cricketer Punam Raut recently announced her retirement from international cricket. In which historic women's ODI match did she and Deepti Sharma record a legendary 320-run opening partnership?",
+            "options": [
+                "Against Ireland at Potchefstroom in 2017",
+                "Against Australia at Mumbai in 2014",
+                "Against England at Lord's in 2017",
+                "Against New Zealand at Hamilton in 2019"
+            ],
+            "correct_answer": "Against Ireland at Potchefstroom in 2017",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "World Students' Day is observed annually on October 15 to mark the birth anniversary of Dr. A.P.J. Abdul Kalam. Which iconic developmental model did he introduce back in 2004?",
+            "options": [
+                "Peoples' Plan Campaign for Panchayats",
+                "Providing Urban Amenities in Rural Areas",
+                "Mission Universal Literacy",
+                "PURA Model"
+            ],
+            "correct_answer": "PURA Model",
+            "answer_no": 4
+        },
+        {
+            "question_no": 18,
+            "question": "Mizoram Chief Minister Lalduhoma recently launched four digital financial management initiatives. Which web module was introduced to streamline expenditure sanctions from DDOs to the Finance Department?",
+            "options": [
+                "e-Budget",
+                "MIWAS",
+                "IFMIS Portal",
+                "e-Sanction"
+            ],
+            "correct_answer": "e-Sanction",
+            "answer_no": 4
+        },
+        {
+            "question_no": 19,
+            "question": "Under Mizoram's newly launched 100% Direct Benefit Transfer initiative, welfare payments for state schemes like Bana Kaih and Thlai Thar Leina are credited directly where?",
+            "options": [
+                "Beneficiaries' bank accounts",
+                "Post office savings accounts",
+                "Aadhaar-linked micro-ATMs",
+                "District treasury lockboxes"
+            ],
+            "correct_answer": "Beneficiaries' bank accounts",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "Which specific economic driver was cited by the WTO as the primary catalyst behind the 67% year-on-year surge in merchandise trade growth during the first half of CY26?",
+            "options": [
+                "Electric Vehicle manufacturing",
+                "Green hydrogen infrastructure",
+                "Artificial Intelligence investments",
+                "Semiconductor fab subsidies"
+            ],
+            "correct_answer": "Artificial Intelligence investments",
+            "answer_no": 3
+        }
+    ]
+}
