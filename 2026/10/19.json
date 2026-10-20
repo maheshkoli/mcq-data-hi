@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "19-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which specific legislative section empowers the central government to establish auditing standards for Multi-State Cooperative Societies under the MSCARO 2026 framework?",
+            "options": [
+                "Section 73(6) of the 2023 Amendment Act",
+                "Section 9 of the Ministry of Cooperation Rules",
+                "Section 12(4) of the Companies Act",
+                "Section 45(2) of the Cooperative Societies Act"
+            ],
+            "correct_answer": "Section 73(6) of the 2023 Amendment Act",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "The newly proposed BS-VII emission standards are inspired by which global regulatory benchmark?",
+            "options": [
+                "United States EPA Standards",
+                "Japanese Ministry of Environment rules",
+                "International Maritime Organization (IMO) Tier III",
+                "European Union (Euro 7) norms"
+            ],
+            "correct_answer": "European Union (Euro 7) norms",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "Regarding the newly launched NITI Aayog Data Centre Evaluation Framework, which of the following is NOT one of its five key pillars?",
+            "options": [
+                "Water and Cooling systems",
+                "Environmental protection",
+                "Public Health monitoring",
+                "Power and Energy management"
+            ],
+            "correct_answer": "Public Health monitoring",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "What is the primary objective of the USD 1 billion 'Greater Than Us' campaign recently launched by IIT Kanpur?",
+            "options": [
+                "Expanding global student exchange programs",
+                "Funding undergraduate fee waivers",
+                "Boosting research, innovation, and infrastructure",
+                "Setting up a new international campus"
+            ],
+            "correct_answer": "Boosting research, innovation, and infrastructure",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "Which digital infrastructure is being utilized by the newly inaugurated National Strategic Trade Command Centre (NSTCC)?",
+            "options": [
+                "Existing DGFT systems and Trade Connect ePlatform",
+                "Unified Payment Interface (UPI)",
+                "GSTN backend portal",
+                "National Single Window System only"
+            ],
+            "correct_answer": "Existing DGFT systems and Trade Connect ePlatform",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "Where is the Quantum Research Lab established through the partnership between Samsung Semiconductor India Research (SSIR) and IISc located?",
+            "options": [
+                "NIT Surathkal",
+                "IIT Delhi",
+                "IIT Kanpur",
+                "IISc Bengaluru"
+            ],
+            "correct_answer": "IISc Bengaluru",
+            "answer_no": 4
+        },
+        {
+            "question_no": 7,
+            "question": "In the Henley Passport Index 2026, what rank has India secured globally?",
+            "options": [
+                "84th",
+                "82nd",
+                "85th",
+                "83rd"
+            ],
+            "correct_answer": "84th",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "Which nation has been named the incoming chair of the IMF and World Bank Boards of Governors for 2027?",
+            "options": [
+                "Vietnam",
+                "India",
+                "Pakistan",
+                "Bangladesh"
+            ],
+            "correct_answer": "Pakistan",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "The 'Action for Creating Energy Security for Long-term Resilience' (ACCEL) initiative, which marks its first investment in a green ammonia plant, involves which international lender?",
+            "options": [
+                "World Bank",
+                "Asian Development Bank (ADB)",
+                "New Development Bank (NDB)",
+                "International Monetary Fund (IMF)"
+            ],
+            "correct_answer": "Asian Development Bank (ADB)",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "What is the new tagline introduced by ICICI Life Insurance in their recent rebranding effort?",
+            "options": [
+                "Bima Hai Toh Bharosa Hai",
+                "Zimmedari Ka Vaada",
+                "Suraksha Aapki Pehchan",
+                "Har Kal Aasaan"
+            ],
+            "correct_answer": "Har Kal Aasaan",
+            "answer_no": 4
+        },
+        {
+            "question_no": 11,
+            "question": "Under which section of the Banking Regulation Act, 1949, did the RBI approve the merger of Emirates NBD's Indian branches with RBL Bank?",
+            "options": [
+                "Section 35 (A)",
+                "Section 44A (4)",
+                "Section 22 (1)",
+                "Section 10 (2)"
+            ],
+            "correct_answer": "Section 44A (4)",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "INS Samarthak, India's first indigenous Multi-Purpose Vessel, was built by which private company?",
+            "options": [
+                "Goa Shipyard Limited",
+                "Reliance Defence",
+                "Mazagon Dock Shipbuilders",
+                "Larsen & Toubro"
+            ],
+            "correct_answer": "Larsen & Toubro",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "What is the primary focus of the upcoming Gaganyaan-1 (G1) mission scheduled for launch?",
+            "options": [
+                "Sending the first female Indian astronaut",
+                "Uncrewed test flight carrying a half-humanoid",
+                "Launching a Mars rover",
+                "Deploying a weather satellite"
+            ],
+            "correct_answer": "Uncrewed test flight carrying a half-humanoid",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "What was the theme for World Food Day 2026?",
+            "options": [
+                "Healthy Diets for All",
+                "Innovate today. Nourish tomorrow.",
+                "Grow, Nourish, Sustain",
+                "Zero Hunger by 2030"
+            ],
+            "correct_answer": "Innovate today. Nourish tomorrow.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "The International Day for the Eradication of Poverty commemorates the 1987 event held in which city?",
+            "options": [
+                "London",
+                "New York",
+                "Paris",
+                "Rome"
+            ],
+            "correct_answer": "Paris",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "Sankoo was recently carved out of which district to become Ladakh’s 8th district?",
+            "options": [
+                "Leh",
+                "Zanskar",
+                "Nubra",
+                "Kargil"
+            ],
+            "correct_answer": "Kargil",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "What percentage of indigenous content is estimated for the newly commissioned INS Samarthak?",
+            "options": [
+                "Above 75%",
+                "Above 90%",
+                "Above 60%",
+                "Above 50%"
+            ],
+            "correct_answer": "Above 75%",
+            "answer_no": 1
+        },
+        {
+            "question_no": 18,
+            "question": "Which organization leads the global observance of the International Day for the Eradication of Poverty?",
+            "options": [
+                "United Nations",
+                "International Labour Organization",
+                "World Bank",
+                "UNESCO"
+            ],
+            "correct_answer": "United Nations",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "Who led the committee responsible for the new Data Centre Evaluation Framework at NITI Aayog?",
+            "options": [
+                "Yugal Kishore Joshi",
+                "Professor Abhay Karandikar",
+                "Sanjay Malhotra",
+                "Anurag Jain"
+            ],
+            "correct_answer": "Professor Abhay Karandikar",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "Which agency is responsible for the implementation of India's National Quantum Mission?",
+            "options": [
+                "ISRO",
+                "MeitY",
+                "Department of Science and Technology (DST)",
+                "Ministry of Defence"
+            ],
+            "correct_answer": "Department of Science and Technology (DST)",
+            "answer_no": 3
+        }
+    ]
+}
