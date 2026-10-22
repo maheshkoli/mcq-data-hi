@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "22-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "कौन सा निकाय क्षेत्रीय कनेक्टिविटी योजना 'उड़ान' के लिए नोडल कार्यान्वयन एजेंसी के रूप में कार्य करता है?",
+            "options": [
+                "नागर विमानन महानिदेशालय",
+                "भारतीय विमानपत्तन प्राधिकरण",
+                "नागरिक उड्डयन मंत्रालय",
+                "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण"
+            ],
+            "correct_answer": "भारतीय विमानपत्तन प्राधिकरण",
+            "answer_no": 2
+        },
+        {
+            "question_no": 2,
+            "question": "द्विपक्षीय सैन्य अभ्यास AUSTRAHIND 2026 किस स्थान पर आयोजित किया गया था?",
+            "options": [
+                "तिरुवनंतपुरम, केरल",
+                "पुणे, महाराष्ट्र",
+                "विशाखापत्तनम, आंध्र प्रदेश",
+                "जयपुर, राजस्थान"
+            ],
+            "correct_answer": "तिरुवनंतपुरम, केरल",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "एक प्रमुख संरचनात्मक बदलाव में, गृह मंत्रालय ने किस तारीख से प्रभावी क्षेत्र - विशिष्ट कार्यात्मक आदेशों को पेश करने के लिए केंद्रीय औद्योगिक सुरक्षा बल का पुनर्गठन किया?",
+            "options": [
+                "1 नवंबर, 2026",
+                "1 दिसंबर, 2026",
+                "1 अक्टूबर, 2026",
+                "1 जनवरी, 2027"
+            ],
+            "correct_answer": "1 नवंबर, 2026",
+            "answer_no": 1
+        },
+        {
+            "question_no": 4,
+            "question": "कृषि और किसान कल्याण मंत्रालय द्वारा शुरू किए गए उन्नत कृषि कल्याण पोर्टल को विकसित करते समय कौन से डिजिटल मानकों को अपनाया गया था?",
+            "options": [
+                "राष्ट्रीय डेटा साझाकरण नीति और GIGW 2.0",
+                "डिजिटल इंडिया अधिनियम और सीईआरटी - इन फ्रेमवर्क",
+                "यूआईडीएआई आधार 2.0 और एनईजीडी मानक",
+                "GIGW 3.0 और MeitY का DBIM 3.0"
+            ],
+            "correct_answer": "GIGW 3.0 और MeitY का DBIM 3.0",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "2026 में पेश किए गए पात्र गैर - वाणिज्यिक निजी वाहनों के लिए वार्षिक एनएचएआई टोल पास के लिए संशोधित शुल्क क्या है?",
+            "options": [
+                "3,250 रुपये",
+                "3,000 रुपये",
+                "3,075 रुपये",
+                "3,150 रुपये"
+            ],
+            "correct_answer": "3,075 रुपये",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "पृथ्वी विज्ञान मंत्रालय ने पीएचडी कार्यक्रमों के लिए सभी 10 एमओईएस अनुसंधान केंद्रों को एसोसिएटेड रिसर्च इंस्टीट्यूट के रूप में मान्यता देने के लिए किस संस्थान के साथ साझेदारी की है?",
+            "options": [
+                "जवाहर लाल नेहरू उन्नत वैज्ञानिक अनुसंधान केन्द्र",
+                "एकेडमी ऑफ साइंटिफिक एंड इनोवेटिव रिसर्च",
+                "भारतीय विज्ञान संस्थान",
+                "वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद"
+            ],
+            "correct_answer": "एकेडमी ऑफ साइंटिफिक एंड इनोवेटिव रिसर्च",
+            "answer_no": 2
+        },
+        {
+            "question_no": 7,
+            "question": "69 वां राष्ट्रमंडल संसदीय सम्मेलन किस शहर में रेफिल्वे मत्श्वेनी - त्सीपाने की अध्यक्षता में आयोजित किया गया था?",
+            "options": [
+                "<g id=\"1\">नई दिल्ली, भारत</g>",
+                "ओटावा, कनाडा",
+                "लंदन, यूनाइटेड किंगडम",
+                "केप टाउन, दक्षिण अफ़्रीका"
+            ],
+            "correct_answer": "केप टाउन, दक्षिण अफ़्रीका",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "भारत की यूनेस्को की अस्थायी सूची में कौन सी नई जोड़ी गई साइट अंडमान और निकोबार द्वीप समूह में अपने अद्वितीय मिट्टी ज्वालामुखी परिसर के लिए प्रसिद्ध है?",
+            "options": [
+                "नारकोंडम द्वीप",
+                "बैरेन आइलैंड",
+                "हैवलॉक द्वीप",
+                "बारातांग द्वीप"
+            ],
+            "correct_answer": "बारातांग द्वीप",
+            "answer_no": 4
+        },
+        {
+            "question_no": 9,
+            "question": "कज़ान में दूसरे रूस - भारत व्यापार मंच के दौरान, भारतक्लाउड ने एआई और क्लाउड सहयोग को बढ़ावा देने के लिए किस इकाई के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए?",
+            "options": [
+                "स्कोल्कोवो इनोवेशन सेंटर",
+                "रोसाटॉम डिजिटल सॉल्यूशंस",
+                "तातारस्तान आईटी - पार्क",
+                "यांडेक्स क्लाउड सर्विसेज"
+            ],
+            "correct_answer": "तातारस्तान आईटी - पार्क",
+            "answer_no": 3
+        },
+        {
+            "question_no": 10,
+            "question": "एनपीएस सेंट्रल प्लेटफॉर्म पर ग्राहकों को उनके प्रान की आवश्यकता के बिना लॉग इन करने में मदद करने के लिए कौन सा अनूठा प्रमाणीकरण विवरण पेश किया गया था?",
+            "options": [
+                "आधार बायोमेट्रिक स्कैन",
+                "ओटीपी के साथ पंजीकृत मोबाइल नंबर और जन्म तिथि",
+                "वोटर आईडी और डिजिटल सिग्नेचर",
+                "पैन कार्ड नंबर और रजिस्टर्ड ईमेल"
+            ],
+            "correct_answer": "ओटीपी के साथ पंजीकृत मोबाइल नंबर और जन्म तिथि",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "विश्व बैंक समूह की पहली व्यापक डिजिटल रणनीति का उद्देश्य वर्ष 2030 तक विश्व स्तर पर कितने लोगों को लाभान्वित करना है?",
+            "options": [
+                "2 बिलियन",
+                "$ 500000000?",
+                "1 अरब",
+                "800 मिलियन"
+            ],
+            "correct_answer": "1 अरब",
+            "answer_no": 3
+        },
+        {
+            "question_no": 12,
+            "question": "वोरेन प्राइवेट लिमिटेड ने किस यूरोपीय देश से जाइरोप्लेन प्रौद्योगिकी और विनिर्माण का पता लगाने के लिए डब्ल्यू एंड एस इनोवेशन के साथ साझेदारी की?",
+            "options": [
+                "पोलैंड",
+                "फ़्रांस",
+                "चेक गणराज्य",
+                "जर्मनी"
+            ],
+            "correct_answer": "पोलैंड",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "Embraer acquired a controlling stake in Novavayu Aerospace to promote its C-390 Millennium aircraft for which Indian defence requirement?",
+            "options": [
+                "मध्यम परिवहन विमान कार्यक्रम",
+                "रणनीतिक टैंकर अधिग्रहण योजना",
+                "मल्टी - रोल कॉम्बैट एयरक्राफ़्ट डील",
+                "लाइट यूटिलिटी हेलीकॉप्टर प्रोजेक्ट"
+            ],
+            "correct_answer": "मध्यम परिवहन विमान कार्यक्रम",
+            "answer_no": 1
+        },
+        {
+            "question_no": 14,
+            "question": "Which DRDO laboratory developed the man-portable Electronic Intelligence system designed to detect enemy radar signals?",
+            "options": [
+                "Armament Research and Development Establishment",
+                "Aeronautical Development Establishment",
+                "Solid State Physics Laboratory",
+                "Defence Electronics Research Laboratory"
+            ],
+            "correct_answer": "Defence Electronics Research Laboratory",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "The three newly discovered centipede species belonging to the genus Rhysida were documented from which geographical region in India?",
+            "options": [
+                "Aravalli Hills",
+                "Western Ghats",
+                "Eastern Himalayas",
+                "Shivalik Range"
+            ],
+            "correct_answer": "Western Ghats",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "National Solidarity Day is observed annually on October 20 to commemorate soldiers who fought during which historical conflict?",
+            "options": [
+                "1962 Sino-Indian War",
+                "1971 Liberation War",
+                "1965 Indo-Pak War",
+                "1947 Kashmir Operations"
+            ],
+            "correct_answer": "1962 Sino-Indian War",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "Police Commemoration Day honors personnel who lost their lives during an attack by Chinese troops at which historical location in 1959?",
+            "options": [
+                "Tawang, Arunachal Pradesh",
+                "Hot Springs, Ladakh",
+                "Galwan Valley, Ladakh",
+                "Rezang La, Ladakh"
+            ],
+            "correct_answer": "Hot Springs, Ladakh",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "The Ministry of Health and Family Welfare approved the operationalisation of Ladakh's first Government Medical College at which location?",
+            "options": [
+                "Diskit",
+                "Drass",
+                "Leh",
+                "Kargil"
+            ],
+            "correct_answer": "Leh",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "Which organization acts as the central statutory authority headquartered in New Delhi responsible for national highways?",
+            "options": [
+                "National Highways Authority of India",
+                "Central Public Works Department",
+                "National Highways and Infrastructure Development Corporation",
+                "Border Roads Organisation"
+            ],
+            "correct_answer": "National Highways and Infrastructure Development Corporation",
+            "answer_no": 3
+        },
+        {
+            "question_no": 20,
+            "question": "The 2026 Commonwealth Parliamentarian Life-time Achievement Award was conferred upon Dr. Angelo Farrugia representing the parliament of which country?",
+            "options": [
+                "Canada",
+                "Australia",
+                "Sri Lanka",
+                "Malta"
+            ],
+            "correct_answer": "Malta",
+            "answer_no": 4
+        }
+    ]
+}
