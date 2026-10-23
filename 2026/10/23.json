@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "23-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "भारतीय सेना के लिए बेहतर निम्न - स्तरीय लाइट - वेट रडार की आपूर्ति के लिए रक्षा मंत्रालय द्वारा किस घरेलू रक्षा उद्यम को अनुबंधित किया गया है?",
+            "options": [
+                "मुनिशंस इंडिया लिमिटेड",
+                "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+                "मझगांव डॉक शिपबिल्डर्स",
+                "हिन्दुस्तान ऐरोनॉटिक्स लिमिटेड"
+            ],
+            "correct_answer": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+            "answer_no": 2
+        },
+        {
+            "question_no": 2,
+            "question": "विशाखापत्तनम में आयोजित SIMBEX -2026 के 33 वें संस्करण के दौरान, किस नौसेना जहाज ने द्विपक्षीय समुद्री अभ्यास में सिंगापुर की भागीदारी का प्रतिनिधित्व किया?",
+            "options": [
+                "आरएसएस के दिग्गज",
+                "आरएसएस सुप्रीम",
+                "RSS दुर्जेय",
+                "आरएसएस टेनसियस"
+            ],
+            "correct_answer": "आरएसएस सुप्रीम",
+            "answer_no": 2
+        },
+        {
+            "question_no": 3,
+            "question": "राष्ट्रव्यापी हरित दिवाली अभियान 2026 विशेष रूप से इस बात पर ध्यान केंद्रित करता है कि राष्ट्रीय स्वच्छ वायु कार्यक्रम के तहत कितने शहर शामिल हैं?",
+            "options": [
+                "100 शहर",
+                "130 शहर",
+                "75 शहर",
+                "150 शहर"
+            ],
+            "correct_answer": "130 शहर",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "नए हस्ताक्षरित भारत - न्यूजीलैंड सहयोग ज्ञापन के तहत, किस निकाय के प्रमुख ने न्यूजीलैंड सीमा शुल्क सेवा के साथ समझौते पर हस्ताक्षर किए?",
+            "options": [
+                "भारतीय प्रतिभूति और विनिमय बोर्ड",
+                "केंद्रीय प्रत्यक्ष कर बोर्ड",
+                "केंद्रीय अप्रत्यक्ष कर और सीमा शुल्क बोर्ड",
+                "विदेश व्यापार महानिदेशालय"
+            ],
+            "correct_answer": "केंद्रीय अप्रत्यक्ष कर और सीमा शुल्क बोर्ड",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "वित्तीय सेवा विभाग के राष्ट्रव्यापी वित्तीय समावेशन संतृप्ति अभियान का उद्देश्य किस रजिस्ट्री के माध्यम से लंबित 14 अंकों वाले CKYC पहचानकर्ता उत्पन्न करना है?",
+            "options": [
+                "NESL",
+                "सिबिल",
+                "यूआईडीएआई",
+                "CERSAI"
+            ],
+            "correct_answer": "CERSAI",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "सरकारी सुरक्षा ब्याज और पूंजीगत लाभ पर छूट का दावा करने वाले करदाताओं के लिए हाल ही में पेश किया गया केंद्रीय प्रत्यक्ष कर बोर्ड रिपोर्टिंग फॉर्म क्या है?",
+            "options": [
+                "फ़ॉर्म 173A",
+                "फॉर्म 26AS",
+                "फ़ॉर्म 15G",
+                "फ़ॉर्म 10E"
+            ],
+            "correct_answer": "फ़ॉर्म 173A",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "IISc बेंगलुरु ने सौराष्ट्र भाषा के लिए उन्नत VITS वास्तुकला - आधारित टेक्स्ट - टू - स्पीच मॉडल विकसित करने के लिए MeitY के तहत किस डिजिटल डिवीजन के साथ सहयोग किया?",
+            "options": [
+                "एनआईसी",
+                "एसटीपीआई",
+                "CDAC",
+                "भशिनी"
+            ],
+            "correct_answer": "भशिनी",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "दुशांबे में आयोजित शंघाई सहयोग संगठन की सरकार के प्रमुखों की परिषद की 25 वीं बैठक में भारतीय प्रतिनिधिमंडल का नेतृत्व किसने किया?",
+            "options": [
+                "एस. जयशंकर",
+                "नरेन्द्र मोदी",
+                "अमित शाह",
+                "राजनाथ सिंह"
+            ],
+            "correct_answer": "राजनाथ सिंह",
+            "answer_no": 4
+        },
+        {
+            "question_no": 9,
+            "question": "यूनेस्को 2026 जीईएम जेंडर रिपोर्ट के अनुसार, नामांकन में वैश्विक लिंग समानता पहले ही 2024 तक किन शैक्षिक स्तरों पर हासिल की जा चुकी थी?",
+            "options": [
+                "माध्यमिक और उच्चतर व्यावसायिक",
+                "प्राथमिक और तृतीयक विशेष रूप से",
+                "स्नातकोत्तर सहित सभी स्तर",
+                "प्री - प्राइमरी, प्राइमरी और सेकेंडरी"
+            ],
+            "correct_answer": "प्री - प्राइमरी, प्राइमरी और सेकेंडरी",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "एयू स्मॉल फाइनेंस बैंक ने भारत का पहला रुपे क्रेडिट कार्ड लॉन्च करने के लिए पेटीएम के साथ साझेदारी की, जिसमें मोबाइल - पहले उपयोगकर्ताओं के लिए कौन सा अद्वितीय लाभ शामिल है?",
+            "options": [
+                "फ़्यूल सरचार्ज में मुफ़्त छूट",
+                "फैमिली लाउंज का ऐक्सेस",
+                "मुफ़्त टर्म इंश्योरेंस",
+                "अंतरराष्ट्रीय रोमिंग बंडल"
+            ],
+            "correct_answer": "फैमिली लाउंज का ऐक्सेस",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "बैंक ऑफ बड़ौदा का उत्सव अभियान 'BOB Ke Sang Tyohaar Ki Umang' किस विशिष्ट ब्रांड नामकरण के तहत इलेक्ट्रिक वाहन ऋण प्रदान करता है?",
+            "options": [
+                "बॉब ईवी पावर",
+                "बीओबी वोल्ट लोन",
+                "बॉब ग्रीन व्हील्स",
+                "बॉब इको ड्राइव"
+            ],
+            "correct_answer": "बॉब ग्रीन व्हील्स",
+            "answer_no": 3
+        },
+        {
+            "question_no": 12,
+            "question": "भारत की पहली स्वदेशी विमानन बंदूक प्रणाली के निर्माण के लिए विकास - सह - उत्पादन भागीदारों के रूप में एआरडीई द्वारा किन दो निजी और कॉर्पोरेट संस्थाओं को शॉर्टलिस्ट किया गया था?",
+            "options": [
+                "एसएसएस डिफेंस एंड कल्याणी ग्रुप",
+                "टाटा एडवांस्ड सिस्टम्स और भारत फोर्ज",
+                "एल एंड टी डिफेंस एंड महिंद्रा एयरोस्पेस",
+                "अडाणी डिफेंस एंड सोलर इंडस्ट्रीज"
+            ],
+            "correct_answer": "एसएसएस डिफेंस एंड कल्याणी ग्रुप",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "नासा के दृढ़ता रोवर ने हाल ही में किस पुराने रोवर द्वारा पहले से तय की गई दूरी को पार करके मंगल ग्रह पर अलौकिक ड्राइविंग रिकॉर्ड को तोड़ दिया?",
+            "options": [
+                "अवसर",
+                "आत्मा",
+                "सोजॉर्नर",
+                "<g id=\"888\">जिज्ञासा</g>"
+            ],
+            "correct_answer": "अवसर",
+            "answer_no": 1
+        },
+        {
+            "question_no": 14,
+            "question": "सेनगोल के रूप में जाना जाने वाला ऐतिहासिक सोने की चढ़ाई वाला चांदी का राजदंड, जिसे स्वर्गीय वुमिडी एथिराज द्वारा तैयार किया गया था, इसके शीर्ष पर कौन सा पवित्र आकृति है?",
+            "options": [
+                "चक्रवर्ती",
+                "सिम्हा",
+                "नन्दीCity name (optional, probably does not need a translation)",
+                "गरुड"
+            ],
+            "correct_answer": "नन्दीCity name (optional, probably does not need a translation)",
+            "answer_no": 3
+        },
+        {
+            "question_no": 15,
+            "question": "दिग्गज प्रसारक हरसरन बीर कौर पांडे ने टेलीविजन पत्रकारिता के पांच दशकों के इतिहास पर आधारित एक नई पुस्तक लिखी है जिसका शीर्षक है क्या?",
+            "options": [
+                "इनसाइड इंडियाज़ न्यूज़रूम",
+                "भारत में टीवी समाचार का विकास",
+                "एनालॉग एंटीना से AI स्क्रीन तक",
+                "दूरदर्शन के दिन और डिजिटल वेव्स"
+            ],
+            "correct_answer": "भारत में टीवी समाचार का विकास",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "World Iodine Deficiency Day is observed annually across the globe on which date?",
+            "options": [
+                "15 अक्टूबर",
+                "12 नवंबर",
+                "5 नवंबर",
+                "अक्टूबर `21"
+            ],
+            "correct_answer": "अक्टूबर `21",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "The Lieutenant Governor of Ladakh notified 100 constituencies under a newly amended regulation for how many Autonomous Hill Development Councils?",
+            "options": [
+                "04 councils",
+                "10 councils",
+                "08 councils",
+                "06 councils"
+            ],
+            "correct_answer": "08 councils",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "Under the modified Ladakh Autonomous Hill Development Council regulation, what is the maximum number of elected seats permitted in each individual council?",
+            "options": [
+                "18 seats",
+                "30 seats",
+                "24 seats",
+                "35 seats"
+            ],
+            "correct_answer": "24 seats",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "Which international financial institution is specifically eligible alongside foreign institutional investors to utilize the CBDT's new Form 173A?",
+            "options": [
+                "Bank for International Settlements",
+                "Asian Development Bank",
+                "New Development Bank",
+                "International Monetary Fund"
+            ],
+            "correct_answer": "Bank for International Settlements",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "The PUFFINS mission, featuring an Indian astronomer as principal investigator under NASA's Astrophysics Pioneers program, targets which research domain?",
+            "options": [
+                "Interstellar dust polarimetry",
+                "Exoplanetary atmospheres",
+                "Solar corona magnetic fields",
+                "Lunar subsurface water ice"
+            ],
+            "correct_answer": "Interstellar dust polarimetry",
+            "answer_no": 1
+        }
+    ]
+}
