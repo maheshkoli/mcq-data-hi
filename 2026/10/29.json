@@ -5,95 +5,95 @@
     "data": [
         {
             "question_no": 1,
-            "question": "किस मंत्रालय ने हाल ही में 100% इथेनॉल - ईंधन वाले फ्लेक्स - ईंधन वाहनों की अनुमति देने के लिए केंद्रीय मोटर वाहन नियमों को अपडेट किया है?",
+            "question": "Which ministry recently updated the Central Motor Vehicles Rules to permit 100% ethanol-fueled flex-fuel vehicles?",
             "options": [
-                "भारी उद्योग मंत्रालय",
-                "((सड़क परिवहन और राजमार्ग मंत्रालय | मिनिस्ट्री ऑफ रोड ट्रांसपोर्ट आंड हाइवेस | Ministry of road transport and Highways))",
-                "एमओईएफसीसी - पर्यावरण, वन एवं जलवायु परिवर्तन मंत्रालय",
-                "पेट्रोलियम और प्राकृतिक गैस मंत्रालय"
+                "Ministry of Heavy Industries",
+                "Ministry of Road Transport and Highways",
+                "Ministry of Environment, Forest and Climate Change",
+                "Ministry of Petroleum and Natural Gas"
             ],
-            "correct_answer": "((सड़क परिवहन और राजमार्ग मंत्रालय | मिनिस्ट्री ऑफ रोड ट्रांसपोर्ट आंड हाइवेस | Ministry of road transport and Highways))",
+            "correct_answer": "Ministry of Road Transport and Highways",
             "answer_no": 2
         },
         {
             "question_no": 2,
-            "question": "नई एमओआरटीएच अधिसूचना के तहत, हल्के पेट्रोल और डीजल वाहनों के लिए वेट थ्रेशोल्ड संशोधन क्या है?",
+            "question": "Under the new MoRTH notification, what is the weight threshold revision for light petrol and diesel vehicles?",
             "options": [
-                "2,000 किलोग्राम से 2,500 किलोग्राम तक",
-                "2,500 किलोग्राम से 3,000 किलोग्राम तक",
-                "3,000 किलोग्राम से 3,500 किलोग्राम तक",
-                "3,500 किलोग्राम से 4,000 किलोग्राम तक"
+                "From 2,000 kg to 2,500 kg",
+                "From 2,500 kg to 3,000 kg",
+                "From 3,000 kg to 3,500 kg",
+                "From 3,500 kg to 4,000 kg"
             ],
-            "correct_answer": "3,000 किलोग्राम से 3,500 किलोग्राम तक",
+            "correct_answer": "From 3,000 kg to 3,500 kg",
             "answer_no": 3
         },
         {
             "question_no": 3,
-            "question": "किस टेक स्टार्टअप ने संप्रभु सैन्य एआई तैनाती के लिए मुख्यालय एकीकृत रक्षा कर्मचारियों के साथ पांच साल के समझौता ज्ञापन पर हस्ताक्षर किए?",
+            "question": "Which tech startup signed a five-year MoU with the Headquarters Integrated Defence Staff for sovereign military AI deployment?",
             "options": [
-                "निरीक्षण करें.AI",
-                "सर्वम एआई",
-                "क्रुत्रिम एआई",
-                "हाप्टिक"
+                "Observe.AI",
+                "Sarvam AI",
+                "Krutrim AI",
+                "Haptik"
             ],
-            "correct_answer": "सर्वम एआई",
+            "correct_answer": "Sarvam AI",
             "answer_no": 2
         },
         {
             "question_no": 4,
-            "question": "एमओआरटीएच के नए पास के तहत नगरपालिका सीमाओं के बाहर स्थित राष्ट्रीय राजमार्ग शुल्क प्लाजा के 20 किमी के भीतर रहने वाले निवासियों के लिए वार्षिक शुल्क क्या है?",
+            "question": "What is the annual fee for residents living within 20 km of a National Highway fee plaza located outside municipal limits under MoRTH's new pass?",
             "options": [
-                "1,500 रुपये",
-                "रु. 1,000",
-                "2,000 रुपये",
-                "रु. 3,000"
+                "Rs. 1,500",
+                "Rs. 1,000",
+                "Rs. 2,000",
+                "Rs. 3,000"
             ],
-            "correct_answer": "1,500 रुपये",
+            "correct_answer": "Rs. 1,500",
             "answer_no": 1
         },
         {
             "question_no": 5,
-            "question": "वर्ष 2026 के WJP नियम कानून सूचकांक में भारत ने कैसा प्रदर्शन किया?",
+            "question": "How did India fare in the WJP Rule of Law Index for the year 2026?",
             "options": [
-                "80वीं रैंक में सुधार",
-                "88 वें स्थान पर गिरा",
-                "उन्नत 75 वें रैंक पर",
-                "86वीं रैंक पर स्थिर"
+                "Improved to 80th rank",
+                "Dropped to 88th rank",
+                "Advanced to 75th rank",
+                "Stagnant at 86th rank"
             ],
-            "correct_answer": "88 वें स्थान पर गिरा",
+            "correct_answer": "Dropped to 88th rank",
             "answer_no": 2
         },
         {
             "question_no": 6,
-            "question": "किस अंतर्राष्ट्रीय संगठन ने पहली वैश्विक प्रवाल भित्ति मूल्यांकन चेतावनी प्रकाशित की कि 96% उथले - पानी की चट्टानों को पतन का सामना करना पड़ता है?",
+            "question": "Which international organization published the first global coral reef assessment warning that 96% of shallow-water reefs face collapse?",
             "options": [
-                "ग्रीनपीस इंटरनेशनल",
-                "wwf - प्रकृति के लिए दुनिया के व्यापक फंड",
-                "अंतर्राष्ट्रीय प्रकृति संरक्षण संघ",
-                "संयुक्त राष्ट्र पर्यावरण कार्यक्रम"
+                "Greenpeace International",
+                "World Wide Fund for Nature",
+                "International Union for Conservation of Nature",
+                "United Nations Environment Programme"
             ],
-            "correct_answer": "अंतर्राष्ट्रीय प्रकृति संरक्षण संघ",
+            "correct_answer": "International Union for Conservation of Nature",
             "answer_no": 3
         },
         {
             "question_no": 7,
-            "question": "भारत - इंडोनेशिया संयुक्त विशेष बल अभ्यास 'गरुड़ शक्ति 2026' का 11वां संस्करण कहाँ आयोजित किया गया था?",
+            "question": "Where was the 11th edition of the India-Indonesia joint special forces exercise 'Garuda Shakti 2026' conducted?",
             "options": [
-                "बांडुंग, इंडोनेशिया",
-                "जकार्ता @indonesia",
-                "बेलगाम, भारत",
-                "बन्यूवांगी, इंडोनेशिया"
+                "Bandung, Indonesia",
+                "Jakarta, Indonesia",
+                "Belgaum, India",
+                "Banyuwangi, Indonesia"
             ],
-            "correct_answer": "बन्यूवांगी, इंडोनेशिया",
+            "correct_answer": "Banyuwangi, Indonesia",
             "answer_no": 4
         },
         {
             "question_no": 8,
-            "question": "किस फ्रांसीसी सांस्कृतिक संस्थान ने पांडुलिपि संरक्षण के लिए ज्ञान भारतम मिशन के तहत भारत के संस्कृति मंत्रालय के साथ साझेदारी की?",
+            "question": "Which French cultural institution partnered with India's Ministry of Culture under the Gyan Bharatam Mission for manuscript preservation?",
             "options": [
-                "लौवर संग्रहालय",
-                "फ्रांस के राष्ट्रीय अभिलेखागार",
-                "सोरबोन यूनिवर्सिटी लाइब्रेरी",
+                "Louvre Museum",
+                "National Archives of France",
+                "Sorbonne University Library",
                 "Bibliothèque nationale de France"
             ],
             "correct_answer": "Bibliothèque nationale de France",
@@ -101,10 +101,10 @@
         },
         {
             "question_no": 9,
-            "question": "हाल ही में मुंबई में एसबीआई द्वारा उद्घाटन किए गए साइबर सिक्योरिटी सेंटर ऑफ एक्सीलेंस का नाम क्या है?",
+            "question": "What is the name of the Cybersecurity Centre of Excellence recently inaugurated by SBI in Mumbai?",
             "options": [
-                "फ़िनगार्ड",
-                "साइबरशील्ड",
+                "FinGuard",
+                "CyberShield",
                 "SafetNet",
                 "CyRIS"
             ],
@@ -113,134 +113,134 @@
         },
         {
             "question_no": 10,
-            "question": "किस प्लेटफ़ॉर्म ने खुदरा निवेशक पहुंच को व्यापक बनाने के लिए सेबी से ऑनलाइन बॉन्ड प्लेटफ़ॉर्म प्रदाता लाइसेंस प्राप्त किया?",
+            "question": "Which platform secured an Online Bond Platform Provider licence from SEBI to widen retail investor access?",
             "options": [
-                "PB मनी",
-                "ज़ेरोधा",
-                "ग्रो",
+                "PB Money",
+                "Zerodha",
+                "Groww",
                 "ETMoney"
             ],
-            "correct_answer": "PB मनी",
+            "correct_answer": "PB Money",
             "answer_no": 1
         },
         {
             "question_no": 11,
-            "question": "अक्टूबर 2026 में भारत - तिब्बत सीमा पुलिस के अतिरिक्त महानिदेशक के रूप में किसे नियुक्त किया गया था?",
+            "question": "Who was appointed as the additional director general of the Indo-Tibetan Border Police in October 2026?",
             "options": [
-                "शत्रुजीत सिंह कपूर",
-                "रीना मित्रा",
-                "अनीश दयाल सिंह",
-                "संजय सिंघल"
+                "Shatrujeet Singh Kapoor",
+                "Rina Mitra",
+                "Anish Dayal Singh",
+                "Sanjay Singhal"
             ],
-            "correct_answer": "संजय सिंघल",
+            "correct_answer": "Sanjay Singhal",
             "answer_no": 4
         },
         {
             "question_no": 12,
-            "question": "सैन्य मामलों के विभाग में एयर मार्शल विक्रम गौर द्वारा कौन सी ऐतिहासिक नियुक्ति हासिल की गई थी?",
+            "question": "Which historic appointment was achieved by Air Marshal Vikram Gaur in the Department of Military Affairs?",
             "options": [
-                "एकीकृत रक्षा स्टाफ का नेतृत्व करने वाले पहले नौसेना अधिकारी",
-                "त्रि - सेवा कमान का नेतृत्व करने वाले पहले एयर चीफ मार्शल",
-                "विदेश मंत्रालय के पहले सैन्य सलाहकार",
-                "पहले आईएएफ अधिकारी को डीएमए में अतिरिक्त सचिव के रूप में नियुक्त किया गया"
+                "First naval officer to head the Integrated Defence Staff",
+                "First air chief marshal to lead the tri-services command",
+                "First military advisor to the Ministry of External Affairs",
+                "First IAF officer appointed as Additional Secretary in the DMA"
             ],
-            "correct_answer": "पहले आईएएफ अधिकारी को डीएमए में अतिरिक्त सचिव के रूप में नियुक्त किया गया",
+            "correct_answer": "First IAF officer appointed as Additional Secretary in the DMA",
             "answer_no": 4
         },
         {
             "question_no": 13,
-            "question": "गोवा शिपयार्ड द्वारा लॉन्च किए गए चौथी स्वदेशी अगली पीढ़ी के अपतटीय गश्ती पोत 'सृष्टि' का क्या अर्थ है?",
+            "question": "What is the meaning of 'Srishti', the name given to the fourth indigenous Next Generation Offshore Patrol Vessel launched by Goa Shipyard?",
             "options": [
-                "सृष्टि",
-                "गार्डियन",
-                "सुरक्षा",
-                "सतर्कता"
+                "Creation",
+                "Guardian",
+                "Protection",
+                "Vigilance"
             ],
-            "correct_answer": "सृष्टि",
+            "correct_answer": "Creation",
             "answer_no": 1
         },
         {
             "question_no": 14,
-            "question": "शोधकर्ताओं ने हाल ही में किस संरक्षित क्षेत्र में 'Osbeckia assamensis' नामक एक नई बारहमासी झाड़ी प्रजाति की खोज की है?",
+            "question": "Researchers recently discovered a new perennial shrub species named 'Osbeckia assamensis' in which protected area?",
             "options": [
-                "काज़ीरंगा राष्ट्रीय उद्यान",
-                "नमेरी राष्ट्रीय उद्यान",
-                "मानस राष्ट्रीय उद्यान",
-                "डिब्रू - सैखोवा नेशनल पार्क"
+                "Kaziranga National Park",
+                "Nameri National Park",
+                "Manas National Park",
+                "Dibru-Saikhowa National Park"
             ],
-            "correct_answer": "मानस राष्ट्रीय उद्यान",
+            "correct_answer": "Manas National Park",
             "answer_no": 3
         },
         {
             "question_no": 15,
-            "question": "किस भारतीय मुक्केबाज ने विश्व मुक्केबाजी अंडर 19 चैंपियनशिप 2026 में पुरुषों के 55 किलोग्राम वर्ग में स्वर्ण पदक जीता?",
+            "question": "Which Indian pugilist clinched a gold medal in the men's 55 kg division at the World Boxing U19 Championships 2026?",
             "options": [
-                "विकास कृष्ण",
-                "अमित पंघाल",
-                "आदित्य",
+                "Vikas Krishan",
+                "Amit Panghal",
+                "Aditya",
                 "Deepak Kumar"
             ],
-            "correct_answer": "आदित्य",
+            "correct_answer": "Aditya",
             "answer_no": 3
         },
         {
             "question_no": 16,
-            "question": "किस रेसिंग ड्राइवर ने ऑस्टिन, टेक्सास में यूनाइटेड स्टेट्स ग्रां प्री 2026 में सीज़न की अपनी नौवीं जीत हासिल की?",
+            "question": "Which racing driver secured his ninth win of the season at the United States Grand Prix 2026 in Austin, Texas?",
             "options": [
-                "किमी एंटोनेली",
-                "लुईस हैमिल्टन",
-                "मैक्स वर्स्टापेन",
-                "चार्ल्स लेक्लेर्क"
+                "Kimi Antonelli",
+                "Lewis Hamilton",
+                "Max Verstappen",
+                "Charles Leclerc"
             ],
-            "correct_answer": "किमी एंटोनेली",
+            "correct_answer": "Kimi Antonelli",
             "answer_no": 1
         },
         {
             "question_no": 17,
-            "question": "यासुओ फुकुदा, जिनका 90 वर्ष की आयु में निधन हो गया, किस देश के पूर्व प्रधान मंत्री थे?",
+            "question": "Yasuo Fukuda, who passed away at 90, was the former Prime Minister of which country?",
             "options": [
-                "दक्षिण कोरिया",
-                "मलेशिया",
-                "जापान",
-                "सिंगापुर"
+                "South Korea",
+                "Malaysia",
+                "Japan",
+                "Singapore"
             ],
-            "correct_answer": "जापान",
+            "correct_answer": "Japan",
             "answer_no": 3
         },
         {
             "question_no": 18,
-            "question": "विश्व भर में प्रतिवर्ष अंतर्राष्ट्रीय एनीमेशन दिवस किस तारीख को मनाया जाता है?",
+            "question": "On which date is International Animation Day celebrated annually across the globe?",
             "options": [
-                "22 अक्टूबर",
-                "28 अक्टूबर",
-                "5 नवंबर",
-                "15 अक्टूबर"
+                "October 22",
+                "October 28",
+                "November 5",
+                "October 15"
             ],
-            "correct_answer": "28 अक्टूबर",
+            "correct_answer": "October 28",
             "answer_no": 2
         },
         {
             "question_no": 19,
-            "question": "29 अक्टूबर, 2026 को मनाए गए अंतर्राष्ट्रीय देखभाल और सहायता दिवस का विषय क्या था?",
+            "question": "What was the theme for the International Day of Care and Support observed on October 29, 2026?",
             "options": [
-                "अच्छे कार्य के माध्यम से सतत देखभाल और सहायता प्रणाली का निर्माण",
-                "लैंगिक समानता और देखभाल देने का अर्थशास्त्र",
-                "लचीले भविष्य के लिए देखभाल कर्मियों में निवेश",
-                "दुनिया भर में अवैतनिक देखभाल श्रम को मान्यता देना"
+                "Building Sustainable Care and Support Systems through Decent Work",
+                "Gender Equality and the Economics of Care Giving",
+                "Investing in Care Workers for a Resilient Future",
+                "Recognizing Unpaid Care Labor Worldwide"
             ],
-            "correct_answer": "अच्छे कार्य के माध्यम से सतत देखभाल और सहायता प्रणाली का निर्माण",
+            "correct_answer": "Building Sustainable Care and Support Systems through Decent Work",
             "answer_no": 1
         },
         {
             "question_no": 20,
-            "question": "अक्टूबर 2026 में, किस राज्य के मुख्यमंत्री ने कुल परिव्यय बढ़ाकर एक अनुपूरक बजट पेश किया। 1.19 लाख करोड़?",
+            "question": "In October 2026, the Chief Minister of which state presented a supplementary budget raising the total outlay to Rs. 1.19 lakh crore?",
             "options": [
-                "हिमाचल प्रदेश",
-                "उत्तराखंड",
-                "असम",
-                "गोवा"
+                "Himachal Pradesh",
+                "Uttarakhand",
+                "Assam",
+                "Goa"
             ],
-            "correct_answer": "उत्तराखंड",
+            "correct_answer": "Uttarakhand",
             "answer_no": 2
         }
     ]
