@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "03-11-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "प्रधानमंत्री नरेंद्र मोदी ने अक्टूबर 2026 के अंत में गुजरात के बनासकांठा की अपनी यात्रा के दौरान किस कृषि सुविधा का उद्घाटन किया था?",
+            "options": [
+                "भारत बोवाइन ब्रीडिंग एंड रिसर्च सेंटर",
+                "नेशनल कैटल फीड रिसर्च इंस्टीट्यूट",
+                "सरदार वल्लभभाई जेनेटिक लैब",
+                "वेस्टर्न इंडिया डेयरी टेक्नोलॉजी पार्क"
+            ],
+            "correct_answer": "भारत बोवाइन ब्रीडिंग एंड रिसर्च सेंटर",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "नव अनुमोदित उत्तरी बुलेट ट्रेन कॉरिडोर भारत की राजधानी को सिलीगुड़ी के माध्यम से किस पूर्वोत्तर शहर से जोड़ता है?",
+            "options": [
+                "गुवाहाटी",
+                "शिलांग",
+                "इम्फाल",
+                "अगरतला"
+            ],
+            "correct_answer": "गुवाहाटी",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "इस क्षेत्र के लिए पहली बार, भारत के अंडमान और निकोबार कमान द्वारा बिम्सटेक सदस्य देशों को शामिल करने वाले किस सुरक्षा अभ्यास की मेजबानी की गई थी?",
+            "options": [
+                "बंगाल की खाड़ी नौसेना संगोष्ठी",
+                "बिम्सटेक आपदा राहत ड्रिल",
+                "समुद्री सुरक्षा अभ्यास",
+                "कोस्टल शील्ड ऑपरेशन"
+            ],
+            "correct_answer": "समुद्री सुरक्षा अभ्यास",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "कर्मचारी भविष्य निधि संगठन के 74 वें स्थापना दिवस समारोह के दौरान, केंद्रीय मंत्री डॉ. मनसुख मंडाविया द्वारा किस डिजिटल सेवा का शुभारंभ किया गया था?",
+            "options": [
+                "आधार - लिंक्ड इंस्टेंट पेंशन पोर्टल",
+                "व्हाट्सएप के माध्यम से ईपीएफओ सेवाएं",
+                "उमंग - ईपीएफओ एकीकृत चैट बॉट",
+                "DigiLocker डायरेक्ट क्लेम ट्रैकर"
+            ],
+            "correct_answer": "व्हाट्सएप के माध्यम से ईपीएफओ सेवाएं",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "किस पूर्वोत्तर राज्य की राजधानी ने नवंबर 2026 में ब्रिक्स सतत जीवन शैली सप्ताह के शुभारंभ की मेजबानी की?",
+            "options": [
+                "इम्फाल",
+                "अइज़ोल",
+                "कोहिमा",
+                "गुवाहाटी"
+            ],
+            "correct_answer": "इम्फाल",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "असम सरकार ने किस प्रमुख चिकित्सा संस्थान में भारत के तीसरे प्रोटॉन बीम थेरेपी केंद्र की स्थापना के लिए बेल्जियम स्थित IBA के साथ साझेदारी की?",
+            "options": [
+                "तेजपुर कैंसर रिसर्च इंस्टीट्यूट",
+                "गुवाहाटी मेडिकल कॉलेज एंड हॉस्पिटल",
+                "सिलचर मेडिकल कॉलेज",
+                "असम डाउन टाउन मेडिकल हब"
+            ],
+            "correct_answer": "गुवाहाटी मेडिकल कॉलेज एंड हॉस्पिटल",
+            "answer_no": 2
+        },
+        {
+            "question_no": 7,
+            "question": "सेबी के अद्यतन ढांचे के तहत गैर - उच्च जोखिम वाले क्षेत्राधिकार से पात्र श्रेणी I विदेशी पोर्टफोलियो निवेशकों के लिए संशोधित नो योर कस्टमर (केवाईसी) समीक्षा आवधिकता कब तक है?",
+            "options": [
+                "10 साल",
+                "5 साल",
+                "8 वर्ष",
+                "3 वर्ष"
+            ],
+            "correct_answer": "8 वर्ष",
+            "answer_no": 3
+        },
+        {
+            "question_no": 8,
+            "question": "केंद्रीय मंत्री अमित शाह ने किस पुलिस बल के 60 वें स्थापना दिवस समारोह के दौरान प्रतिष्ठित राष्ट्रपति का रंग प्रदान किया?",
+            "options": [
+                "मुंबई क्राइम ब्रांच",
+                "दिल्ली पुलिस,",
+                "चंडीगढ़ पुलिस,",
+                "पुडुचेरी आर्म्ड पुलिस"
+            ],
+            "correct_answer": "चंडीगढ़ पुलिस,",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "नवंबर 2026 में बुल्गारिया की पहली लोकतांत्रिक रूप से चुनी गई महिला राष्ट्रपति बनने के लिए अपवाह चुनाव जीतकर किसने इतिहास रचा?",
+            "options": [
+                "एकातेरिना ज़हरिएवा",
+                "रेडियाना वासिलेवा",
+                "मारिया गेब्रियल",
+                "इलियाना इओटोवा"
+            ],
+            "correct_answer": "इलियाना इओटोवा",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "दिनेश विठ्ठलराव गणवीर ने खान मंत्रालय के तहत किस प्रमुख वैज्ञानिक संस्थान के 55 वें महानिदेशक के रूप में कार्यभार संभाला?",
+            "options": [
+                "सेंट्रल माइनिंग रिसर्च स्टेशन",
+                "नेशनल मिनरल डेवलपमेंट कॉर्पोरेशन लिमिटेड",
+                "सर्वे ऑफ़ इंडिया मैपिंग डिवीजन",
+                "भारतीय भूवैज्ञानिक सर्वेक्षण"
+            ],
+            "correct_answer": "भारतीय भूवैज्ञानिक सर्वेक्षण",
+            "answer_no": 4
+        },
+        {
+            "question_no": 11,
+            "question": "एयर मार्शल मेहताब सिंह देसवाल ने नवंबर 2026 में भारतीय वायु सेना के किस परिचालन विंग की कमान संभाली?",
+            "options": [
+                "ईस्टर्न एयर कमांड",
+                "वेस्टर्न एयर कमांड",
+                "साउथ वेस्टर्न एयर कमांड",
+                "सेंट्रल एयर कमांड"
+            ],
+            "correct_answer": "ईस्टर्न एयर कमांड",
+            "answer_no": 1
+        },
+        {
+            "question_no": 12,
+            "question": "Which country's women's team did India defeat in the final to lift the gold medal at the inaugural Commonwealth Kabaddi Championship?",
+            "options": [
+                "श्रीलंका",
+                "बांग्लादेश",
+                "युगांडा",
+                "मलेशिया"
+            ],
+            "correct_answer": "युगांडा",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "Which Indian grappler made history at the Senior World Wrestling Championships in Astana by securing the country's first-ever women's freestyle gold medal?",
+            "options": [
+                "Sakshi Malik",
+                "Antim Panghal",
+                "Manisha Bhanwala",
+                "Vinesh Phogat"
+            ],
+            "correct_answer": "Manisha Bhanwala",
+            "answer_no": 3
+        },
+        {
+            "question_no": 14,
+            "question": "Which prominent sports personality was nominated alongside Rahul Dravid as an athlete representative to the 2030 Commonwealth Games Organising Committee?",
+            "options": [
+                "Saina Nehwal",
+                "Mirabai Chanu",
+                "P. V. Sindhu",
+                "Mary Kom"
+            ],
+            "correct_answer": "Saina Nehwal",
+            "answer_no": 1
+        },
+        {
+            "question_no": 15,
+            "question": "The late veteran Dogri writer Ved Rahi, who passed away at 93, won the prestigious Sahitya Akademi Award in 1983 for which literary work?",
+            "options": [
+                "Nanga Bale",
+                "Phull Bina Patte",
+                "Danna Paani",
+                "Aale"
+            ],
+            "correct_answer": "Aale",
+            "answer_no": 4
+        },
+        {
+            "question_no": 16,
+            "question": "When is the United Nations International Day to End Impunity for Crimes against Journalists observed annually across the globe?",
+            "options": [
+                "26 November",
+                "14 November",
+                "24 October",
+                "2 November"
+            ],
+            "correct_answer": "2 November",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "Digital Bharat Nidhi signed an agreement with which state government to expand high-speed rural broadband connectivity under the Amended BharatNet Program?",
+            "options": [
+                "Kerala",
+                "Tamil Nadu",
+                "Andhra Pradesh",
+                "Karnataka"
+            ],
+            "correct_answer": "Tamil Nadu",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "Where was the 6th BIMSTEC Summit held in April 2025, which laid the groundwork for the recent maritime security exercises?",
+            "options": [
+                "Bangladesh",
+                "Thailand",
+                "Myanmar",
+                "India"
+            ],
+            "correct_answer": "Thailand",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "Which Indian city is slated to host the prestigious 2030 Commonwealth Games as part of the country's growing sports diplomacy?",
+            "options": [
+                "Bengaluru",
+                "Ahmedabad",
+                "New Delhi",
+                "Hyderabad"
+            ],
+            "correct_answer": "Ahmedabad",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "Under whose aegis were the Senior World Wrestling Championships 2026 conducted in Astana, Kazakhstan?",
+            "options": [
+                "International Olympic Committee",
+                "Commonwealth Wrestling Board",
+                "Global Wrestling Federation",
+                "United World Wrestling"
+            ],
+            "correct_answer": "United World Wrestling",
+            "answer_no": 4
+        }
+    ]
+}
