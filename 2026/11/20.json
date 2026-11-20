@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "20-11-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "किस मंत्रालय ने वर्ष 2026 के अंत में VB-G RAM G अधिनियम के तहत लोकपालों और अपीलीय प्राधिकरणों के लिए संचालन संबंधी दिशानिर्देश जारी किए?",
+            "options": [
+                "ग्रामीण विकास मंत्रालय",
+                "4. कृषि और किसान कल्याण मंत्रालय।",
+                "पंचायती राज मंत्रालय",
+                "सामाजिक न्याय और अधिकारिता मंत्रालय"
+            ],
+            "correct_answer": "ग्रामीण विकास मंत्रालय",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "हाल ही में नई दिल्ली में आयोजित DHR-ICMR स्वास्थ्य अनुसंधान उत्कृष्टता शिखर सम्मेलन के दौरान, शीर्ष अनुसंधान निकाय ने कितने सफल प्रौद्योगिकी हस्तांतरण सौदों को पार करके एक बड़ी उपलब्धि हासिल की?",
+            "options": [
+                "75",
+                "50",
+                "100",
+                "150"
+            ],
+            "correct_answer": "100",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "भारत के रक्षा मंत्रालय ने किस पुरानी पॉइंट डिफेंस मिसाइल सिस्टम को भारतीय नौसेना के युद्धपोतों पर अपग्रेड करने के लिए इज़राइल एयरोस्पेस इंडस्ट्रीज़ के साथ करोड़ों रुपये का अनुबंध किया है?",
+            "options": [
+                "बराक पॉइंट डिफेंस मिसाइल सिस्टम",
+                "स्पाइडर वायु रक्षा प्रणाली",
+                "आकाश हथियार प्रणाली",
+                "LRSAM सतह से हवा में मार करने वाली मिसाइल प्रणाली"
+            ],
+            "correct_answer": "बराक पॉइंट डिफेंस मिसाइल सिस्टम",
+            "answer_no": 1
+        },
+        {
+            "question_no": 4,
+            "question": "किस राज्य में किसान कल्याण संबंधी उपायों की शुरुआत करने के लिए केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने 'खेत बचाओ अभियान' में हिस्सा लिया?",
+            "options": [
+                "Punjab",
+                "मध्य प्रदेश",
+                "हरियाणा",
+                "उत्तर प्रदेश"
+            ],
+            "correct_answer": "Punjab",
+            "answer_no": 1
+        },
+        {
+            "question_no": 5,
+            "question": "भारतीय वायु सेना ने किस स्थान पर बहुराष्ट्रीय मानवीय सहायता और आपदा राहत अभ्यास 'सहायता सेतु 2026' का आयोजन किया?",
+            "options": [
+                "हिंडन वायु सेना स्टेशन, उत्तर प्रदेश",
+                "जामनगर वायु सेना स्टेशन, गुजरात",
+                "सुलूर वायु सेना स्टेशन, तमिलनाडु",
+                "जोधपुर वायु सेना स्टेशन, राजस्थान"
+            ],
+            "correct_answer": "जामनगर वायु सेना स्टेशन, गुजरात",
+            "answer_no": 2
+        },
+        {
+            "question_no": 6,
+            "question": "किस प्रतिष्ठित प्रकाशन गृह ने AI के बढ़ते प्रभाव के बीच प्रामाणिकता पर ज़ोर देने के लिए 'मानव' को अपना 'वर्ष 2026 का शब्द' चुना है?",
+            "options": [
+                "कॉलिन्स डिक्शनरी",
+                "मेरियम-वेबस्टर",
+                "कैम्ब्रिज डिक्शनरी",
+                "ऑक्सफोर्ड यूनिवर्सिटी प्रेस"
+            ],
+            "correct_answer": "कैम्ब्रिज डिक्शनरी",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "कौन-सा देश आधिकारिक रूप से आसियान का 11वाँ सदस्य राज्य बन गया, जिसके कारण 49वें शिखर सम्मेलन के दौरान इस संगठन के प्रतीक चिह्न और झंडे को अपडेट करना पड़ा?",
+            "options": [
+                "पापुआ न्यू गिनी",
+                "तिमोर- लेस्ते",
+                "पलाऊ",
+                "फिजी"
+            ],
+            "correct_answer": "तिमोर- लेस्ते",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "बांग्लादेश ने अपने पहले परमाणु ऊर्जा संयंत्र को परीक्षण के आधार पर राष्ट्रीय ग्रिड से जोड़ा। इस तरह वह दुनिया का कौन-सा परमाणु ऊर्जा राष्ट्र बन गया?",
+            "options": [
+                "30वाँ",
+                "33वाँ",
+                "25वाँ",
+                "40वाँ"
+            ],
+            "correct_answer": "33वाँ",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "Which city's financial district was recognised as India's first MCR2030 Resilience Hub by the UNDRR in late 2026?",
+            "options": [
+                "डीएलएफ़ साइबर सिटी, गुरुग्राम",
+                "Bandra Kurla Complex, Mumbai",
+                "Naya Raipur, Chhattisgarh",
+                "GIFT City, Gandhinagar"
+            ],
+            "correct_answer": "GIFT City, Gandhinagar",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "SBI Funds Management partnered with which public sector bank to distribute its mutual fund schemes through a massive branch network rollout?",
+            "options": [
+                "Canara Bank",
+                "Union Bank of India",
+                "Bank of Baroda",
+                "Punjab National Bank"
+            ],
+            "correct_answer": "Punjab National Bank",
+            "answer_no": 4
+        },
+        {
+            "question_no": 11,
+            "question": "E-commerce major Amazon committed an additional USD 7 billion by 2030 towards renewable energy projects in India, bringing its cumulative investment commitment to what total amount?",
+            "options": [
+                "USD 15 billion",
+                "USD 9 billion",
+                "USD 20 billion",
+                "USD 11 billion"
+            ],
+            "correct_answer": "USD 11 billion",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "State-run NALCO signed an MoU with Russia's RUSAL during an ICSOBA conference to extract which critical mineral from red mud waste?",
+            "options": [
+                "Lithium",
+                "Cobalt",
+                "Scandium",
+                "Titanium"
+            ],
+            "correct_answer": "Scandium",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "Who was appointed as the new Managing Director and Chief Executive Officer of Karnataka Bank in November 2026?",
+            "options": [
+                "Ashok Chandra",
+                "Udaya Kumar Hebbar",
+                "Raghavendra Srinivas Bhat",
+                "Biji Sreekrishnavilas Sankaranarayanan"
+            ],
+            "correct_answer": "Udaya Kumar Hebbar",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "The USISPF Global Board appointed which former senior bureaucrat and founding Mission Director of the Jal Jeevan Mission as its Senior Advisor?",
+            "options": [
+                "Rajesh Kumar Singh",
+                "Amitabh Kant",
+                "Bharat Lal",
+                "Deepak Gupta"
+            ],
+            "correct_answer": "Bharat Lal",
+            "answer_no": 3
+        },
+        {
+            "question_no": 15,
+            "question": "The Ministry of Youth Affairs and Sports constituted a 14-member committee led by whom to build a sustainable sports league ecosystem in India?",
+            "options": [
+                "Jagat Prakash Nadda",
+                "Rajesh Kumar Singh",
+                "Shivraj Singh Chouhan",
+                "Kunal"
+            ],
+            "correct_answer": "Kunal",
+            "answer_no": 4
+        },
+        {
+            "question_no": 16,
+            "question": "Spanish football star Juan Mata announced his retirement from professional playing at age 38, capping off a career where he notably won the Champions League with which English club?",
+            "options": [
+                "Liverpool",
+                "Arsenal",
+                "Chelsea",
+                "Manchester United"
+            ],
+            "correct_answer": "Chelsea",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "What is the theme for National Naturopathy Day 2026, observed annually across India on November 18?",
+            "options": [
+                "Prakritik Chikitsa, Swasth Bharat",
+                "Nature Cure for Sustainable Living",
+                "One Health, One Earth",
+                "Holistic Health through AYUSH"
+            ],
+            "correct_answer": "Prakritik Chikitsa, Swasth Bharat",
+            "answer_no": 1
+        },
+        {
+            "question_no": 18,
+            "question": "World AMR Awareness Week is annually observed across the globe during which dates in November?",
+            "options": [
+                "10–16 November",
+                "24–30 November",
+                "15–21 November",
+                "18–24 November"
+            ],
+            "correct_answer": "18–24 November",
+            "answer_no": 4
+        },
+        {
+            "question_no": 19,
+            "question": "Which state's Economic Development Board signed an agreement with GAIL and KRIBHCO to set up a massive urea manufacturing facility at Mulapeta?",
+            "options": [
+                "Andhra Pradesh",
+                "Odisha",
+                "Gujarat",
+                "Tamil Nadu"
+            ],
+            "correct_answer": "Andhra Pradesh",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "The UN General Assembly proclaimed November 18 as the World Day for the Prevention of and Healing from Child Sexual Exploitation, Abuse and Violence following a resolution sponsored by which African nations?",
+            "options": [
+                "Kenya and South Africa",
+                "Sierra Leone and Nigeria",
+                "Ethiopia and Egypt",
+                "Ghana and Rwanda"
+            ],
+            "correct_answer": "Sierra Leone and Nigeria",
+            "answer_no": 2
+        }
+    ]
+}
